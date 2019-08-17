@@ -15,6 +15,6 @@ export class Channel {
 
     this.name = defaults.name;
     this.url = defaults.url;
-    this.articles = defaults.articles.map((a: any) => a);
+    this.articles = defaults.articles;
   }
 }

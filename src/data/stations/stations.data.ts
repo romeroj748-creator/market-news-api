@@ -1,10 +1,13 @@
 import * as Parser from "rss-parser";
+import { Article } from "src/models/article/article.model";
 import { Channel } from "./../../models/channel/channel.model";
 import { Station } from "./../../models/station/station.model";
+import { FileWriter } from "./filewriter";
 import cnbc = require("./json/cnbc.json");
 import marketwatch = require("./json/marketwatch.json");
 import wallstreetjournal = require("./json/wallstreetjournal.json");
-import { Article } from "src/models/article/article.model";
+
+const fw = new FileWriter();
 
 export class Stations {
   private stations: Array<Station>;
@@ -30,6 +33,11 @@ export class Stations {
         });
       });
 
+      Promise.all(loadChannelsArr).then(channels => {
+        // console.log(JSON.stringify(channels, null, 3));
+        fw.writeObjectToFile(channels, "./channels.txt");
+      });
+
       // console.log(JSON.stringify(stations, null, 3));
     });
   };
@@ -53,7 +61,7 @@ export class Stations {
     return new Promise<Array<Channel>>((resolve, reject) => {
       const ch = c.map((cha: Channel) => {
         return this.loadArticles(cha).then(articles => {
-          console.log("Loading " + cha.name);
+          console.log(`Loading ${cha.name}`);
           return new Channel({
             name: cha.name,
             url: cha.url,

@@ -1,5 +1,5 @@
-import { Stations } from "./../data/stations/stations.data";
 import { Feed } from "src/models/feed/feed.model";
+import { Stations } from "./../data/stations/stations.data";
 
 export class MarketNews {
   private stations: Stations;
