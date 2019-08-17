@@ -2,7 +2,7 @@ import * as Parser from "rss-parser";
 import { Article } from "src/models/article/article.model";
 import { Channel } from "./../../models/channel/channel.model";
 import { Station } from "./../../models/station/station.model";
-import { FileWriter } from "./filewriter";
+import { FileWriter } from "./../../tools/filewriter";
 import cnbc = require("./json/cnbc.json");
 import marketwatch = require("./json/marketwatch.json");
 import wallstreetjournal = require("./json/wallstreetjournal.json");
@@ -17,28 +17,35 @@ export class Stations {
   }
 
   public getStations(): Array<Station> {
-    this.populateData();
+    this.populateData().then(stations => {
+      this.stations = stations;
+    });
+
     return this.stations;
   }
 
   public reloadStations(): void {
-    this.populateData();
+    this.populateData().then(stations => {
+      this.stations = stations;
+    });
   }
 
-  private populateData = (): void => {
-    this.loadStations().then(stations => {
-      const loadChannelsArr = stations.map(s => {
-        return this.loadChannels(s.channels).then(channels => {
-          return channels;
+  private populateData = async (): Promise<Array<Station>> => {
+    return new Promise<Array<Station>>((resolve, reject) => {
+      this.loadStations().then(stations => {
+        const loadChannelsArr = stations.map(async (s: Station) => {
+          return this.loadChannels(s.channels).then(channels => {
+            return channels;
+          });
+        });
+        Promise.all(loadChannelsArr).then(channels => {
+          for (let i = 0; i < stations.length; i++) {
+            stations[i].channels = channels[i];
+          }
+          fw.writeObjectToFile(stations, "./src/data/stations/stations.txt");
+          resolve(stations);
         });
       });
-
-      Promise.all(loadChannelsArr).then(channels => {
-        // console.log(JSON.stringify(channels, null, 3));
-        fw.writeObjectToFile(channels, "./channels.txt");
-      });
-
-      // console.log(JSON.stringify(stations, null, 3));
     });
   };
 
@@ -56,12 +63,13 @@ export class Stations {
     });
   };
 
-  // Take in an array of channels and returnt the same array except with Articles Array
+  // Take in an array of channels and returns the same array except with Articles Array
   private loadChannels = async (c: Array<Channel>): Promise<Array<Channel>> => {
     return new Promise<Array<Channel>>((resolve, reject) => {
-      const ch = c.map((cha: Channel) => {
+      const ch = c.map(async (cha: Channel) => {
         return this.loadArticles(cha).then(articles => {
           console.log(`Loading ${cha.name}`);
+
           return new Channel({
             name: cha.name,
             url: cha.url,
@@ -69,13 +77,13 @@ export class Stations {
           });
         });
       });
-
       Promise.all(ch).then(channels => {
         resolve(channels);
       });
     });
   };
 
+  // Takes in a channel and returns an article
   private loadArticles = async (channel: Channel): Promise<any> => {
     return new Promise((resolve, reject) => {
       const parser = new Parser();
