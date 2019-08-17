@@ -1,0 +1,57 @@
+{
+  "name": "Marketwatch",
+  "channels": [
+    {
+      "title": "Top Stories",
+      "url": "http://www.marketwatch.com/rss/topstories"
+    },
+    {
+      "title": "Real-time headlines",
+      "url": "http://www.marketwatch.com/rss/realtimeheadlines"
+    },
+    {
+      "title": "MarketPulse",
+      "url": "http://www.marketwatch.com/rss/marketpulse"
+    },
+    {
+      "title": "Breaking News Bulletins",
+      "url": "http://feeds.marketwatch.com/marketwatch/bulletins"
+    },
+    {
+      "title": "Personal Finance Stories/Columns",
+      "url": "http://www.marketwatch.com/rss/pf"
+    },
+    {
+      "title": "Stocks To Watch",
+      "url": "http://www.marketwatch.com/rss/StockstoWatch"
+    },
+    {
+      "title": "Internet Stories/Columns",
+      "url": "http://www.marketwatch.com/rss/internet"
+    },
+    {
+      "title": "Mutual Funds",
+      "url": "http://www.marketwatch.com/rss/mutualfunds"
+    },
+    {
+      "title": "Software Stories/Columns",
+      "url": "http://www.marketwatch.com/rss/software"
+    },
+    {
+      "title": "Financial Services Industry",
+      "url": "http://www.marketwatch.com/rss/financial"
+    },
+    {
+      "title": "Commentary",
+      "url": "http://www.marketwatch.com/rss/commentary"
+    },
+    {
+      "title": "Newsletters & Research",
+      "url": "http://www.marketwatch.com/rss/newslettersandresearch"
+    },
+    {
+      "title": "Automotive Reviews",
+      "url": "http://www.marketwatch.com/rss/Autoreviews"
+    }
+  ]
+}

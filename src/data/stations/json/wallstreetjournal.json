@@ -1,0 +1,29 @@
+{
+  "name": "Wallstreet Journal",
+  "channels": [
+    {
+      "title": "Opinion",
+      "url": "https://feeds.a.dj.com/rss/RSSOpinion.xml"
+    },
+    {
+      "title": "World News",
+      "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    },
+    {
+      "title": "US Business",
+      "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"
+    },
+    {
+      "title": "Market News",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+    },
+    {
+      "title": "Technology: What's News",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml"
+    },
+    {
+      "title": "Lifestyle",
+      "url": "https://feeds.a.dj.com/rss/RSSLifestyle.xml"
+    }
+  ]
+}
