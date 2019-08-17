@@ -12,6 +12,6 @@ export class Station {
     };
 
     this.name = defaults.name;
-    this.channels = defaults.channel.map((c: Channel) => c);
+    this.channels = defaults.channels.map((c: Channel) => c);
   }
 }

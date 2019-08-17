@@ -9,8 +9,8 @@ export class MarketNews {
     this.stations = new Stations();
   }
 
-  public testStations(): void {
+  public listStations(): void {
     const stations = this.stations.getStations();
-    console.log(JSON.stringify(stations));
+    console.log(JSON.stringify(stations, null, 3));
   }
 }

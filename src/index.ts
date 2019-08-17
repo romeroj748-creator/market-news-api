@@ -1,11 +1,8 @@
-import * as Parser from "rss-parser";
 import { MarketNews } from "./api/marketnews.api";
-
-const parser = new Parser();
 
 const marketNews = new MarketNews();
 
-marketNews.testStations();
+marketNews.listStations();
 
 // const channels = {
 //   cnbc: [],

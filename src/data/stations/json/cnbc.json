@@ -2,191 +2,191 @@
   "name": "CNBC",
   "channels": [
     {
-      "title": "Top News",
+      "name": "Top News",
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
     },
     {
-      "title": "World News",
+      "name": "World News",
       "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html"
     },
     {
-      "title": "US News",
+      "name": "US News",
       "url": "https://www.cnbc.com/id/15837362/device/rss/rss.html"
     },
     {
-      "title": "Asia News",
+      "name": "Asia News",
       "url": "https://www.cnbc.com/id/19832390/device/rss/rss.html"
     },
     {
-      "title": "Europe News",
+      "name": "Europe News",
       "url": "https://www.cnbc.com/id/19794221/device/rss/rss.html"
     },
     {
-      "title": "Business",
+      "name": "Business",
       "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html"
     },
     {
-      "title": "Earnings",
+      "name": "Earnings",
       "url": "https://www.cnbc.com/id/15839135/device/rss/rss.html"
     },
     {
-      "title": "Commentary",
+      "name": "Commentary",
       "url": "https://www.cnbc.com/id/100370673/device/rss/rss.html"
     },
     {
-      "title": "Economy",
+      "name": "Economy",
       "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html"
     },
     {
-      "title": "Finance",
+      "name": "Finance",
       "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"
     },
     {
-      "title": "Technology",
+      "name": "Technology",
       "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html"
     },
     {
-      "title": "Politics",
+      "name": "Politics",
       "url": "https://www.cnbc.com/id/10000113/device/rss/rss.html"
     },
     {
-      "title": "Healthcare",
+      "name": "Healthcare",
       "url": "https://www.cnbc.com/id/10000108/device/rss/rss.html"
     },
     {
-      "title": "Real Estate",
+      "name": "Real Estate",
       "url": "https://www.cnbc.com/id/10000115/device/rss/rss.html"
     },
     {
-      "title": "Wealth",
+      "name": "Wealth",
       "url": "https://www.cnbc.com/id/10001054/device/rss/rss.html"
     },
     {
-      "title": "Autos",
+      "name": "Autos",
       "url": "https://www.cnbc.com/id/10000101/device/rss/rss.html"
     },
     {
-      "title": "Energy",
+      "name": "Energy",
       "url": "https://www.cnbc.com/id/19836768/device/rss/rss.html"
     },
     {
-      "title": "Media",
+      "name": "Media",
       "url": "https://www.cnbc.com/id/10000110/device/rss/rss.html"
     },
     {
-      "title": "Retail",
+      "name": "Retail",
       "url": "https://www.cnbc.com/id/10000116/device/rss/rss.html"
     },
     {
-      "title": "Travel",
+      "name": "Travel",
       "url": "https://www.cnbc.com/id/10000739/device/rss/rss.html"
     },
     {
-      "title": "Small Business",
+      "name": "Small Business",
       "url": "https://www.cnbc.com/id/44877279/device/rss/rss.html"
     },
     {
-      "title": "Investing",
+      "name": "Investing",
       "url": "https://www.cnbc.com/id/15839069/device/rss/rss.html"
     },
     {
-      "title": "Financial Advisors",
+      "name": "Financial Advisors",
       "url": "https://www.cnbc.com/id/100646281/device/rss/rss.html"
     },
     {
-      "title": "Personal Finance",
+      "name": "Personal Finance",
       "url": "https://www.cnbc.com/id/21324812/device/rss/rss.html"
     },
     {
-      "title": "Charting Asia",
+      "name": "Charting Asia",
       "url": "https://www.cnbc.com/id/23103686/device/rss/rss.html"
     },
     {
-      "title": "Funny Business",
+      "name": "Funny Business",
       "url": "https://www.cnbc.com/id/17646093/device/rss/rss.html"
     },
     {
-      "title": "Market Insider",
+      "name": "Market Insider",
       "url": "https://www.cnbc.com/id/20409666/device/rss/rss.html"
     },
     {
-      "title": "Net Net",
+      "name": "Net Net",
       "url": "https://www.cnbc.com/id/38818154/device/rss/rss.html"
     },
     {
-      "title": "Trader Talk",
+      "name": "Trader Talk",
       "url": "https://www.cnbc.com/id/20398120/device/rss/rss.html"
     },
     {
-      "title": "Buffett Watch",
+      "name": "Buffett Watch",
       "url": "https://www.cnbc.com/id/19206666/device/rss/rss.html"
     },
     {
-      "title": "Top Video",
+      "name": "Top Video",
       "url": "https://www.cnbc.com/id/15839263/device/rss/rss.html"
     },
     {
-      "title": "Digital Workshop",
+      "name": "Digital Workshop",
       "url": "https://www.cnbc.com/id/100616801/device/rss/rss.html"
     },
     {
-      "title": "Latest Video",
+      "name": "Latest Video",
       "url": "https://www.cnbc.com/id/100004038/device/rss/rss.html"
     },
     {
-      "title": "Ceo Inteviews",
+      "name": "Ceo Inteviews",
       "url": "https://www.cnbc.com/id/100004032/device/rss/rss.html"
     },
     {
-      "title": "Analyst Interviews",
+      "name": "Analyst Interviews",
       "url": "https://www.cnbc.com/id/100004033/device/rss/rss.html"
     },
     {
-      "title": "Must Watch",
+      "name": "Must Watch",
       "url": "https://www.cnbc.com/id/101014894/device/rss/rss.html"
     },
     {
-      "title": "Squawk Box",
+      "name": "Squawk Box",
       "url": "https://www.cnbc.com/id/15838368/device/rss/rss.html"
     },
     {
-      "title": "Squawk On The Street",
+      "name": "Squawk On The Street",
       "url": "https://www.cnbc.com/id/15838381/device/rss/rss.html"
     },
     {
-      "title": "Power Lunch",
+      "name": "Power Lunch",
       "url": "https://www.cnbc.com/id/15838342/device/rss/rss.html"
     },
     {
-      "title": "Street Signs",
+      "name": "Street Signs",
       "url": "https://www.cnbc.com/id/15838408/device/rss/rss.html"
     },
     {
-      "title": "Options Action",
+      "name": "Options Action",
       "url": "https://www.cnbc.com/id/28282083/device/rss/rss.html"
     },
     {
-      "title": "Closing Bell",
+      "name": "Closing Bell",
       "url": "https://www.cnbc.com/id/15838421/device/rss/rss.html"
     },
     {
-      "title": "Fast Money",
+      "name": "Fast Money",
       "url": "https://www.cnbc.com/id/15838499/device/rss/rss.html"
     },
     {
-      "title": "Mad Money",
+      "name": "Mad Money",
       "url": "https://www.cnbc.com/id/15838459/device/rss/rss.html"
     },
     {
-      "title": "Kudlow Report",
+      "name": "Kudlow Report",
       "url": "https://www.cnbc.com/id/15838446/device/rss/rss.html"
     },
     {
-      "title": "Futures Now",
+      "name": "Futures Now",
       "url": "https://www.cnbc.com/id/48227449/device/rss/rss.html"
     },
     {
-      "title": "Suze Orman",
+      "name": "Suze Orman",
       "url": "https://www.cnbc.com/id/15838523/device/rss/rss.html"
     }
   ]
