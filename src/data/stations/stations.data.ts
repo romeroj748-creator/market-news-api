@@ -5,6 +5,7 @@ import { Station } from "./../../models/station/station.model";
 import { FileWriter } from "./../../tools/filewriter";
 import cnbc = require("./json/cnbc.json");
 import marketwatch = require("./json/marketwatch.json");
+import nasdaq = require("./json/nasdaq.json");
 import wallstreetjournal = require("./json/wallstreetjournal.json");
 
 const fw = new FileWriter();
@@ -52,7 +53,7 @@ export class Stations {
   // Loads all the stations stored in Json files // Working
   private loadStations = async (): Promise<Array<Station>> => {
     return new Promise<Array<Station>>((resolve, reject) => {
-      const data = [cnbc, marketwatch, wallstreetjournal];
+      const data = [cnbc, marketwatch, wallstreetjournal, nasdaq];
       const stations = data.map(s => {
         return new Station({
           name: s.name,

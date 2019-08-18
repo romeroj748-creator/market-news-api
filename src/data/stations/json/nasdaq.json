@@ -1,0 +1,105 @@
+{
+  "name": "Nasdaq",
+  "channels": [
+    {
+      "name": "Basics",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Basics"
+    },
+    {
+      "name": "Bonds",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Bonds"
+    },
+    {
+      "name": "Commodities",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Commodities"
+    },
+    {
+      "name": "ETFs",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=ETFs"
+    },
+    {
+      "name": "Forex and Currencies",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Forex+and+Currencies"
+    },
+    {
+      "name": "Futures",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Futures"
+    },
+    {
+      "name": "International",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=International"
+    },
+    {
+      "name": "Investing Ideas",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Investing+Ideas"
+    },
+    {
+      "name": "Mutual Funds",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Mutual+Funds"
+    },
+    {
+      "name": "Options",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Options"
+    },
+    {
+      "name": "Stocks",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Stocks"
+    },
+    {
+      "name": "Banking and Loans",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Banking+and+Loans"
+    },
+    {
+      "name": "College",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=College"
+    },
+    {
+      "name": "Credit and Debt",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Credit+and+Debt"
+    },
+    {
+      "name": "Insurance",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Insurance"
+    },
+    {
+      "name": "Real Estate",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Real+Estate"
+    },
+    {
+      "name": "Retirement",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Retirement"
+    },
+    {
+      "name": "Small Business",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Small+Business"
+    },
+    {
+      "name": "Taxes",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Taxes"
+    },
+    {
+      "name": "Business",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Business"
+    },
+    {
+      "name": "Economy",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Economy"
+    },
+    {
+      "name": "Technology",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Technology"
+    },
+    {
+      "name": "Travel and Lifestyle",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=Travel+and+Lifestyle"
+    },
+    {
+      "name": "US Markets",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=US+Markets"
+    },
+    {
+      "name": "International",
+      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=International"
+    }
+  ]
+}
