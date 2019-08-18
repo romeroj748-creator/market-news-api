@@ -35,7 +35,7 @@ export class Stations {
     return new Promise<Array<Station>>((resolve, reject) => {
       this.loadStations().then(stations => {
         const loadChannelsArr = stations.map(async (s: Station) => {
-          return this.loadChannels(s.channels).then(channels => {
+          return this.loadChannels(s).then(channels => {
             return channels;
           });
         });
@@ -65,14 +65,15 @@ export class Stations {
   };
 
   // Take in an array of channels and returns the same array except with Articles Array
-  private loadChannels = async (c: Array<Channel>): Promise<Array<Channel>> => {
+  private loadChannels = async (s: Station): Promise<Array<Channel>> => {
     return new Promise<Array<Channel>>((resolve, reject) => {
-      const ch = c.map(async (cha: Channel) => {
+      const ch = s.channels.map(async (cha: Channel) => {
         return this.loadArticles(cha).then(articles => {
           console.log(`Loading ${cha.name}`);
 
           return new Channel({
             name: cha.name,
+            station: s.name,
             url: cha.url,
             articles
           });
