@@ -3,18 +3,23 @@ import { Article } from "src/models/article/article.model";
 import { Channel } from "./../../models/channel/channel.model";
 import { Station } from "./../../models/station/station.model";
 import { FileWriter } from "./../../tools/filewriter";
+import { ArticleParser } from "./articles.data";
 import cnbc = require("./json/cnbc.json");
 import marketwatch = require("./json/marketwatch.json");
 import nasdaq = require("./json/nasdaq.json");
 import wallstreetjournal = require("./json/wallstreetjournal.json");
 
-const fw = new FileWriter();
-
 export class Stations {
   private stations: Array<Station>;
+  private parser: Parser;
+  private articleParser: ArticleParser;
+  private fw: FileWriter;
 
   constructor() {
     this.stations = [];
+    this.fw = new FileWriter();
+    this.parser = new Parser();
+    this.articleParser = new ArticleParser();
   }
 
   public getStations(): Array<Station> {
@@ -43,7 +48,10 @@ export class Stations {
           for (let i = 0; i < stations.length; i++) {
             stations[i].channels = channels[i];
           }
-          fw.writeObjectToFile(stations, "./src/data/stations/stations.txt");
+          this.fw.writeObjectToFile(
+            stations,
+            "./src/data/stations/stations.txt"
+          );
           resolve(stations);
         });
       });
@@ -53,7 +61,8 @@ export class Stations {
   // Loads all the stations stored in Json files // Working
   private loadStations = async (): Promise<Array<Station>> => {
     return new Promise<Array<Station>>((resolve, reject) => {
-      const data = [cnbc, marketwatch, wallstreetjournal, nasdaq];
+      // const data = [cnbc, marketwatch, wallstreetjournal, nasdaq];
+      const data = [cnbc];
       const stations = data.map(s => {
         return new Station({
           name: s.name,
@@ -68,7 +77,7 @@ export class Stations {
   private loadChannels = async (s: Station): Promise<Array<Channel>> => {
     return new Promise<Array<Channel>>((resolve, reject) => {
       const ch = s.channels.map(async (cha: Channel) => {
-        return this.loadArticles(cha).then(articles => {
+        return this.loadArticles(cha, s).then(articles => {
           console.log(`Loading ${cha.name}`);
 
           return new Channel({
@@ -86,11 +95,22 @@ export class Stations {
   };
 
   // Takes in a channel and returns an article
-  private loadArticles = async (channel: Channel): Promise<any> => {
+  private loadArticles = async (
+    channel: Channel,
+    station: Station
+  ): Promise<any> => {
     return new Promise((resolve, reject) => {
-      const parser = new Parser();
-      parser.parseURL(channel.url).then(articles => {
-        resolve(articles);
+      this.parser.parseURL(channel.url).then(articles => {
+        // Parse articles object into array of articles
+        this.articleParser
+          .parseArticles(articles, station.name)
+          .then(parsedArticles => {
+            console.log(parsedArticles, null, 3);
+            resolve(parsedArticles);
+          })
+          .catch(error => {
+            console.log(error);
+          });
       });
     });
   };

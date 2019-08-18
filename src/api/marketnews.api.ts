@@ -11,6 +11,5 @@ export class MarketNews {
 
   public listStations(): void {
     const stations = this.stations.getStations();
-    console.log(JSON.stringify(stations, null, 3));
   }
 }

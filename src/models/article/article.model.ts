@@ -1,21 +1,24 @@
 export class Article {
   public title: string;
-  public description: string;
+  public content: string;
   public source: string;
   public date: Date;
+  public link: string;
 
   constructor(data?: any) {
     const defaults = {
       title: "",
-      description: "",
+      content: "",
       source: "",
       date: "",
+      link: "",
       ...data
     };
 
     this.title = defaults.title;
-    this.description = defaults.description;
+    this.content = defaults.content;
     this.source = defaults.source;
     this.date = defaults.date;
+    this.link = defaults.link;
   }
 }
