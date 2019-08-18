@@ -70,7 +70,16 @@ export class ArticleParser {
     station: string
   ): Promise<Array<Article>> => {
     return new Promise<Array<Article>>((resolve, reject) => {
-      resolve([]);
+      const articleArr = articles.items.map((a: any) => {
+        return new Article({
+          title: a.title,
+          content: a.content,
+          date: new Date(a.isoDate),
+          link: a.link,
+          source: station
+        });
+      });
+      resolve(articleArr);
     });
   };
 

@@ -62,7 +62,7 @@ export class Stations {
   private loadStations = async (): Promise<Array<Station>> => {
     return new Promise<Array<Station>>((resolve, reject) => {
       // const data = [cnbc, marketwatch, wallstreetjournal, nasdaq];
-      const data = [cnbc, marketwatch, wallstreetjournal];
+      const data = [cnbc, marketwatch, wallstreetjournal, nasdaq];
       const stations = data.map(s => {
         return new Station({
           name: s.name,
