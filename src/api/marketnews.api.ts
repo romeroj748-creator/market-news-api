@@ -12,4 +12,8 @@ export class MarketNews {
   public listStations(): void {
     const stations = this.stations.getStations();
   }
+
+  public scanStations(): void {
+    setInterval(() => {}, 10000);
+  }
 }

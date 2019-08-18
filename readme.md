@@ -11,8 +11,10 @@ Market News API is an API that gives you access to thousands of news articles ab
 
 ## Todo
 
-- Model Feed Objects
-- Add more sources
+- ~~Model Feed Objects~~
+- ~~Add more sources~~
+- Add auto run
+- Create Different Feed Types
 - Add Express Server
 - Publish API
 
@@ -41,3 +43,22 @@ Feeds are custom made by Market News API. They are categorized groups off channe
 Ideally all the data will be collected by an object called `MarketNews`. `MarketNews` has the role of scanning all the rss feeds and saving any new articles to our main database. We will also have an observable feed that will update every time a new article is found. Individual feeds will also have their own observable feed that users can subscribe to through the use of websockets.
 
 `MarketNews` has a method called `scanStations()` which is a `Promise<Station>`. This will call a series of other promises that will ultimately help to return a global `Stations` object. This object will be used to update the database and alert feeds of any new additions to the database. `scanStations()` will be run every `1 minute(s)` on the primary server to ensure that news alerts are sent out as quickly as possible while being conservative of server computation time.
+
+## Auto Run
+
+## Types of Feeds
+
+- Top News
+- US News
+- Europe News
+- Asia News
+- Economy
+- Business
+- Politics
+- Investment
+- Financial
+- Earnings
+- Stock
+- Bonds
+- Futures
+- Commodities
