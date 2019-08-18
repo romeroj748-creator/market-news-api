@@ -12,11 +12,17 @@ export class ArticleParser {
             resolve(articlesArr);
           });
         case "Marketwatch":
-          return this.parseMw(articles, station);
+          return this.parseMw(articles, station).then(articlesArr => {
+            resolve(articlesArr);
+          });
         case "Nasdaq":
-          return this.parseNasdaq(articles, station);
+          return this.parseNasdaq(articles, station).then(articlesArr => {
+            resolve(articlesArr);
+          });
         case "Wallstreet Journal":
-          return this.parseWsj(articles, station);
+          return this.parseWsj(articles, station).then(articlesArr => {
+            resolve(articlesArr);
+          });
         default:
           reject({ message: "Error reading station name " });
       }
@@ -46,7 +52,16 @@ export class ArticleParser {
     station: string
   ): Promise<Array<Article>> => {
     return new Promise<Array<Article>>((resolve, reject) => {
-      resolve([]);
+      const articleArr = articles.items.map((a: any) => {
+        return new Article({
+          title: a.title,
+          content: a.content,
+          date: new Date(a.isoDate),
+          link: a.link,
+          source: station
+        });
+      });
+      resolve(articleArr);
     });
   };
 
@@ -64,7 +79,16 @@ export class ArticleParser {
     station: string
   ): Promise<Array<Article>> => {
     return new Promise<Array<Article>>((resolve, reject) => {
-      resolve([]);
+      const articleArr = articles.items.map((a: any) => {
+        return new Article({
+          title: a.title,
+          content: a.content,
+          date: new Date(a.isoDate),
+          link: a.link,
+          source: station
+        });
+      });
+      resolve(articleArr);
     });
   };
 }

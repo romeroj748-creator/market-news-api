@@ -7,6 +7,7 @@ Market News API is an API that gives you access to thousands of news articles ab
 - CNBC
 - Marketwatch
 - Wallstreet Journal
+- Nasdaq
 
 ## Todo
 
@@ -29,7 +30,7 @@ Channels are what make up a station. A station may have multiple channels. Nasda
 
 ### Article
 
-Articles are the news objects themselves. They contain the information that we are providing. They are made up of properties like: Title, Description,Date, and Source. These are the objects that are returned to the end user.
+Articles are the news objects themselves. They contain the information that we are providing. They are made up of properties like: Title, Description,Date, and Source. The article object is used to provide a cleaned and consistent Article object amongst all news stations. These are the objects that are returned to the end user.
 
 ### Feed
 
