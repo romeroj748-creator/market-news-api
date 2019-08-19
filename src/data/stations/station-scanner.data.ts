@@ -1,5 +1,4 @@
 import * as Parser from "rss-parser";
-import { Article } from "src/models/article/article.model";
 import { Channel } from "./../../models/channel/channel.model";
 import { Station } from "./../../models/station/station.model";
 import { FileWriter } from "./../../tools/filewriter";
@@ -9,7 +8,7 @@ import marketwatch = require("./json/marketwatch.json");
 import nasdaq = require("./json/nasdaq.json");
 import wallstreetjournal = require("./json/wallstreetjournal.json");
 
-export class Stations {
+export class StationScanner {
   private stations: Array<Station>;
   private parser: Parser;
   private articleParser: ArticleParser;
@@ -22,19 +21,13 @@ export class Stations {
     this.articleParser = new ArticleParser();
   }
 
-  public getStations(): Array<Station> {
-    this.populateData().then(stations => {
+  public scanStations = async (): Promise<Array<Station>> => {
+    return this.populateData().then(stations => {
       this.stations = stations;
-    });
 
-    return this.stations;
-  }
-
-  public reloadStations(): void {
-    this.populateData().then(stations => {
-      this.stations = stations;
+      return stations;
     });
-  }
+  };
 
   private populateData = async (): Promise<Array<Station>> => {
     return new Promise<Array<Station>>((resolve, reject) => {
@@ -48,10 +41,10 @@ export class Stations {
           for (let i = 0; i < stations.length; i++) {
             stations[i].channels = channels[i];
           }
-          this.fw.writeObjectToFile(
-            stations,
-            "./src/data/stations/stations.txt"
-          );
+          // this.fw.writeObjectToFile(
+          //   stations,
+          //   "./src/data/stations/stations.txt"
+          // );
           resolve(stations);
         });
       });
@@ -105,7 +98,6 @@ export class Stations {
         this.articleParser
           .parseArticles(articles, station.name)
           .then(parsedArticles => {
-            console.log(parsedArticles, null, 3);
             resolve(parsedArticles);
           })
           .catch(error => {

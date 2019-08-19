@@ -1,19 +1,60 @@
-import { Feed } from "src/models/feed/feed.model";
-import { Stations } from "./../data/stations/stations.data";
+import { Station } from "src/models/station/station.model";
+import { StationParser } from "./../data/stations/station-parser.data";
+import { StationReader } from "./../data/stations/station-reader.data";
+import { StationScanner } from "./../data/stations/station-scanner.data";
 
-export class MarketNews {
-  private stations: Stations;
-  // private feeds: Array<Feed>; // Feature coming soon
+export class MarketNewsAPI {
+  private stationScanner: StationScanner;
+  private stationReader: StationReader;
+  private stationParser: StationParser;
 
   constructor() {
-    this.stations = new Stations();
+    this.stationScanner = new StationScanner();
+    this.stationReader = new StationReader();
+    this.stationParser = new StationParser();
   }
 
-  public listStations(): void {
-    const stations = this.stations.getStations();
-  }
+  public autoScan = (): void => {
+    console.log("Started autoscan.");
+    this.checkForNewArticles();
+  };
 
-  public scanStations(): void {
-    setInterval(() => {}, 10000);
+  // Uses Station Scanner to scan recent News Station Data
+  public scanStations = async (): Promise<Array<Station>> => {
+    return this.stationScanner.scanStations().then(stations => {
+      return stations;
+    });
+  };
+
+  // Uses Station Reader to read saved News Station Data
+  public readStations = async (): Promise<Array<Station>> => {
+    return this.stationReader.readStationsFromFile().then(stations => {
+      return stations;
+    });
+  };
+
+  public checkForNewArticles(): void {
+    this.scanStations().then(scannedStations => {
+      this.stationParser
+        .extractArticlesMap(scannedStations)
+        .then(scannedStationsMap => {
+          this.stationReader.readStationsFromFile().then(readStations => {
+            this.stationParser
+              .extractArticlesMap(readStations)
+              .then(readStationsMap => {
+                console.log(scannedStationsMap.size);
+                scannedStationsMap.forEach(s => {
+                  const key = s.title;
+                  if (readStationsMap.has(key)) {
+                    // console.log("Found existing article");
+                  } else {
+                    console.log("Found new Article");
+                    console.log(JSON.stringify(s, null, 3));
+                  }
+                });
+              });
+          });
+        });
+    });
   }
 }
