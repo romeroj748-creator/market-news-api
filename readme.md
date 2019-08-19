@@ -5,60 +5,38 @@ Market News API is an API that gives you access to thousands of news articles ab
 ## Supported News Sources
 
 - CNBC
+- Nasdaq
 - Marketwatch
 - Wallstreet Journal
-- Nasdaq
 
 ## Todo
 
 - ~~Model Feed Objects~~
 - ~~Add more sources~~
-- Add auto run
+- ~~Add auto run~~
 - Create Different Feed Types
 - Add Express Server
 - Publish API
 
-## The Object Model
+# Features
 
-Market News API is made up of 4 components. Stations, Channels, Feeds and Articles. Each object helps to categorize articles and maintain a consistent article structure.
+## Auto Run / Recent News Feed
 
-### Station
+The auto run feature scans stations in the background and only prints to the screen articles that are not in our database. Essentially it logs out new articles that have just been released. This is useful for a live news feed. Right now it is only accessible through a command prompt, but the next step will be to advertise the logs publically and allow clients to connect and listen to new messages being sent out. WebSockets will most likely be used for this.
 
-Stations are news companies themselves. An example of a station would be the New York Times, CNBC or Nasdaq. Stations are made up of channels.
+## News Feeds
 
-### Channel
+A news feed is a collection of Articles that pertain to a certain subject. By default up to 10 Articles will be sent to the client. There are a couple of filters that can be applied to this query. See below for list of filters. All news feeds can be listened to using WebSockets.
 
-Channels are what make up a station. A station may have multiple channels. Nasdaq has channels that include Bonds, Commodities, Stocks, Business, Economy, Technology and more. Channels share a similar feed structure, which is why we grouped them together. Channels return a list of articles.
+### Filter Types
 
-### Article
-
-Articles are the news objects themselves. They contain the information that we are providing. They are made up of properties like: Title, Description,Date, and Source. The article object is used to provide a cleaned and consistent Article object amongst all news stations. These are the objects that are returned to the end user.
-
-### Feed
-
-Feeds are custom made by Market News API. They are categorized groups off channels that produce a single feed of articles that pertain to a subject.
-
-## The Inner Workings
-
-Ideally all the data will be collected by an object called `MarketNews`. `MarketNews` has the role of scanning all the rss feeds and saving any new articles to our main database. We will also have an observable feed that will update every time a new article is found. Individual feeds will also have their own observable feed that users can subscribe to through the use of websockets.
-
-`MarketNews` has a method called `scanStations()` which is a `Promise<Station>`. This will call a series of other promises that will ultimately help to return a global `Stations` object. This object will be used to update the database and alert feeds of any new additions to the database. `scanStations()` will be run every `1 minute(s)` on the primary server to ensure that news alerts are sent out as quickly as possible while being conservative of server computation time.
-
-## Auto Run
+- `stations | string[]`: Returns articles that match one of these stations. Ex: ['cnbc'] by default, this is null. (View [stations](https://google.com/) for a list of available news stations)
+- `channels | string[]`: Returns articles that match one of these channels. Ex: ['Market News'] by default, this is null. (View [channels](https://google.com/) for a list of available news channels)
+- `dateStart | string`: Returns articles that are no older than this date. (Uses MM/dd/YYYY format): Ex: ['01/02/2019'] by default, this is null.
+- `dateEnd | string`: Returns articles that are no newer than this date. (Uses MM/dd/YYYY format): Ex: ['01/03/2019'] by default, this is null.
+- `titleContains | string`: Returns articles that contain this exact string in the article title. (Case insensitive): Ex: ['Google'] by default, this is null.
+- `contentContains | string`: Returns articles that contain this exact string in the article contents. (Case insensitive): Ex: ['Mark Zuckerberg'] by default, this is null.
 
 ## Types of Feeds
 
-- Top News
-- US News
-- Europe News
-- Asia News
-- Economy
-- Business
-- Politics
-- Investment
-- Financial
-- Earnings
-- Stock
-- Bonds
-- Futures
-- Commodities
+To be discussed later.
