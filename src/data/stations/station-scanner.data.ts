@@ -1,4 +1,5 @@
 import * as Parser from "rss-parser";
+import { Article } from "src/models/article/article.model";
 import { Channel } from "./../../models/channel/channel.model";
 import { Station } from "./../../models/station/station.model";
 import { FileWriter } from "./../../tools/filewriter";
@@ -9,26 +10,24 @@ import nasdaq = require("./json/nasdaq.json");
 import wallstreetjournal = require("./json/wallstreetjournal.json");
 
 export class StationScanner {
-  private stations: Array<Station>;
   private parser: Parser;
   private articleParser: ArticleParser;
   private fw: FileWriter;
 
   constructor() {
-    this.stations = [];
     this.fw = new FileWriter();
     this.parser = new Parser();
     this.articleParser = new ArticleParser();
   }
 
+  // Reads Array of Stations on Disk and scans each channel url for Articles
   public scanStations = async (): Promise<Array<Station>> => {
     return this.populateData().then(stations => {
-      this.stations = stations;
-
       return stations;
     });
   };
 
+  // Writes Array of Stations to Disk
   public saveStations = async (stations: Array<Station>): Promise<void> => {
     return new Promise<void>((resolve, reject) => {
       this.fw.writeObjectToFile(stations, "./src/data/stations/stations.txt");
@@ -57,7 +56,6 @@ export class StationScanner {
   // Loads all the stations stored in Json files // Working
   private loadStations = async (): Promise<Array<Station>> => {
     return new Promise<Array<Station>>((resolve, reject) => {
-      // const data = [cnbc, marketwatch, wallstreetjournal, nasdaq];
       const data = [cnbc, marketwatch, wallstreetjournal, nasdaq];
       const stations = data.map(s => {
         return new Station({
@@ -72,39 +70,50 @@ export class StationScanner {
   // Take in an array of channels and returns the same array except with Articles Array
   private loadChannels = async (s: Station): Promise<Array<Channel>> => {
     return new Promise<Array<Channel>>((resolve, reject) => {
-      const ch = s.channels.map(async (cha: Channel) => {
-        return this.loadArticles(cha, s).then(articles => {
-          // console.log(`Loading ${cha.name}`);
-
-          return new Channel({
-            name: cha.name,
+      const channels: Array<Promise<Channel>> = s.channels.map(
+        async (c: Channel) => {
+          const channel = new Channel({
+            name: c.name,
             station: s.name,
-            url: cha.url,
-            articles
+            url: c.url,
+            articles: []
           });
+
+          // Load the articles for the current channel
+          return this.loadArticles(channel)
+            .then(articles => {
+              channel.articles = articles;
+
+              return channel;
+            })
+            .catch(error => {
+              return error;
+            });
+        }
+      );
+      Promise.all(channels)
+        .then(ch => {
+          resolve(ch);
+        })
+        .catch(error => {
+          reject(error);
         });
-      });
-      Promise.all(ch).then(channels => {
-        resolve(channels);
-      });
     });
   };
 
-  // Takes in a channel and returns an article
-  private loadArticles = async (
-    channel: Channel,
-    station: Station
-  ): Promise<any> => {
+  // Takes in a channel and returns an array of articles
+  private loadArticles = async (channel: Channel): Promise<Array<Article>> => {
     return new Promise((resolve, reject) => {
+      // Use RSS Parser to parse RSS Feed into JSON
       this.parser.parseURL(channel.url).then(articles => {
-        // Parse articles object into array of articles
+        // Parse JSON into array of articles
         this.articleParser
-          .parseArticles(articles, station.name)
+          .parseArticles(articles, channel)
           .then(parsedArticles => {
             resolve(parsedArticles);
           })
           .catch(error => {
-            console.log(error);
+            reject(error);
           });
       });
     });
