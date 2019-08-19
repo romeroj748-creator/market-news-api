@@ -3,7 +3,7 @@ import { Article } from "src/models/article/article.model";
 import { Channel } from "./../../models/channel/channel.model";
 import { Station } from "./../../models/station/station.model";
 import { FileWriter } from "./../../tools/filewriter";
-import { ArticleParser } from "./articles.data";
+import { ArticleParser } from "./../articles/article-parser.data";
 import cnbc = require("./json/cnbc.json");
 import marketwatch = require("./json/marketwatch.json");
 import nasdaq = require("./json/nasdaq.json");
