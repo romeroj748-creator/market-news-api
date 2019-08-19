@@ -12,7 +12,7 @@ export class FileWriter {
         return;
       }
 
-      console.log("Filed saved successfully.");
+      // console.log("Filed saved successfully.");
     });
   };
 }

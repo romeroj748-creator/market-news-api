@@ -1,7 +1,7 @@
 import * as fs from "fs";
 
 export class FileReader {
-  public readObjectFromFile = (path: string): Promise<any> => {
+  public readObjectFromFile = async (path: string): Promise<any> => {
     return new Promise<any>((resolve, reject) => {
       fs.readFile(path, (error, contents) => {
         if (error !== null) {

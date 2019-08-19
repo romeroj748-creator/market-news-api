@@ -29,6 +29,13 @@ export class StationScanner {
     });
   };
 
+  public saveStations = async (stations: Array<Station>): Promise<void> => {
+    return new Promise<void>((resolve, reject) => {
+      this.fw.writeObjectToFile(stations, "./src/data/stations/stations.txt");
+      resolve();
+    });
+  };
+
   private populateData = async (): Promise<Array<Station>> => {
     return new Promise<Array<Station>>((resolve, reject) => {
       this.loadStations().then(stations => {
@@ -41,10 +48,6 @@ export class StationScanner {
           for (let i = 0; i < stations.length; i++) {
             stations[i].channels = channels[i];
           }
-          // this.fw.writeObjectToFile(
-          //   stations,
-          //   "./src/data/stations/stations.txt"
-          // );
           resolve(stations);
         });
       });
@@ -71,7 +74,7 @@ export class StationScanner {
     return new Promise<Array<Channel>>((resolve, reject) => {
       const ch = s.channels.map(async (cha: Channel) => {
         return this.loadArticles(cha, s).then(articles => {
-          console.log(`Loading ${cha.name}`);
+          // console.log(`Loading ${cha.name}`);
 
           return new Channel({
             name: cha.name,

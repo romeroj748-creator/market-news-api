@@ -2,6 +2,7 @@ import { Station } from "src/models/station/station.model";
 import { StationParser } from "./../data/stations/station-parser.data";
 import { StationReader } from "./../data/stations/station-reader.data";
 import { StationScanner } from "./../data/stations/station-scanner.data";
+import { Thread } from "./../tools/thread";
 
 export class MarketNewsAPI {
   private stationScanner: StationScanner;
@@ -14,9 +15,13 @@ export class MarketNewsAPI {
     this.stationParser = new StationParser();
   }
 
-  public autoScan = (): void => {
+  public autoScan = async (): Promise<void> => {
     console.log("Started autoscan.");
-    this.checkForNewArticles();
+    while (true) {
+      // console.log("Scanning...");
+      this.checkForNewArticles();
+      await new Thread().sleep(60000);
+    }
   };
 
   // Uses Station Scanner to scan recent News Station Data
@@ -42,15 +47,17 @@ export class MarketNewsAPI {
             this.stationParser
               .extractArticlesMap(readStations)
               .then(readStationsMap => {
-                console.log(scannedStationsMap.size);
                 scannedStationsMap.forEach(s => {
                   const key = s.title;
                   if (readStationsMap.has(key)) {
                     // console.log("Found existing article");
                   } else {
-                    console.log("Found new Article");
+                    // console.log("Found new Article");
                     console.log(JSON.stringify(s, null, 3));
                   }
+                });
+                this.stationScanner.saveStations(scannedStations).then(() => {
+                  // console.log("Saved stations");
                 });
               });
           });
