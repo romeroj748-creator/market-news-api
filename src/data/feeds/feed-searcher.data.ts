@@ -27,16 +27,63 @@ export class FeedSearcher {
     });
   };
 
-  public getFeedCustom = async (
-    name: string,
-    options: FeedQueryOptions
-  ): Promise<Feed> => {
+  // BRb getting more food
+  public getFeedCustom = async (options: FeedQueryOptions): Promise<Feed> => {
     return new Promise<Feed>((resolve, reject) => {
       const path = "./src/data/feeds/feeds.txt";
       this.filereader.readObjectFromFile(path).then((fs: Array<Feed>) => {
+        const f = fs.find((fe: Feed) => fe.name === options.name);
         const feed = new Feed();
-        feed.name = name;
-        fs.forEach((f: Feed) => {});
+        feed.name = options.name;
+        console.log(options);
+        if (f !== undefined) {
+          f.articles.forEach(a => {
+            let valid = true;
+
+            // filter based on station
+            if (options.stations.length > 0) {
+              if (!options.stations.includes(a.station)) {
+                valid = false;
+              }
+            }
+
+            // filter based on channel
+            if (options.channels.length > 0) {
+              if (!options.channels.includes(a.channel)) {
+                valid = false;
+              }
+            }
+
+            // filter based on dateStart ?? fix
+            if (options.dateStart < a.date) {
+              valid = false;
+            }
+
+            // filter based on dateEnd ?? fix
+            if (options.dateEnd > a.date) {
+              valid = false;
+            }
+
+            // filter based on title
+            if (options.titleContains !== "") {
+              if (!a.title.includes(options.titleContains)) {
+                valid = false;
+              }
+            }
+
+            // filter based on content
+            if (options.contentContains !== "") {
+              if (!a.content.includes(options.contentContains)) {
+                valid = false;
+              }
+            }
+
+            if (valid && feed.articles.length < options.resultLimit) {
+              feed.articles.push(a);
+            }
+          });
+        }
+        resolve(feed);
       });
     });
   };
