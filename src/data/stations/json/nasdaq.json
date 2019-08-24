@@ -96,10 +96,6 @@
     {
       "name": "US Markets",
       "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=US+Markets"
-    },
-    {
-      "name": "International",
-      "url": "http://articlefeeds.nasdaq.com/nasdaq/categories?category=International"
     }
   ]
 }

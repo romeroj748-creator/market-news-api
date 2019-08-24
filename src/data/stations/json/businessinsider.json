@@ -1,0 +1,13 @@
+{
+  "name": "businessinsider",
+  "channels": [
+    {
+      "name": "News",
+      "url": "https://markets.businessinsider.com/rss/news"
+    },
+    {
+      "name": "Analyst Opinions",
+      "url": "https://markets.businessinsider.com/rss/analysts-opinions"
+    }
+  ]
+}

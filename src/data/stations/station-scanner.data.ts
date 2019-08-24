@@ -4,6 +4,7 @@ import { Channel } from "./../../models/channel/channel.model";
 import { Station } from "./../../models/station/station.model";
 import { FileWriter } from "./../../tools/filewriter";
 import { ArticleParser } from "./../articles/article-parser.data";
+import businessInsider = require("./json/businessinsider.json");
 import cnbc = require("./json/cnbc.json");
 import marketwatch = require("./json/marketwatch.json");
 import nasdaq = require("./json/nasdaq.json");
@@ -56,7 +57,7 @@ export class StationScanner {
   // Loads all the stations stored in Json files // Working
   private loadStations = async (): Promise<Array<Station>> => {
     return new Promise<Array<Station>>((resolve, reject) => {
-      const data = [cnbc, marketwatch, wallstreetjournal, nasdaq];
+      const data = [cnbc, wallstreetjournal, nasdaq];
       const stations = data.map(s => {
         return new Station({
           name: s.name,
