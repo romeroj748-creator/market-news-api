@@ -20,6 +20,10 @@ Market News API is an API that gives you access to thousands of news articles ab
 - Publish API
 - Discord Bot
 
+## Known Issues
+
+- Dates are not in the same timezone accross stations
+
 # Features
 
 ## Auto Run / Recent News Feed

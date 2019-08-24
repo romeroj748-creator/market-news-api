@@ -12,7 +12,7 @@ export class FeedSearcher {
     return new Promise<Feed>((resolve, reject) => {
       const path = "./src/data/feeds/feeds.txt";
       this.filereader.readObjectFromFile(path).then((fs: Array<Feed>) => {
-        const feed = fs.find(f => f.getName() === name);
+        const feed = fs.find(f => f.name === name);
         if (feed !== undefined) {
           resolve(feed);
         } else {

@@ -1,5 +1,7 @@
+import { Feed } from "src/models/feed/feed.model";
 import { Station } from "src/models/station/station.model";
 import { FeedReader } from "./../data/feeds/feed-reader.data";
+import { FeedSearcher } from "./../data/feeds/feed-searcher.data";
 import { StationParser } from "./../data/stations/station-parser.data";
 import { StationReader } from "./../data/stations/station-reader.data";
 import { StationScanner } from "./../data/stations/station-scanner.data";
@@ -10,12 +12,14 @@ export class MarketNewsAPI {
   private stationReader: StationReader;
   private stationParser: StationParser;
   private feedReader: FeedReader;
+  private feedSearcher: FeedSearcher;
 
   constructor() {
     this.stationScanner = new StationScanner();
     this.stationReader = new StationReader();
     this.stationParser = new StationParser();
     this.feedReader = new FeedReader();
+    this.feedSearcher = new FeedSearcher();
   }
 
   public autoScan = async (): Promise<void> => {
@@ -31,6 +35,12 @@ export class MarketNewsAPI {
 
   public createFeeds = (): void => {
     this.feedReader.createFeeds();
+  };
+
+  public searchFeed = async (name: string): Promise<Feed> => {
+    return this.feedSearcher.getFeed(name).then(feed => {
+      return feed;
+    });
   };
 
   // Uses Station Scanner to scan recent News Station Data

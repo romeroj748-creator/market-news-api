@@ -1,8 +1,8 @@
 import { Channel } from "../channel/channel.model";
 
 export class Feed {
-  private name: string;
-  private channels: Array<Channel>;
+  public name: string;
+  public channels: Array<Channel>;
 
   constructor(data?: any) {
     const defaults = {
