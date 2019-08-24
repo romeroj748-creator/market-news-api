@@ -1,4 +1,4 @@
-import * as Parser from "rss-parser";
+import Parser from "rss-parser";
 import { Article } from "src/models/article/article.model";
 import { Channel } from "./../../models/channel/channel.model";
 import { Station } from "./../../models/station/station.model";

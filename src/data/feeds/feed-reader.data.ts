@@ -2,7 +2,7 @@ import { Station } from "src/models/station/station.model";
 import { Feed } from "./../../models/feed/feed.model";
 import { FileReader } from "./../../tools/filereader";
 import { FileWriter } from "./../../tools/filewriter";
-import * as FeedsJson from "./json/feeds.json";
+import FeedsJson from "./json/feeds.json";
 
 export class FeedReader {
   private fileReader: FileReader;

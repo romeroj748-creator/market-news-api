@@ -260,6 +260,14 @@
             "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
             "articles": [
                {
+                  "title": "Brazil sends army to fight Amazon fires as EU threatens trade retaliation over blaze",
+                  "content": "EU leaders threatened to tear up a trade deal with South America, reflecting growing international anger at Brazil as fires in the Amazon intensified an unfolding environmental crisis.",
+                  "station": "CNBC",
+                  "channel": "World News",
+                  "date": "2019-08-24T18:24:00.000Z",
+                  "link": "https://www.cnbc.com/2019/08/24/as-eu-threatens-trade-retaliation-brazil-fights-amazon-fires.html"
+               },
+               {
                   "title": "Trump is meeting with world leaders at G7 as he escalates US-China trade war",
                   "content": "The summit comes amid fears over a global economic slowdown, and U.S. tensions over trade allies, Iran and Russia.",
                   "station": "CNBC",
@@ -482,14 +490,6 @@
                   "channel": "World News",
                   "date": "2019-08-23T05:10:00.000Z",
                   "link": "https://www.cnbc.com/2019/08/23/g7-summit-trump-and-boris-johnson-meeting-could-be-awkward.html"
-               },
-               {
-                  "title": "Pompeo says the US message on Huawei is clear. Trump's words say otherwise",
-                  "content": "The Secretary of State says Huawei&#039;s CFO, who faces extradition to the U.S., is not a bargaining chip in the trade war. That&#039;s not what Trump says.",
-                  "station": "CNBC",
-                  "channel": "World News",
-                  "date": "2019-08-23T02:58:00.000Z",
-                  "link": "https://www.cnbc.com/2019/08/23/huawei-mike-pompeo-appears-to-be-contradicting-president-donald-trump-on-the-chinese-firm.html"
                },
                {
                   "title": "Greenlanders welcome global attention, but there's no love lost for Trump",
@@ -1591,123 +1591,123 @@
             "articles": [
                {
                   "title": "Tips on How and When to File an Amended Tax Return",
-                  "content": "It s well past April 15 So unless you applied for an extension the stress and frustration of filing your federal tax return should be a distant memory by now But what if you suddenly realize there s a mistake on your return or a new development that affects the amount of tax<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/wCqDGclmLKM\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "It s well past April 15 So unless you applied for an extension the stress and frustration of filing your federal tax return should be a distant memory by now But what if you suddenly realize there s a mistake on your return or a new development that affects the amount of tax<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/PdJLrXEJssQ\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-08-16T21:06:27.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/wCqDGclmLKM/tips-on-how-and-when-to-file-an-amended-tax-return-cm1199619"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/PdJLrXEJssQ/tips-on-how-and-when-to-file-an-amended-tax-return-cm1199619"
                },
                {
                   "title": "IRS Automatically Waives Withholding and Estimated Tax Penalty for Thousands of Taxpayers",
-                  "content": "Earlier this year the IRS lowered the underpayment penalty threshold from 90 to 80 to help taxpayers who didn t have enough tax withheld from their paychecks in 2018 or didn t pay enough in estimated taxes last year As a result taxpayers could avoid the underpayment penalty this past<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/rBZYiSUhBU8\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Earlier this year the IRS lowered the underpayment penalty threshold from 90 to 80 to help taxpayers who didn t have enough tax withheld from their paychecks in 2018 or didn t pay enough in estimated taxes last year As a result taxpayers could avoid the underpayment penalty this past<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/2k1evilMh5M\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-08-15T20:06:22.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/rBZYiSUhBU8/irs-automatically-waives-withholding-and-estimated-tax-penalty-for-thousands-of-taxpayers-cm1198936"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/2k1evilMh5M/irs-automatically-waives-withholding-and-estimated-tax-penalty-for-thousands-of-taxpayers-cm1198936"
                },
                {
                   "title": "Florida Cities and Towns Ranked for Local Taxes",
-                  "content": "A lot of people especially retirees are moving to Florida for the sun sand affordable housing and the lack of an income tax But don t think for a second that no state income tax means no taxes at all There are plenty of other taxes to be paid in Florida and some of them<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/BNYtiljdXho\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "A lot of people especially retirees are moving to Florida for the sun sand affordable housing and the lack of an income tax But don t think for a second that no state income tax means no taxes at all There are plenty of other taxes to be paid in Florida and some of them<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/68F7t67O50Q\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-08-14T17:06:24.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/BNYtiljdXho/florida-cities-and-towns-ranked-for-local-taxes-cm1198186"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/68F7t67O50Q/florida-cities-and-towns-ranked-for-local-taxes-cm1198186"
                },
                {
                   "title": "Want to Know How Complicated Our Tax System Is? Check Out the IRS&#39;s &quot;Taxpayer Roadmap&quot;",
-                  "content": "We all know the U S tax system is complicated And now thanks to outgoing National Taxpayer Advocate Nina Olson there s a poster you can hang up in your home or office to prove it It s great for college dorm rooms too In her final report to Congress Olson introduced the Taxpayer<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/3O2wdMBEeH4\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "We all know the U S tax system is complicated And now thanks to outgoing National Taxpayer Advocate Nina Olson there s a poster you can hang up in your home or office to prove it It s great for college dorm rooms too In her final report to Congress Olson introduced the Taxpayer<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Xb6Ya7yqnLk\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-07-27T18:06:37.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/3O2wdMBEeH4/want-to-know-how-complicated-our-tax-system-is-check-out-the-irss-taxpayer-roadmap-cm1185132"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Xb6Ya7yqnLk/want-to-know-how-complicated-our-tax-system-is-check-out-the-irss-taxpayer-roadmap-cm1185132"
                },
                {
                   "title": "5 Charitable Planning Options That Can Save You Money on Taxes",
-                  "content": "Since the 2017 Tax Cuts and Jobs Act now more than ever there is a greater incentive for donors to contemplate whether charitable planning will provide an immediate or future benefit Donors who will benefit from this range from business owners executives doctors accountants<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/eQ1F1gNVLME\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Since the 2017 Tax Cuts and Jobs Act now more than ever there is a greater incentive for donors to contemplate whether charitable planning will provide an immediate or future benefit Donors who will benefit from this range from business owners executives doctors accountants<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/COfUVOcULq0\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-07-20T13:06:41.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/eQ1F1gNVLME/5-charitable-planning-options-that-can-save-you-money-on-taxes-cm1179757"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/COfUVOcULq0/5-charitable-planning-options-that-can-save-you-money-on-taxes-cm1179757"
                },
                {
                   "title": "IRS Remodels the 1040 for 2019",
-                  "content": "As a new 1040 form tailored to seniors makes its debut the regular 1040 is getting remodeled for 2019 As anew 1040 form tailored to seniors makes its debut theregular 1040 is getting remodeled for 2019 After the 1040 s major overhaul last year to take into account tax reform<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/tQKBImpxQGg\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "As a new 1040 form tailored to seniors makes its debut the regular 1040 is getting remodeled for 2019 As anew 1040 form tailored to seniors makes its debut theregular 1040 is getting remodeled for 2019 After the 1040 s major overhaul last year to take into account tax reform<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/sLdfRZ3bVUc\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-07-18T18:07:35.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/tQKBImpxQGg/irs-remodels-the-1040-for-2019-cm1178876"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/sLdfRZ3bVUc/irs-remodels-the-1040-for-2019-cm1178876"
                },
                {
                   "title": "How the IRS Will Be More Taxpayer-Friendly",
-                  "content": "Let s face it the IRS isn t the most popular government agency out there It s not just that they take your money They also have a undeserved reputation for tough stances on deductions and credits aggressive tax collectors poor customer service and generally being difficult if<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/jEODwnDK5VA\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Let s face it the IRS isn t the most popular government agency out there It s not just that they take your money They also have a undeserved reputation for tough stances on deductions and credits aggressive tax collectors poor customer service and generally being difficult if<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/VVjUmLrhI0c\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-07-03T13:34:53.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/jEODwnDK5VA/how-the-irs-will-be-more-taxpayer-friendly-cm1171873"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/VVjUmLrhI0c/how-the-irs-will-be-more-taxpayer-friendly-cm1171873"
                },
                {
                   "title": "America&#39;s Richest Are Begging To Be Taxed",
-                  "content": "The world loves to hear America’s billionaires pining away for higher taxes, and it seems to be a trend that is gaining momentum in this new era of over-the-top capitalism.   This week has taken things further, with a record 19 U.S. billionaires sending a   letter   to \"Presidential Candidates 2020\" with one very<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/efDvu5hwZQ0\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "The world loves to hear America’s billionaires pining away for higher taxes, and it seems to be a trend that is gaining momentum in this new era of over-the-top capitalism.   This week has taken things further, with a record 19 U.S. billionaires sending a   letter   to \"Presidential Candidates 2020\" with one very<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/iY1gGiQ_jT8\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-06-28T12:46:43.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/efDvu5hwZQ0/americas-richest-are-begging-to-be-taxed-cm1170023"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/iY1gGiQ_jT8/americas-richest-are-begging-to-be-taxed-cm1170023"
                },
                {
                   "title": "What Grandparents Need to Know About Using Savings Bonds for a Grandchild&#39;s Education",
-                  "content": "Question Can I use my series EE or I bonds to pay for a grandchild s college and save on taxes Question Can I use my series EE or I bonds to pay for a grandchild s college and save on taxes Question Can I use my series EE or I bonds to pay for a grandchild s college and save on<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/mi8J3W_FpEk\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Question Can I use my series EE or I bonds to pay for a grandchild s college and save on taxes Question Can I use my series EE or I bonds to pay for a grandchild s college and save on taxes Question Can I use my series EE or I bonds to pay for a grandchild s college and save on<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Nq6Y0Leu19g\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-06-29T17:06:15.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/mi8J3W_FpEk/what-grandparents-need-to-know-about-using-savings-bonds-for-a-grandchilds-education-cm1170597"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Nq6Y0Leu19g/what-grandparents-need-to-know-about-using-savings-bonds-for-a-grandchilds-education-cm1170597"
                },
                {
                   "title": "4 Things You Should Know Now to Save on Taxes Later",
-                  "content": "With 2018 taxes hopefully behind you probably the last thing you want to think about is what taxes may look like in 2019 and beyond With 2018 taxes hopefully behind you probably the last thing you want to think about is what taxes may look like in 2019 and beyond I get that I get that SEE<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/HzQ2Lw3ph3I\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "With 2018 taxes hopefully behind you probably the last thing you want to think about is what taxes may look like in 2019 and beyond With 2018 taxes hopefully behind you probably the last thing you want to think about is what taxes may look like in 2019 and beyond I get that I get that SEE<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/bVkpnicRkjk\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-06-26T13:06:49.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/HzQ2Lw3ph3I/4-things-you-should-know-now-to-save-on-taxes-later-cm1168666"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/bVkpnicRkjk/4-things-you-should-know-now-to-save-on-taxes-later-cm1168666"
                },
                {
                   "title": "Taxes on Fireworks: Is Your State a Dud?",
-                  "content": "It s not really the Fourth of July without the flash boom and crackle of a good fireworks display Some people love the crowds and grandeur of a big city extravaganza while others prefer a community display at the local volunteer fire department Then there s the backyard fireworks master<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/7nnRUKhdBEE\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "It s not really the Fourth of July without the flash boom and crackle of a good fireworks display Some people love the crowds and grandeur of a big city extravaganza while others prefer a community display at the local volunteer fire department Then there s the backyard fireworks master<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/8pmRppFE2ZA\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-06-26T14:07:06.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/7nnRUKhdBEE/taxes-on-fireworks-is-your-state-a-dud-cm1168876"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/8pmRppFE2ZA/taxes-on-fireworks-is-your-state-a-dud-cm1168876"
                },
                {
                   "title": "Private Placement Life Insurance Primer",
-                  "content": "It seems like every day there is a new big idea for shielding your wealth and income from the IRS. This new idea centers around an investment that most would not consider trendy: Life Insurance.  Basic Life Insurance, or Term, offers a death benefit that diminishes over the years, permanent products which offer a<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/5ZFutHfasLE\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "It seems like every day there is a new big idea for shielding your wealth and income from the IRS. This new idea centers around an investment that most would not consider trendy: Life Insurance.  Basic Life Insurance, or Term, offers a death benefit that diminishes over the years, permanent products which offer a<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/PppGsS-HGUU\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-06-17T16:49:36.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/5ZFutHfasLE/private-placement-life-insurance-primer-cm1164752"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/PppGsS-HGUU/private-placement-life-insurance-primer-cm1164752"
                },
                {
                   "title": "How the IRS Would Be More Taxpayer-Friendly",
-                  "content": "Let s face it the IRS isn t the most popular government agency out there It s not just that they take your money They also have a undeserved reputation for tough stances on deductions and credits aggressive tax collectors poor customer service and generally being difficult if<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/LjCtfkLDpL4\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Let s face it the IRS isn t the most popular government agency out there It s not just that they take your money They also have a undeserved reputation for tough stances on deductions and credits aggressive tax collectors poor customer service and generally being difficult if<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/JKcKtXarH-Y\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-06-15T13:06:18.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/LjCtfkLDpL4/how-the-irs-would-be-more-taxpayer-friendly-cm1164395"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/JKcKtXarH-Y/how-the-irs-would-be-more-taxpayer-friendly-cm1164395"
                },
                {
                   "title": "Remembering One of the Great Debt Fighters",
-                  "content": "The U S economy continues to chug along at a nice clip And that s propping up the bull market long past the time most forecasters ever imagined it would last as executive editor Anne Smith points out in our investing outlook But over the longer term the U S faces headwinds one of which<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/0Mdmke3wSAQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "The U S economy continues to chug along at a nice clip And that s propping up the bull market long past the time most forecasters ever imagined it would last as executive editor Anne Smith points out in our investing outlook But over the longer term the U S faces headwinds one of which<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/osPo8RgcoeY\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-06-08T18:31:01.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/0Mdmke3wSAQ/remembering-one-of-the-great-debt-fighters-cm1161217"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/osPo8RgcoeY/remembering-one-of-the-great-debt-fighters-cm1161217"
                },
                {
                   "title": "Nina Olson: The Softer Side of the IRS",
-                  "content": "Since 2001 Nina Olson the IRS s national taxpayer advocate has been on a mission to make sure taxpayers rights are protected when they re up against a government agency that many Americans find intimidating if not downright terrifying Under her tenure the Taxpayer Advocate Service<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/24N0-q2OeOo\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Since 2001 Nina Olson the IRS s national taxpayer advocate has been on a mission to make sure taxpayers rights are protected when they re up against a government agency that many Americans find intimidating if not downright terrifying Under her tenure the Taxpayer Advocate Service<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Oy2yPUQowfk\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Taxes",
                   "date": "2019-06-07T21:47:24.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/24N0-q2OeOo/nina-olson-the-softer-side-of-the-irs-cm1161046"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Oy2yPUQowfk/nina-olson-the-softer-side-of-the-irs-cm1161046"
                }
             ]
          },
@@ -1718,123 +1718,123 @@
             "articles": [
                {
                   "title": "Per Capita World Debt Has Surged To Over $200,000",
-                  "content": "Global debt is officially $184 trillion, which is 225% of global GDP. This is $86,000 for every person in the world, which is 2.5 times annual income.  We estimate that official figures are understated by a factor of 2.5, so debt is actually $460 trillion, which is 560% of GDP and $215,000 per person.  These numbers<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/lrsiKFihXdc\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Global debt is officially $184 trillion, which is 225% of global GDP. This is $86,000 for every person in the world, which is 2.5 times annual income.  We estimate that official figures are understated by a factor of 2.5, so debt is actually $460 trillion, which is 560% of GDP and $215,000 per person.  These numbers<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/PIgoZlPNML4\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-07-24T17:45:38.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/lrsiKFihXdc/per-capita-world-debt-has-surged-to-over-200000-cm1182593"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/PIgoZlPNML4/per-capita-world-debt-has-surged-to-over-200000-cm1182593"
                },
                {
                   "title": "The Five Risks of Retirement",
-                  "content": "Shutterstock photo    Retirement should be a happy time in life. In fact, recent “happiness” studies have shown that general happiness levels have a U-shape. They tend to bottom out in mid-life and then rise again to ultimately peak in old age. In general terms, the old are happier than the young.  But it's hard<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/VQ117m13PNY\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Shutterstock photo    Retirement should be a happy time in life. In fact, recent “happiness” studies have shown that general happiness levels have a U-shape. They tend to bottom out in mid-life and then rise again to ultimately peak in old age. In general terms, the old are happier than the young.  But it's hard<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/vVzf0a1mT5U\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-04-24T18:20:43.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/VQ117m13PNY/the-five-risks-of-retirement-cm1134723"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/vVzf0a1mT5U/the-five-risks-of-retirement-cm1134723"
                },
                {
                   "title": "Ballooning US Deficit Is A &#39;House of Cards&#39;",
-                  "content": "More than once has President Trump boasted that his administration has accomplished an “economic turnaround of historic proportions”; but the sheer magnitude of the bill for his economic policies is beginning to become frighteningly clear. Indeed, it   is   historic.  The Treasury Department has just issued its<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/v8BS4XylvgI\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "More than once has President Trump boasted that his administration has accomplished an “economic turnaround of historic proportions”; but the sheer magnitude of the bill for his economic policies is beginning to become frighteningly clear. Indeed, it   is   historic.  The Treasury Department has just issued its<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/iYdnY57MFqE\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-04-12T10:48:49.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/v8BS4XylvgI/ballooning-us-deficit-is-a-house-of-cards-cm1128294"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/iYdnY57MFqE/ballooning-us-deficit-is-a-house-of-cards-cm1128294"
                },
                {
                   "title": "The Biggest Problem In The Cashless Revolution",
-                  "content": "Shutterstock photo    Cash is cumbersome, dirty and increasingly too tangible for our digital desires. And while we’ve already given it up to a fair extent for the credit and debit card--it still means we have to wait in lines, and that’s so 1990s.  In an effort to cut costs and avoid long lines in front of the<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/bjwWEAHnYEw\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Shutterstock photo    Cash is cumbersome, dirty and increasingly too tangible for our digital desires. And while we’ve already given it up to a fair extent for the credit and debit card--it still means we have to wait in lines, and that’s so 1990s.  In an effort to cut costs and avoid long lines in front of the<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/iZq8bR_gfi8\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-04-05T12:22:56.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/bjwWEAHnYEw/the-biggest-problem-in-the-cashless-revolution-cm1124973"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/iZq8bR_gfi8/the-biggest-problem-in-the-cashless-revolution-cm1124973"
                },
                {
                   "title": "I Discovered the Downside of Credit Card Rewards",
-                  "content": "Do you read all those great articles about traveling for free or close to free? Me too. Most impressive to me were all these stories about families traveling by using miles they earned as rewards for using their credit cards. They made it look so easy. Surely I could do the same.   So while traveling to  San Juan,<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/p_pabhDaTXg\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Do you read all those great articles about traveling for free or close to free? Me too. Most impressive to me were all these stories about families traveling by using miles they earned as rewards for using their credit cards. They made it look so easy. Surely I could do the same.   So while traveling to  San Juan,<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/4lvb_w0HA_E\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-04-04T12:32:37.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/p_pabhDaTXg/i-discovered-the-downside-of-credit-card-rewards-cm1124380"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/4lvb_w0HA_E/i-discovered-the-downside-of-credit-card-rewards-cm1124380"
                },
                {
                   "title": "How To Talk To Yourself About Retirement",
-                  "content": "Shutterstock photo    Retirement planning is an important topic for anyone who has been in the workforce. But when it comes to personal finance, saving and investing,  knowing the right approach  and executing that plan can be a daunting task. But  it doesn't always have to be .   What retirement strategy is right<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/s7enyziM9QA\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Shutterstock photo    Retirement planning is an important topic for anyone who has been in the workforce. But when it comes to personal finance, saving and investing,  knowing the right approach  and executing that plan can be a daunting task. But  it doesn't always have to be .   What retirement strategy is right<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/GLiy6CMJ7G4\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-04-03T11:58:53.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/s7enyziM9QA/how-to-talk-to-yourself-about-retirement-cm1123785"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/GLiy6CMJ7G4/how-to-talk-to-yourself-about-retirement-cm1123785"
                },
                {
                   "title": "Why We&#39;re Keeping Our Finances Separate Even After We Get Married",
-                  "content": "While some may think that having separate finances puts a marriage on the fast track to divorce — cough, Dave Ramsey, cough — my fiance and I are planning to keep ours mostly apart when we get married in December. Since we are already living together and splitting finances, we simply decided to continue our hybrid<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/CUTsgUW7iuE\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "While some may think that having separate finances puts a marriage on the fast track to divorce — cough, Dave Ramsey, cough — my fiance and I are planning to keep ours mostly apart when we get married in December. Since we are already living together and splitting finances, we simply decided to continue our hybrid<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/IsaCD3wjkXo\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-04-02T12:33:34.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/CUTsgUW7iuE/why-were-keeping-our-finances-separate-even-after-we-get-married-cm1123194"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/IsaCD3wjkXo/why-were-keeping-our-finances-separate-even-after-we-get-married-cm1123194"
                },
                {
                   "title": "What Your Bankability Says About Your Business&#39;s Sustainability",
-                  "content": "If your small business is bankable and you need a loan, you'd go to a bank. But if you aren't and are considering online alternatives, be sure you fully understand the requirements of those<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/yhJA_ZlPHnY\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "If your small business is bankable and you need a loan, you'd go to a bank. But if you aren't and are considering online alternatives, be sure you fully understand the requirements of those<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/_St2F6mz32U\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-03-11T17:46:25.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/yhJA_ZlPHnY/what-your-bankability-says-about-your-businesss-sustainability-cm1112646"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/_St2F6mz32U/what-your-bankability-says-about-your-businesss-sustainability-cm1112646"
                },
                {
                   "title": "Medical Bankruptcy Is Killing The American Middle Class",
-                  "content": "Adobe stock    A new study has found that a horrifying 530,000 families turn to bankruptcy each year due to medical bills they can’t pay. In the end, it’s easier to declare bankruptcy than to allow oneself to drown in medical expenses.  That’s how you know when a country is broken.  According to researchers of a<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/EZulG9OVXu8\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Adobe stock    A new study has found that a horrifying 530,000 families turn to bankruptcy each year due to medical bills they can’t pay. In the end, it’s easier to declare bankruptcy than to allow oneself to drown in medical expenses.  That’s how you know when a country is broken.  According to researchers of a<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/xRFtQ4cvNiY\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-02-14T15:52:38.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/EZulG9OVXu8/medical-bankruptcy-is-killing-the-american-middle-class-cm1099561"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/xRFtQ4cvNiY/medical-bankruptcy-is-killing-the-american-middle-class-cm1099561"
                },
                {
                   "title": "Trump Is Deregulating Banks: Here&#39;s What That Means for You",
-                  "content": "During his 2016 campaign, President Donald Trump promised to roll back the Dodd-Frank Wall Street Reform and Consumer Protection Act, which stiffened the regulations placed on banks in the aftermath of the financial crisis. Trump managed to get movement on that portion of his platform in 2018, signing into law a bill<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/kzbxJEOPjqQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "During his 2016 campaign, President Donald Trump promised to roll back the Dodd-Frank Wall Street Reform and Consumer Protection Act, which stiffened the regulations placed on banks in the aftermath of the financial crisis. Trump managed to get movement on that portion of his platform in 2018, signing into law a bill<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/R8p_DFedZaM\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-02-12T13:47:58.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/kzbxJEOPjqQ/trump-is-deregulating-banks-heres-what-that-means-for-you-cm1097713"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/R8p_DFedZaM/trump-is-deregulating-banks-heres-what-that-means-for-you-cm1097713"
                },
                {
                   "title": "The Week In Review: Consumer Credit Soft",
-                  "content": "The December Consumer Credit shows consumer credit growth remains soft, and if one removes student loans - and adjusts for inflation - then the year-over-year growth is lower than GDP growth. Also this week there are two missed data sets because of the government shutdown were issued.        Unadjusted Consumer<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/LsSrWvq_iLU\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "The December Consumer Credit shows consumer credit growth remains soft, and if one removes student loans - and adjusts for inflation - then the year-over-year growth is lower than GDP growth. Also this week there are two missed data sets because of the government shutdown were issued.        Unadjusted Consumer<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Kj9WwPyLbhQ\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-02-08T19:20:43.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/LsSrWvq_iLU/the-week-in-review-consumer-credit-soft-cm1096258"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Kj9WwPyLbhQ/the-week-in-review-consumer-credit-soft-cm1096258"
                },
                {
                   "title": "U.S. Home Sales are Plummeting And Nobody&#39;s Sure Why",
-                  "content": "The U.S. housing market is crumbling--a worrying indication that an economic catastrophe could be brewing. Yet, nobody seems sure why this is happening in an economy that remains hale and hearty by most measures.  But don’t rush to your banker just yet hoping to get an easy deal. Rejections for mortgages and<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9QfMw4tLMn0\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "The U.S. housing market is crumbling--a worrying indication that an economic catastrophe could be brewing. Yet, nobody seems sure why this is happening in an economy that remains hale and hearty by most measures.  But don’t rush to your banker just yet hoping to get an easy deal. Rejections for mortgages and<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/eHLBw57-1bs\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-01-30T13:42:35.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9QfMw4tLMn0/us-home-sales-are-plummeting-and-nobodys-sure-why-cm1089578"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/eHLBw57-1bs/us-home-sales-are-plummeting-and-nobodys-sure-why-cm1089578"
                },
                {
                   "title": "The 2019 Banking Report Just Released: Americans Could Be Saving More - They Just Don&#39;t Know It",
-                  "content": "Shutterstock photo    Most Americans have bank accounts. But whether they have a good understanding of those accounts is up for debate, as findings from a new GOBankingRates survey suggest.  GOBankingRates surveyed more than 1,000 Americans to learn about their banking habits, preferences, fears and knowledge.<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/MZrp-cyva2I\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Shutterstock photo    Most Americans have bank accounts. But whether they have a good understanding of those accounts is up for debate, as findings from a new GOBankingRates survey suggest.  GOBankingRates surveyed more than 1,000 Americans to learn about their banking habits, preferences, fears and knowledge.<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/YeLOUmK_gFI\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-01-17T13:36:28.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/MZrp-cyva2I/the-2019-banking-report-just-released-americans-could-be-saving-more-they-just-dont-know-it-cm1083196"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/YeLOUmK_gFI/the-2019-banking-report-just-released-americans-could-be-saving-more-they-just-dont-know-it-cm1083196"
                },
                {
                   "title": "How to Slay Your Credit Card Debt in 2019",
-                  "content": "Summertime and baseball. Burgers and shakes. Rock and roll. You and your  credit card  debt.  Wait, what?  Unfortunately, credit card  debt  has become part of the “American Way,” woven into the fabric of America. Just before 2018 ended, Americans passed a milestone of having more than $1 trillion in credit card<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/w2uCoCNAKJ4\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Summertime and baseball. Burgers and shakes. Rock and roll. You and your  credit card  debt.  Wait, what?  Unfortunately, credit card  debt  has become part of the “American Way,” woven into the fabric of America. Just before 2018 ended, Americans passed a milestone of having more than $1 trillion in credit card<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/1o9c8dD7Szc\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-01-16T13:25:40.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/w2uCoCNAKJ4/how-to-slay-your-credit-card-debt-in-2019-cm1082588"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/1o9c8dD7Szc/how-to-slay-your-credit-card-debt-in-2019-cm1082588"
                },
                {
                   "title": "This &#39;Tiny&#39; Fee Will Cost Over $10,000 in Your Lifetime -- Here&#39;s How to Avoid It",
-                  "content": "With so many banks and types of accounts to choose from, it’s no wonder many Americans don’t know how to select the best bank option for them.  GOBankingRates surveyed over 1,000 people to find out more about American banking habits and preferences and found that many people don’t understand the differences between<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/spK-l3CjO0o\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "With so many banks and types of accounts to choose from, it’s no wonder many Americans don’t know how to select the best bank option for them.  GOBankingRates surveyed over 1,000 people to find out more about American banking habits and preferences and found that many people don’t understand the differences between<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/CH1YVIZ_iiM\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Credit and Debt",
                   "date": "2019-01-15T13:39:34.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/spK-l3CjO0o/this-tiny-fee-will-cost-over-10000-in-your-lifetime-heres-how-to-avoid-it-cm1082006"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/CH1YVIZ_iiM/this-tiny-fee-will-cost-over-10000-in-your-lifetime-heres-how-to-avoid-it-cm1082006"
                }
             ]
          },
@@ -1845,123 +1845,123 @@
             "articles": [
                {
                   "title": "Bank of America (BAC) 1st Quarter Earnings: What to Expect",
-                  "content": "Shutterstock photo    The fear investors once had regarding a potential global growth slowdown, which caused a slump in financial stocks towards the end of 2018, has seemingly been forgotten. That, and concerns surrounding the slower pace of rising interest rates has given way to increased optimism.  Bank of<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/JV9-QqEtTmw\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Shutterstock photo    The fear investors once had regarding a potential global growth slowdown, which caused a slump in financial stocks towards the end of 2018, has seemingly been forgotten. That, and concerns surrounding the slower pace of rising interest rates has given way to increased optimism.  Bank of<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/VJMfACSlTB0\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-04-15T12:14:51.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/JV9-QqEtTmw/bank-of-america-bac-1st-quarter-earnings-what-to-expect-cm1129065"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/VJMfACSlTB0/bank-of-america-bac-1st-quarter-earnings-what-to-expect-cm1129065"
                },
                {
                   "title": "Why We&#39;re Keeping Our Finances Separate Even After We Get Married",
-                  "content": "While some may think that having separate finances puts a marriage on the fast track to divorce — cough, Dave Ramsey, cough — my fiance and I are planning to keep ours mostly apart when we get married in December. Since we are already living together and splitting finances, we simply decided to continue our hybrid<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/IsaCD3wjkXo\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "While some may think that having separate finances puts a marriage on the fast track to divorce — cough, Dave Ramsey, cough — my fiance and I are planning to keep ours mostly apart when we get married in December. Since we are already living together and splitting finances, we simply decided to continue our hybrid<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/CUTsgUW7iuE\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-04-02T12:33:34.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/IsaCD3wjkXo/why-were-keeping-our-finances-separate-even-after-we-get-married-cm1123194"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/CUTsgUW7iuE/why-were-keeping-our-finances-separate-even-after-we-get-married-cm1123194"
                },
                {
                   "title": "What Your Bankability Says About Your Business&#39;s Sustainability",
-                  "content": "If your small business is bankable and you need a loan, you'd go to a bank. But if you aren't and are considering online alternatives, be sure you fully understand the requirements of those<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/_St2F6mz32U\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "If your small business is bankable and you need a loan, you'd go to a bank. But if you aren't and are considering online alternatives, be sure you fully understand the requirements of those<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/yhJA_ZlPHnY\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-03-11T17:46:25.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/_St2F6mz32U/what-your-bankability-says-about-your-businesss-sustainability-cm1112646"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/yhJA_ZlPHnY/what-your-bankability-says-about-your-businesss-sustainability-cm1112646"
                },
                {
                   "title": "Medical Bankruptcy Is Killing The American Middle Class",
-                  "content": "Adobe stock    A new study has found that a horrifying 530,000 families turn to bankruptcy each year due to medical bills they can’t pay. In the end, it’s easier to declare bankruptcy than to allow oneself to drown in medical expenses.  That’s how you know when a country is broken.  According to researchers of a<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/xRFtQ4cvNiY\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Adobe stock    A new study has found that a horrifying 530,000 families turn to bankruptcy each year due to medical bills they can’t pay. In the end, it’s easier to declare bankruptcy than to allow oneself to drown in medical expenses.  That’s how you know when a country is broken.  According to researchers of a<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/EZulG9OVXu8\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-02-14T15:52:38.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/xRFtQ4cvNiY/medical-bankruptcy-is-killing-the-american-middle-class-cm1099561"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/EZulG9OVXu8/medical-bankruptcy-is-killing-the-american-middle-class-cm1099561"
                },
                {
                   "title": "Alternative Lenders Firms Are Economic Multipliers. Here&#39;s Why",
-                  "content": "Stock market indices may have stabilized, but you wouldn’t guess it by speaking to small business owners around the country. For the first time in eight quarters, a   Florida Chamber of Commerce survey   of small business owners found that economic uncertainty beat out workforce quality as their primary concern. <img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/kY-3D6or3jM\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Stock market indices may have stabilized, but you wouldn’t guess it by speaking to small business owners around the country. For the first time in eight quarters, a   Florida Chamber of Commerce survey   of small business owners found that economic uncertainty beat out workforce quality as their primary concern. <img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/-TzXj6BioMo\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-02-12T18:46:38.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/kY-3D6or3jM/alternative-lenders-firms-are-economic-multipliers-heres-why-cm1098185"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/-TzXj6BioMo/alternative-lenders-firms-are-economic-multipliers-heres-why-cm1098185"
                },
                {
                   "title": "Trump Is Deregulating Banks: Here&#39;s What That Means for You",
-                  "content": "During his 2016 campaign, President Donald Trump promised to roll back the Dodd-Frank Wall Street Reform and Consumer Protection Act, which stiffened the regulations placed on banks in the aftermath of the financial crisis. Trump managed to get movement on that portion of his platform in 2018, signing into law a bill<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/R8p_DFedZaM\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "During his 2016 campaign, President Donald Trump promised to roll back the Dodd-Frank Wall Street Reform and Consumer Protection Act, which stiffened the regulations placed on banks in the aftermath of the financial crisis. Trump managed to get movement on that portion of his platform in 2018, signing into law a bill<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/kzbxJEOPjqQ\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-02-12T13:47:58.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/R8p_DFedZaM/trump-is-deregulating-banks-heres-what-that-means-for-you-cm1097713"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/kzbxJEOPjqQ/trump-is-deregulating-banks-heres-what-that-means-for-you-cm1097713"
                },
                {
                   "title": "Revisiting Commercial Mortgage Backed Securities with an Expert Lens",
-                  "content": "The  Institute for Innovation Development  ‐ as part of our ongoing series of interviews exploring niche markets and innovative viewpoints from active asset managers ‐ recently talked with  Craig Sedmak  and  Thomas Harney  of  Ladder Capital Asset Management . Ladder Capital is an internally‐managed commercial real<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/uKm546iZ-P4\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "The  Institute for Innovation Development  ‐ as part of our ongoing series of interviews exploring niche markets and innovative viewpoints from active asset managers ‐ recently talked with  Craig Sedmak  and  Thomas Harney  of  Ladder Capital Asset Management . Ladder Capital is an internally‐managed commercial real<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9Bw_c_IWaTg\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-02-07T15:46:59.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/uKm546iZ-P4/revisiting-commercial-mortgage-backed-securities-with-an-expert-lens-cm1095324"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9Bw_c_IWaTg/revisiting-commercial-mortgage-backed-securities-with-an-expert-lens-cm1095324"
                },
                {
                   "title": "The 2019 Banking Report Just Released: Americans Could Be Saving More - They Just Don&#39;t Know It",
-                  "content": "Shutterstock photo    Most Americans have bank accounts. But whether they have a good understanding of those accounts is up for debate, as findings from a new GOBankingRates survey suggest.  GOBankingRates surveyed more than 1,000 Americans to learn about their banking habits, preferences, fears and knowledge.<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/YeLOUmK_gFI\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Shutterstock photo    Most Americans have bank accounts. But whether they have a good understanding of those accounts is up for debate, as findings from a new GOBankingRates survey suggest.  GOBankingRates surveyed more than 1,000 Americans to learn about their banking habits, preferences, fears and knowledge.<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/MZrp-cyva2I\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-01-17T13:36:28.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/YeLOUmK_gFI/the-2019-banking-report-just-released-americans-could-be-saving-more-they-just-dont-know-it-cm1083196"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/MZrp-cyva2I/the-2019-banking-report-just-released-americans-could-be-saving-more-they-just-dont-know-it-cm1083196"
                },
                {
                   "title": "The Benefits of Fintech Partnerships in Emerging Markets",
-                  "content": "By Andrés Abumohor   In many emerging market economies, individuals cannot fulfill banking requirements, such as providing a credit history or collateral, in order to access lines of credit. This is true for a majority of small businesses in emerging markets as well. Inadequate access to financing is a problem<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/hFnBbYeFMBM\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "By Andrés Abumohor   In many emerging market economies, individuals cannot fulfill banking requirements, such as providing a credit history or collateral, in order to access lines of credit. This is true for a majority of small businesses in emerging markets as well. Inadequate access to financing is a problem<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/GAuVNOAQHLY\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-01-16T15:55:02.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/hFnBbYeFMBM/the-benefits-of-fintech-partnerships-in-emerging-markets-cm1082787"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/GAuVNOAQHLY/the-benefits-of-fintech-partnerships-in-emerging-markets-cm1082787"
                },
                {
                   "title": "This &#39;Tiny&#39; Fee Will Cost Over $10,000 in Your Lifetime -- Here&#39;s How to Avoid It",
-                  "content": "With so many banks and types of accounts to choose from, it’s no wonder many Americans don’t know how to select the best bank option for them.  GOBankingRates surveyed over 1,000 people to find out more about American banking habits and preferences and found that many people don’t understand the differences between<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/CH1YVIZ_iiM\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "With so many banks and types of accounts to choose from, it’s no wonder many Americans don’t know how to select the best bank option for them.  GOBankingRates surveyed over 1,000 people to find out more about American banking habits and preferences and found that many people don’t understand the differences between<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/spK-l3CjO0o\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-01-15T13:39:34.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/CH1YVIZ_iiM/this-tiny-fee-will-cost-over-10000-in-your-lifetime-heres-how-to-avoid-it-cm1082006"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/spK-l3CjO0o/this-tiny-fee-will-cost-over-10000-in-your-lifetime-heres-how-to-avoid-it-cm1082006"
                },
                {
                   "title": "Week Ahead: Big Bank Earnings Won&#39;t Dictate Direction Of Markets",
-                  "content": "Without wishing to disrespect Infosys ( INFY ) and Bank of South Carolina ( BKSC ), who reported last week, Citi ( C ) was the first major company to report earnings for the period ending in December when they did so this morning. It is always tempting to take that first earnings report as a sign of things to come<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/s8_b3O4x0mc\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Without wishing to disrespect Infosys ( INFY ) and Bank of South Carolina ( BKSC ), who reported last week, Citi ( C ) was the first major company to report earnings for the period ending in December when they did so this morning. It is always tempting to take that first earnings report as a sign of things to come<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/-UQAWfoM8Qo\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-01-14T15:43:09.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/s8_b3O4x0mc/week-ahead-big-bank-earnings-wont-dictate-direction-of-markets-cm1081591"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/-UQAWfoM8Qo/week-ahead-big-bank-earnings-wont-dictate-direction-of-markets-cm1081591"
                },
                {
                   "title": "Wells Fargo (WFC) 4th Quarter Earnings: What to Expect",
-                  "content": "Shutterstock photo    Is this the year Wells Fargo ( WFC ), which has been marred by various scandals, takes a bigger leap forward and leave behind lingering legacy issues — many of which have been a stain on the top line?  The answer to this question may come on Tuesday when the San Francisco-based bank reports<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/zCWVDNZ5Cnw\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Shutterstock photo    Is this the year Wells Fargo ( WFC ), which has been marred by various scandals, takes a bigger leap forward and leave behind lingering legacy issues — many of which have been a stain on the top line?  The answer to this question may come on Tuesday when the San Francisco-based bank reports<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/7MRsHi8UC-M\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-01-14T16:43:45.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/zCWVDNZ5Cnw/wells-fargo-wfc-4th-quarter-earnings-what-to-expect-cm1081394"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/7MRsHi8UC-M/wells-fargo-wfc-4th-quarter-earnings-what-to-expect-cm1081394"
                },
                {
                   "title": "JPMorgan (JPM) 4th Quarter Earnings: What to Expect",
-                  "content": "Shutterstock photo    Financial stocks in 2018 didn’t deliver the sort of returns one would expect in rising rate environment. The sector was down 15% and was one of the worst-performing groups in the entire market. But it’s a new year.  The Financial Select Sector SPDR ETF ( XLF ) is up 2.5% so far in 2019, while<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/IPF8U9ux0OU\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Shutterstock photo    Financial stocks in 2018 didn’t deliver the sort of returns one would expect in rising rate environment. The sector was down 15% and was one of the worst-performing groups in the entire market. But it’s a new year.  The Financial Select Sector SPDR ETF ( XLF ) is up 2.5% so far in 2019, while<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/nmw7Ba3rj7c\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2019-01-14T16:43:38.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/IPF8U9ux0OU/jpmorgan-jpm-4th-quarter-earnings-what-to-expect-cm1081393"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/nmw7Ba3rj7c/jpmorgan-jpm-4th-quarter-earnings-what-to-expect-cm1081393"
                },
                {
                   "title": "New Data Shows Household Debt at $13.51 Trillion and Rising",
-                  "content": "At $13.51 trillion, American household debt is at its highest level ever.        In the third quarter of 2018, Americans added $219 billion in new debt, including $15 billion in  credit card debt .     This increase in household debt could eventually hurt the economy if Americans  cut back on spending to pay off<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/0SCkX9eiXlU\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "At $13.51 trillion, American household debt is at its highest level ever.        In the third quarter of 2018, Americans added $219 billion in new debt, including $15 billion in  credit card debt .     This increase in household debt could eventually hurt the economy if Americans  cut back on spending to pay off<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/cfN41ijszwI\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2018-11-21T14:12:41.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/0SCkX9eiXlU/new-data-shows-household-debt-at-1351-trillion-and-rising-cm1059343"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/cfN41ijszwI/new-data-shows-household-debt-at-1351-trillion-and-rising-cm1059343"
                },
                {
                   "title": "The 5 Ways Banks Must Transform To Thrive In An Era Of Cryptocurrency",
-                  "content": "By  Peter Daisyme    Cryptocurrency has the potential to completely change how our economy functions—and it’s already doing it. Many countries have either  allowed or fully embraced cryptocurrencies like Bitcoin , the market cap for multiple cryptocurrencies has exceeded $1 billion, and public regard for<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/5qMcugYLf-k\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "By  Peter Daisyme    Cryptocurrency has the potential to completely change how our economy functions—and it’s already doing it. Many countries have either  allowed or fully embraced cryptocurrencies like Bitcoin , the market cap for multiple cryptocurrencies has exceeded $1 billion, and public regard for<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9uTecg9_L3A\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Banking and Loans",
                   "date": "2018-11-16T15:10:00.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/5qMcugYLf-k/the-5-ways-banks-must-transform-to-thrive-in-an-era-of-cryptocurrency-cm1056694"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9uTecg9_L3A/the-5-ways-banks-must-transform-to-thrive-in-an-era-of-cryptocurrency-cm1056694"
                }
             ]
          }
@@ -3097,123 +3097,123 @@
             "articles": [
                {
                   "title": "Dow Nosedives After Trump Tells Companies to Ditch China",
-                  "content": "It was a wild trading session for U S stocks Traders early on were reacting to the newest tariff retaliation from China which prompted tweets from President Donald Trump ordering American companies to find an alternative to China Huge losses from tech stocks like Apple<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/_mSFtdkeeWQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "It was a wild trading session for U S stocks Traders early on were reacting to the newest tariff retaliation from China which prompted tweets from President Donald Trump ordering American companies to find an alternative to China Huge losses from tech stocks like Apple<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/ORGJ-kAkwsc\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T22:07:28.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/_mSFtdkeeWQ/dow-nosedives-after-trump-tells-companies-to-ditch-china-cm1202776"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/ORGJ-kAkwsc/dow-nosedives-after-trump-tells-companies-to-ditch-china-cm1202776"
                },
                {
                   "title": "Notable Friday Option Activity: TNDM, AZO, GPN",
-                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in Tandem Diabetes Care Inc Symbol TNDM where a total volume of 7 481 contracts has been traded thus far today a contract volume which is representative of approximately 748<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/kWLdNXthzcU\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in Tandem Diabetes Care Inc Symbol TNDM where a total volume of 7 481 contracts has been traded thus far today a contract volume which is representative of approximately 748<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/7KqL4d4h23Q\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T21:10:30.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/kWLdNXthzcU/notable-friday-option-activity-tndm-azo-gpn-cm1202742"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/7KqL4d4h23Q/notable-friday-option-activity-tndm-azo-gpn-cm1202742"
                },
                {
                   "title": "Noteworthy Friday Option Activity: RGEN, HAS, FIVE",
-                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Repligen Corp Symbol RGEN where a total of 3 022 contracts have traded so far representing approximately 302 200 underlying shares That amounts to about 47 3 of RGEN s<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/uBRNeUw8PT0\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Repligen Corp Symbol RGEN where a total of 3 022 contracts have traded so far representing approximately 302 200 underlying shares That amounts to about 47 3 of RGEN s<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/QTWO6OdsINI\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T21:10:37.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/uBRNeUw8PT0/noteworthy-friday-option-activity-rgen-has-five-cm1202744"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/QTWO6OdsINI/noteworthy-friday-option-activity-rgen-has-five-cm1202744"
                },
                {
                   "title": "Noteworthy Friday Option Activity: ALRM, KO, UAL",
-                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Alarm com Holdings Inc Symbol ALRM where a total of 2 523 contracts have traded so far representing approximately 252 300 underlying shares That amounts to about 49 3 of ALRM<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/eTsZKegQksk\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Alarm com Holdings Inc Symbol ALRM where a total of 2 523 contracts have traded so far representing approximately 252 300 underlying shares That amounts to about 49 3 of ALRM<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/XEfuxZS-vBU\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T20:10:48.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/eTsZKegQksk/noteworthy-friday-option-activity-alrm-ko-ual-cm1202746"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/XEfuxZS-vBU/noteworthy-friday-option-activity-alrm-ko-ual-cm1202746"
                },
                {
                   "title": "Noteworthy Friday Option Activity: ADSK, NKE, REGI",
-                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in Autodesk Inc Symbol ADSK where a total volume of 11 289 contracts has been traded thus far today a contract volume which is representative of approximately 1 1<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/IDlZW9tvxFY\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in Autodesk Inc Symbol ADSK where a total volume of 11 289 contracts has been traded thus far today a contract volume which is representative of approximately 1 1<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/6gGLT575eII\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T20:10:56.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/IDlZW9tvxFY/noteworthy-friday-option-activity-adsk-nke-regi-cm1202747"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/6gGLT575eII/noteworthy-friday-option-activity-adsk-nke-regi-cm1202747"
                },
                {
                   "title": "Notable Friday Option Activity: HEI, URI, ALGN",
-                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in HEICO Corp Symbol HEI where a total volume of 2 169 contracts has been traded thus far today a contract volume which is representative of approximately 216 900<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/olFH8A7K-Lc\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in HEICO Corp Symbol HEI where a total volume of 2 169 contracts has been traded thus far today a contract volume which is representative of approximately 216 900<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/jqLCUYUhcpg\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T20:11:02.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/olFH8A7K-Lc/notable-friday-option-activity-hei-uri-algn-cm1202748"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/jqLCUYUhcpg/notable-friday-option-activity-hei-uri-algn-cm1202748"
                },
                {
                   "title": "Notable Friday Option Activity: NOW, MTW, AXP",
-                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in ServiceNow Inc Symbol NOW where a total volume of 9 899 contracts has been traded thus far today a contract volume which is representative of approximately 989 900<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9wwb4S8p584\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in ServiceNow Inc Symbol NOW where a total volume of 9 899 contracts has been traded thus far today a contract volume which is representative of approximately 989 900<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/ILOY-ZXFe5w\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T20:11:08.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9wwb4S8p584/notable-friday-option-activity-now-mtw-axp-cm1202749"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/ILOY-ZXFe5w/notable-friday-option-activity-now-mtw-axp-cm1202749"
                },
                {
                   "title": "Noteworthy Friday Option Activity: SBUX, MRNS, EZPW",
-                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in Starbucks Corp Symbol SBUX where a total volume of 48 499 contracts has been traded thus far today a contract volume which is representative of approximately 4 8<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/oCmXx5dZ9as\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking at options trading activity among components of the Russell 3000 index there is noteworthy activity today in Starbucks Corp Symbol SBUX where a total volume of 48 499 contracts has been traded thus far today a contract volume which is representative of approximately 4 8<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/j0rdBbZVHSk\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T20:11:30.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/oCmXx5dZ9as/noteworthy-friday-option-activity-sbux-mrns-ezpw-cm1202751"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/j0rdBbZVHSk/noteworthy-friday-option-activity-sbux-mrns-ezpw-cm1202751"
                },
                {
                   "title": "Notable Friday Option Activity: EXP, RUTH, DAKT",
-                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Eagle Materials Inc Symbol EXP where a total of 3 505 contracts have traded so far representing approximately 350 500 underlying shares That amounts to about 69 4 of EXP s<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/vMRheDX4q8M\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Eagle Materials Inc Symbol EXP where a total of 3 505 contracts have traded so far representing approximately 350 500 underlying shares That amounts to about 69 4 of EXP s<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9KkwFm3lyJg\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T20:11:41.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/vMRheDX4q8M/notable-friday-option-activity-exp-ruth-dakt-cm1202752"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9KkwFm3lyJg/notable-friday-option-activity-exp-ruth-dakt-cm1202752"
                },
                {
                   "title": "Notable Friday Option Activity: CBRL, PII, SHAK",
-                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Cracker Barrel Old Country Store Inc Symbol CBRL where a total of 2 791 contracts have traded so far representing approximately 279 100 underlying shares That amounts to<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/HYfMPV4419E\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Cracker Barrel Old Country Store Inc Symbol CBRL where a total of 2 791 contracts have traded so far representing approximately 279 100 underlying shares That amounts to<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Ub0hLu275J8\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T20:11:46.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/HYfMPV4419E/notable-friday-option-activity-cbrl-pii-shak-cm1202753"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Ub0hLu275J8/notable-friday-option-activity-cbrl-pii-shak-cm1202753"
                },
                {
                   "title": "Noteworthy Friday Option Activity: RRGB, IRBT, PI",
-                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Red Robin Gourmet Burgers Inc Symbol RRGB where a total of 3 154 contracts have traded so far representing approximately 315 400 underlying shares That amounts to about 96 8<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/LNSixvijdEw\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Among the underlying components of the Russell 3000 index we saw noteworthy options trading volume today in Red Robin Gourmet Burgers Inc Symbol RRGB where a total of 3 154 contracts have traded so far representing approximately 315 400 underlying shares That amounts to about 96 8<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/GgePYrqZ5Y8\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T20:11:52.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/LNSixvijdEw/noteworthy-friday-option-activity-rrgb-irbt-pi-cm1202754"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/GgePYrqZ5Y8/noteworthy-friday-option-activity-rrgb-irbt-pi-cm1202754"
                },
                {
                   "title": "Noteworthy Friday Option Activity: GM, ADBE, MO",
-                  "content": "Among the underlying components of the S amp P 500 index we saw noteworthy options trading volume today in General Motors Co Symbol GM where a total of 57 441 contracts have traded so far representing approximately 5 7 million underlying shares That amounts to about 80 7 of GM s<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/CV8lCNbe-Q4\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Among the underlying components of the S amp P 500 index we saw noteworthy options trading volume today in General Motors Co Symbol GM where a total of 57 441 contracts have traded so far representing approximately 5 7 million underlying shares That amounts to about 80 7 of GM s<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/HKZITxWoQVQ\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T19:07:53.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/CV8lCNbe-Q4/noteworthy-friday-option-activity-gm-adbe-mo-cm1202669"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/HKZITxWoQVQ/noteworthy-friday-option-activity-gm-adbe-mo-cm1202669"
                },
                {
                   "title": "Notable Friday Option Activity: BBY, QCOM, TSCO",
-                  "content": "Looking at options trading activity among components of the S amp P 500 index there is noteworthy activity today in Best Buy Inc Symbol BBY where a total volume of 14 662 contracts has been traded thus far today a contract volume which is representative of approximately 1 5<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/4hlqFVKIhOo\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking at options trading activity among components of the S amp P 500 index there is noteworthy activity today in Best Buy Inc Symbol BBY where a total volume of 14 662 contracts has been traded thus far today a contract volume which is representative of approximately 1 5<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/KUtQaiRLzkY\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T19:08:05.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/4hlqFVKIhOo/notable-friday-option-activity-bby-qcom-tsco-cm1202671"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/KUtQaiRLzkY/notable-friday-option-activity-bby-qcom-tsco-cm1202671"
                },
                {
                   "title": "Noteworthy Friday Option Activity: V, ISRG, CAT",
-                  "content": "Among the underlying components of the S amp P 500 index we saw noteworthy options trading volume today in Visa Inc Symbol V where a total of 32 056 contracts have traded so far representing approximately 3 2 million underlying shares That amounts to about 44 6 of V s average<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/qj7GfKo7HQc\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Among the underlying components of the S amp P 500 index we saw noteworthy options trading volume today in Visa Inc Symbol V where a total of 32 056 contracts have traded so far representing approximately 3 2 million underlying shares That amounts to about 44 6 of V s average<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Uxlw0tjqfSs\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T19:08:23.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/qj7GfKo7HQc/noteworthy-friday-option-activity-v-isrg-cat-cm1202673"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Uxlw0tjqfSs/noteworthy-friday-option-activity-v-isrg-cat-cm1202673"
                },
                {
                   "title": "Interesting HAS Put And Call Options For April 2020",
-                  "content": "Investors in Hasbro Inc Symbol HAS saw new options become available this week for the April 2020 expiration One of the key inputs that goes into the price an option buyer is willing to pay is the time value so with 238 days until expiration the newly available contracts represent<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/rjrxBGfWBSw\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Investors in Hasbro Inc Symbol HAS saw new options become available this week for the April 2020 expiration One of the key inputs that goes into the price an option buyer is willing to pay is the time value so with 238 days until expiration the newly available contracts represent<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/L-ib5qsfuzg\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Options",
                   "date": "2019-08-23T16:08:37.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/rjrxBGfWBSw/interesting-has-put-and-call-options-for-april-2020-cm1202458"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/L-ib5qsfuzg/interesting-has-put-and-call-options-for-april-2020-cm1202458"
                }
             ]
          },
@@ -8249,123 +8249,123 @@
             "articles": [
                {
                   "title": "iShares Latin America 40 Getting Very Oversold",
-                  "content": "In trading on Friday shares of the iShares Latin America 40 ETF Symbol ILF entered into oversold territory changing hands as low as 29 40 per share We define oversold territory using the Relative Strength Index or RSI which is a technical analysis indicator used to measure momentum on<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/CAlk15rQHHU\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "In trading on Friday shares of the iShares Latin America 40 ETF Symbol ILF entered into oversold territory changing hands as low as 29 40 per share We define oversold territory using the Relative Strength Index or RSI which is a technical analysis indicator used to measure momentum on<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/5QJWk7ulGYc\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T21:06:44.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/CAlk15rQHHU/ishares-latin-america-40-getting-very-oversold-cm1202723"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/5QJWk7ulGYc/ishares-latin-america-40-getting-very-oversold-cm1202723"
                },
                {
                   "title": "Notable Two Hundred Day Moving Average Cross - SJNK",
-                  "content": "In trading on Friday shares of the SPDR Bloomberg Barclays Short Term High Yield Bond ETF Symbol SJNK crossed below their 200 day moving average of 26 95 changing hands as low as 26 93 per share SPDR Bloomberg Barclays Short Term High Yield Bond shares are currently trading down about 0<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/2b9r3R5Rj5c\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "In trading on Friday shares of the SPDR Bloomberg Barclays Short Term High Yield Bond ETF Symbol SJNK crossed below their 200 day moving average of 26 95 changing hands as low as 26 93 per share SPDR Bloomberg Barclays Short Term High Yield Bond shares are currently trading down about 0<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/vtYeSKEa9dA\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T21:06:51.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/2b9r3R5Rj5c/notable-two-hundred-day-moving-average-cross-sjnk-cm1202725"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/vtYeSKEa9dA/notable-two-hundred-day-moving-average-cross-sjnk-cm1202725"
                },
                {
                   "title": "XLB Makes Notable Cross Below Critical Moving Average",
-                  "content": "In trading on Friday shares of the The Materials Select Sector SPDR Fund ETF Symbol XLB crossed below their 200 day moving average of 55 23 changing hands as low as 55 04 per share The Materials Select Sector SPDR Fund shares are currently trading down about 2 2 on the day The chart<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Z3pbmBBNVYo\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "In trading on Friday shares of the The Materials Select Sector SPDR Fund ETF Symbol XLB crossed below their 200 day moving average of 55 23 changing hands as low as 55 04 per share The Materials Select Sector SPDR Fund shares are currently trading down about 2 2 on the day The chart<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/-iqzeSEoOMQ\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T21:07:04.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Z3pbmBBNVYo/xlb-makes-notable-cross-below-critical-moving-average-cm1202726"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/-iqzeSEoOMQ/xlb-makes-notable-cross-below-critical-moving-average-cm1202726"
                },
                {
                   "title": "Friday&#39;s ETF with Unusual Volume: IDLV",
-                  "content": "The Invesco S amp P International Developed Low Volatility ETF IDLV is seeing unusually high volume in afternoon trading Friday with over 857 000 shares traded versus three month average volume of about 131 000 Shares of IDLV were down about 0 5 on the day Components of that ETF<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9nvYjnFbfwQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "The Invesco S amp P International Developed Low Volatility ETF IDLV is seeing unusually high volume in afternoon trading Friday with over 857 000 shares traded versus three month average volume of about 131 000 Shares of IDLV were down about 0 5 on the day Components of that ETF<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/zdOFOEYjLD4\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T19:07:17.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9nvYjnFbfwQ/fridays-etf-with-unusual-volume-idlv-cm1202660"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/zdOFOEYjLD4/fridays-etf-with-unusual-volume-idlv-cm1202660"
                },
                {
                   "title": "Friday&#39;s ETF Movers: GDXJ, XOP",
-                  "content": "In trading on Friday the Junior Gold Miners ETF GDXJ is outperforming other ETFs up about 5 1 on the day Components of that ETF showing particular strength include shares of Silvercorp Metals SVM CA up about 9 3 and shares of Yamana Gold AUY up about 8 9 on the day<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/blQfFTdCGxE\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "In trading on Friday the Junior Gold Miners ETF GDXJ is outperforming other ETFs up about 5 1 on the day Components of that ETF showing particular strength include shares of Silvercorp Metals SVM CA up about 9 3 and shares of Yamana Gold AUY up about 8 9 on the day<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/dozYAjLu2Ro\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T19:07:24.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/blQfFTdCGxE/fridays-etf-movers-gdxj-xop-cm1202662"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/dozYAjLu2Ro/fridays-etf-movers-gdxj-xop-cm1202662"
                },
                {
                   "title": "Housing ETFs &amp; Stocks to Buy on Likely September Rate Cut",
-                  "content": "It seems the tiding is going to be great for the housing market One market watcher recently insisted that there is enough economic data that permit the Fed to take preemptive action here and cut interest rates At the current level according to CME FedWatch tool there is an 88 8 chance of<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/cA6c0J-LAIE\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "It seems the tiding is going to be great for the housing market One market watcher recently insisted that there is enough economic data that permit the Fed to take preemptive action here and cut interest rates At the current level according to CME FedWatch tool there is an 88 8 chance of<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/7iSCqi53xro\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T19:11:56.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/cA6c0J-LAIE/housing-etfs-amp-stocks-to-buy-on-likely-september-rate-cut-cm1202697"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/7iSCqi53xro/housing-etfs-amp-stocks-to-buy-on-likely-september-rate-cut-cm1202697"
                },
                {
                   "title": "EEM, AFIF: Big ETF Outflows",
-                  "content": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel the biggest outflow was seen in the iShares MSCI Emerging Markets ETF EEM where 31 500 000 units were destroyed or a 4 8 decrease week over week Among the largest underlying components<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/xJ7W9aTJ59A\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel the biggest outflow was seen in the iShares MSCI Emerging Markets ETF EEM where 31 500 000 units were destroyed or a 4 8 decrease week over week Among the largest underlying components<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/TDfRyBy28e0\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T16:09:13.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/xJ7W9aTJ59A/eem-afif-big-etf-outflows-cm1202467"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/TDfRyBy28e0/eem-afif-big-etf-outflows-cm1202467"
                },
                {
                   "title": "iShares Core MSCI International Developed Markets ETF Experiences Big Inflow",
-                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the iShares Core MSCI International Developed Markets ETF Symbol IDEV where we have detected an approximate 79 0 million dollar inflow that s a 5 6 increase<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/AsvcSSv9u8Y\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the iShares Core MSCI International Developed Markets ETF Symbol IDEV where we have detected an approximate 79 0 million dollar inflow that s a 5 6 increase<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/0cMANxZWK6w\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T16:06:45.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/AsvcSSv9u8Y/ishares-core-msci-international-developed-markets-etf-experiences-big-inflow-cm1202448"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/0cMANxZWK6w/ishares-core-msci-international-developed-markets-etf-experiences-big-inflow-cm1202448"
                },
                {
                   "title": "iShares Core MSCI Total International Stock ETF Experiences Big Inflow",
-                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the iShares Core MSCI Total International Stock ETF Symbol IXUS where we have detected an approximate 78 0 million dollar inflow that s a 0 5 increase week<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/cD6Mdz-6N5Q\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the iShares Core MSCI Total International Stock ETF Symbol IXUS where we have detected an approximate 78 0 million dollar inflow that s a 0 5 increase week<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/D1Di8JiGwVI\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T16:06:53.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/cD6Mdz-6N5Q/ishares-core-msci-total-international-stock-etf-experiences-big-inflow-cm1202449"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/D1Di8JiGwVI/ishares-core-msci-total-international-stock-etf-experiences-big-inflow-cm1202449"
                },
                {
                   "title": "Noteworthy ETF Inflows: TQQQ, NVDA, CHTR, MDLZ",
-                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the ProShares ProShares UltraPro QQQ Symbol TQQQ where we have detected an approximate 92 1 million dollar inflow that s a 2 6 increase week over week<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/pLrFmZ17zVs\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the ProShares ProShares UltraPro QQQ Symbol TQQQ where we have detected an approximate 92 1 million dollar inflow that s a 2 6 increase week over week<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/63qHb4ypzDI\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T16:06:59.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/pLrFmZ17zVs/noteworthy-etf-inflows-tqqq-nvda-chtr-mdlz-cm1202450"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/63qHb4ypzDI/noteworthy-etf-inflows-tqqq-nvda-chtr-mdlz-cm1202450"
                },
                {
                   "title": "MINT: Large Inflows Detected at ETF",
-                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the MINT ETF Symbol MINT where we have detected an approximate 78 3 million dollar inflow that s a 0 6 increase week over week in outstanding units<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/W0Z8T6qZbko\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the MINT ETF Symbol MINT where we have detected an approximate 78 3 million dollar inflow that s a 0 6 increase week over week in outstanding units<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9QwAJOPMvSw\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T16:07:04.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/W0Z8T6qZbko/mint-large-inflows-detected-at-etf-cm1202451"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9QwAJOPMvSw/mint-large-inflows-detected-at-etf-cm1202451"
                },
                {
                   "title": "SCHF ETF Experiences Big Inflow",
-                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the SCHF ETF Symbol SCHF where we have detected an approximate 76 5 million dollar inflow that s a 0 4 increase week over week in outstanding units<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/YwuC1iKa8Ss\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the SCHF ETF Symbol SCHF where we have detected an approximate 76 5 million dollar inflow that s a 0 4 increase week over week in outstanding units<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/YupFK2new84\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T16:07:11.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/YwuC1iKa8Ss/schf-etf-experiences-big-inflow-cm1202452"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/YupFK2new84/schf-etf-experiences-big-inflow-cm1202452"
                },
                {
                   "title": "Noteworthy ETF Inflows: SPIB",
-                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the SPDR Portfolio Intermediate Term Corporate Bond ETF Symbol SPIB where we have detected an approximate 88 3 million dollar inflow that s a 1 7 increase<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/t2cGsCgo1ug\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the SPDR Portfolio Intermediate Term Corporate Bond ETF Symbol SPIB where we have detected an approximate 88 3 million dollar inflow that s a 1 7 increase<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Ylz9P4wP9CU\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T16:07:16.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/t2cGsCgo1ug/noteworthy-etf-inflows-spib-cm1202453"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Ylz9P4wP9CU/noteworthy-etf-inflows-spib-cm1202453"
                },
                {
                   "title": "Noteworthy ETF Inflows: KRE, SNV, SBNY, HBAN",
-                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the SPDR S amp P Regional Banking ETF Symbol KRE where we have detected an approximate 113 1 million dollar inflow that s a 6 2 increase week over week<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/X33Os3Sj8ek\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Looking today at week over week shares outstanding changes among the universe of ETFs covered at ETF Channel one standout is the SPDR S amp P Regional Banking ETF Symbol KRE where we have detected an approximate 113 1 million dollar inflow that s a 6 2 increase week over week<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/qhGrkrHa2jA\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T16:07:23.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/X33Os3Sj8ek/noteworthy-etf-inflows-kre-snv-sbny-hban-cm1202454"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/qhGrkrHa2jA/noteworthy-etf-inflows-kre-snv-sbny-hban-cm1202454"
                },
                {
                   "title": "IEF, SDVY: Big ETF Inflows",
-                  "content": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel the biggest inflow was seen in the iShares 7 10 Year Treasury Bond ETF IEF which added 4 400 000 units or a 2 8 increase week over week And on a percentage change basis the ETF with<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/HB7fOQ8gU48\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel the biggest inflow was seen in the iShares 7 10 Year Treasury Bond ETF IEF which added 4 400 000 units or a 2 8 increase week over week And on a percentage change basis the ETF with<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/uyl4-sH88sA\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "ETFs",
                   "date": "2019-08-23T16:09:22.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/HB7fOQ8gU48/ief-sdvy-big-etf-inflows-cm1202469"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/uyl4-sH88sA/ief-sdvy-big-etf-inflows-cm1202469"
                }
             ]
          },
