@@ -8,6 +8,7 @@ Market News API is an API that gives you access to thousands of news articles ab
 - Nasdaq
 - Marketwatch
 - Wallstreet Journal
+- Business Insider
 
 ## Todo
 
@@ -37,6 +38,83 @@ A news feed is a collection of Articles that pertain to a certain subject. By de
 - `titleContains | string`: Returns articles that contain this exact string in the article title. (Case insensitive): Ex: ['Google'] by default, this is null.
 - `contentContains | string`: Returns articles that contain this exact string in the article contents. (Case insensitive): Ex: ['Mark Zuckerberg'] by default, this is null.
 
-## Types of Feeds
+### Types of Feeds
 
-To be discussed later.
+1. Top News
+
+- CNBC > Top News
+
+2. World News
+
+- CNBC > World News
+- Nasdaq > International
+- WallstreetJournal > World News
+
+3. U.S. News
+
+- CNBC > US News
+- Nasdaq > US Markets
+- WallstreetJournal > US Business
+
+4. Economy
+
+- CNBC > Economy
+- Nasdaq > Economy
+- Nasdaq > Taxes
+- Nasdaq > Credit and Debt
+- Nasdaq > Banking and Loans
+
+5. Politics
+
+- CNBC > Politics
+
+6. Markets
+
+- CNBC > Market Insider
+- CNBC > Trader Talk
+- CNBC > Options Action
+- Nasdaq > Stocks
+- Nasdaq > Options
+- Nasdaq > US Markets
+- WallstreetJournal > Market News
+
+7. Financial
+
+- CNBC > Finance
+- CNBC > Wealth
+- CNBC > Personal Finance
+- CNBC > Financial Advisors
+- CNBC > Small Business
+
+8. Technology
+
+- CNBC > Technology
+- Nasdaq > Technology
+- WallstreetJournal > Technology: What's News
+
+9. Business
+
+- CNBC > Business
+- CNBC > Small Business
+- Nasdaq > Business
+- Nasdaq > Small Business
+- WallstreetJournal > US Business
+
+10. Industry Sectors (Break down into sub-feeds)
+
+- CNBC > Healthcare
+- CNBC > Real Estate
+- CNBC > Autos
+- CNBC > Retail
+- CNBC > Energy
+- CNBC > Media
+- CNBC > Travel
+- CNBC > Technology
+- Nasdaq > Real Estate
+- Nasdaq > Technology
+
+11. ETF & Futures
+
+- CNBC > Futures Now
+- Nasdaq > ETFs
+- Nasdaq > Futures
