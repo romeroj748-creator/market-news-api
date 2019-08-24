@@ -1,5 +1,3 @@
-import { Article } from "../article/article.model";
-
 export class Channel {
   public name: string;
   public station: string;

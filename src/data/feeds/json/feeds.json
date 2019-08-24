@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Top News",
+    "channels": [
+      {
+        "stationName": "CNBC",
+        "channelName": "Top News"
+      }
+    ]
+  }
+]
