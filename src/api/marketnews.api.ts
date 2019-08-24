@@ -21,15 +21,15 @@ export class MarketNewsAPI {
   public autoScan = async (): Promise<void> => {
     console.log("Started autoscan.");
     while (true) {
-      // console.log("Scanning...");
+      // Scan Internet for Articles
       this.checkForNewArticles();
+      // Parse saved data into feeds
+      this.createFeeds();
       await new Thread().sleep(60000);
     }
   };
 
-  public createFeeds = async (): Promise<void> => {
-    console.log("Reading feeds");
-    // this.feedReader.extractFeed("CNBC", "Technology");
+  public createFeeds = (): void => {
     this.feedReader.createFeeds();
   };
 

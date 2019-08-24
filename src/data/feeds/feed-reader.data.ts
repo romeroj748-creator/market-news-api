@@ -1,13 +1,16 @@
 import { Station } from "src/models/station/station.model";
 import { Feed } from "./../../models/feed/feed.model";
 import { FileReader } from "./../../tools/filereader";
+import { FileWriter } from "./../../tools/filewriter";
 import * as FeedsJson from "./json/feeds.json";
 
 export class FeedReader {
   private fileReader: FileReader;
+  private fileWriter: FileWriter;
 
   constructor() {
     this.fileReader = new FileReader();
+    this.fileWriter = new FileWriter();
   }
 
   public createFeeds = (): void => {
@@ -35,8 +38,7 @@ export class FeedReader {
           });
           feeds.push(feed);
         });
-        console.log("Done interating");
-        console.log(JSON.stringify(feeds, null, 3));
+        this.fileWriter.writeObjectToFile(feeds, "./src/data/feeds/feeds.txt");
       });
   };
 }
