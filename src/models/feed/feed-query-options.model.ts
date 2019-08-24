@@ -5,6 +5,7 @@ export class FeedQueryOptions {
   public dateEnd: Date;
   public titleContains: string;
   public contentContains: string;
+  public resultLimit: number;
 
   constructor(data?: any) {
     const defaults = {
@@ -14,6 +15,7 @@ export class FeedQueryOptions {
       dateEnd: null,
       titleContains: "",
       contentContains: "",
+      resultLimit: 10,
       ...data
     };
     this.stations = defaults.stations;
@@ -22,5 +24,6 @@ export class FeedQueryOptions {
     this.dateEnd = defaults.dateEnd;
     this.titleContains = defaults.titleContains;
     this.contentContains = defaults.titleContains;
+    this.resultLimit = defaults.resultLimit;
   }
 }

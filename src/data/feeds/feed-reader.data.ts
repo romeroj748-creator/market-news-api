@@ -1,3 +1,4 @@
+import { Article } from "./../../models/article/article.model";
 import { Station } from "src/models/station/station.model";
 import { Feed } from "./../../models/feed/feed.model";
 import { FileReader } from "./../../tools/filereader";
@@ -32,7 +33,9 @@ export class FeedReader {
                 ch => ch.name === c.channelName
               );
               if (channel !== undefined) {
-                feed.addChannel(channel);
+                feed.articles = channel.articles.map(a => {
+                  return new Article(a);
+                });
               }
             }
           });
