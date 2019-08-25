@@ -13295,123 +13295,123 @@
             "articles": [
                {
                   "title": "Blockchain Used for First Major Real Estate Sale in Europe",
-                  "content": "By Landon Manning   A new test of the possibilities of distributed ledger technology has taken place in France with a multimillion dollar property sale conducted entirely over a blockchain.  As local media  reported  on June 30, 2019, the AnnA Villa in Paris was sold for 6.5 million euros via a transaction that took<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/OG8R7YHODnA\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "By Landon Manning   A new test of the possibilities of distributed ledger technology has taken place in France with a multimillion dollar property sale conducted entirely over a blockchain.  As local media  reported  on June 30, 2019, the AnnA Villa in Paris was sold for 6.5 million euros via a transaction that took<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/g1WxE93KVbY\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-07-03T15:35:53.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/OG8R7YHODnA/blockchain-used-for-first-major-real-estate-sale-in-europe-cm1172040"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/g1WxE93KVbY/blockchain-used-for-first-major-real-estate-sale-in-europe-cm1172040"
                },
                {
                   "title": "Reaching Full Potential: Are Real Estate Investors Wary of Opportunity Zones?",
-                  "content": "By Rémy Jacobson, Chairman and Co-Founder, Bunker Capital    Promising or penurious?   Opportunity Zones (OZs), as the name suggests, are areas expected to experience huge growth and offer significant potential for real estate investment, as certified by the US Department of the Treasury who also predict that $<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/n9aADwm1mcI\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "By Rémy Jacobson, Chairman and Co-Founder, Bunker Capital    Promising or penurious?   Opportunity Zones (OZs), as the name suggests, are areas expected to experience huge growth and offer significant potential for real estate investment, as certified by the US Department of the Treasury who also predict that $<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/iaWn5Hlh8qg\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-05-09T13:58:40.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/n9aADwm1mcI/reaching-full-potential-are-real-estate-investors-wary-of-opportunity-zones-cm1145886"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/iaWn5Hlh8qg/reaching-full-potential-are-real-estate-investors-wary-of-opportunity-zones-cm1145886"
                },
                {
                   "title": "How Millennials Are Reshaping Real Estate",
-                  "content": "Anyone who watches HGTV consistently is probably getting tired of hearing the phrases “open concept” and “updated kitchen” ad infinitum. Indeed, those phrases may be about to change, driven by Millennials who are more concerned with what Mother Nature has to offer, and have no desire to show off.  If you want to sell<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/eKj34P4GGsY\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Anyone who watches HGTV consistently is probably getting tired of hearing the phrases “open concept” and “updated kitchen” ad infinitum. Indeed, those phrases may be about to change, driven by Millennials who are more concerned with what Mother Nature has to offer, and have no desire to show off.  If you want to sell<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/LJXoOSlLSdA\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-04-23T12:42:42.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/eKj34P4GGsY/how-millennials-are-reshaping-real-estate-cm1133136"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/LJXoOSlLSdA/how-millennials-are-reshaping-real-estate-cm1133136"
                },
                {
                   "title": "Home Upgrades That Will Stand the Test of Time",
-                  "content": "Adobe    J. Pickens is no stranger to home remodeling. The designer and host of HGTV’s “The Work Around” has tackled plenty of  home renovations  throughout his career, and he’s learned that homeowners are concerned primarily about two things: cost and style.  Both are important factors in home improvement<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/WuaNZDuCPUk\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Adobe    J. Pickens is no stranger to home remodeling. The designer and host of HGTV’s “The Work Around” has tackled plenty of  home renovations  throughout his career, and he’s learned that homeowners are concerned primarily about two things: cost and style.  Both are important factors in home improvement<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/hFWxd11BSHk\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-03-28T13:06:31.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/WuaNZDuCPUk/home-upgrades-that-will-stand-the-test-of-time-cm1121177"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/hFWxd11BSHk/home-upgrades-that-will-stand-the-test-of-time-cm1121177"
                },
                {
                   "title": "What Retirees Need to Do in a Bear Market",
-                  "content": "It’s easy to ride the highs and lows of the stock market when you’re still working. After all, the advice for what to do with your  401k  in a down market is pretty standard: wait it out. The average bear market — usually defined as a dip of 20 percent or more — lasts for 13 months and bounces back in about 22. If<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/7fDbULbj92c\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "It’s easy to ride the highs and lows of the stock market when you’re still working. After all, the advice for what to do with your  401k  in a down market is pretty standard: wait it out. The average bear market — usually defined as a dip of 20 percent or more — lasts for 13 months and bounces back in about 22. If<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/ZNcpWrcQacc\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-02-28T13:43:52.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/7fDbULbj92c/what-retirees-need-to-do-in-a-bear-market-cm1107396"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/ZNcpWrcQacc/what-retirees-need-to-do-in-a-bear-market-cm1107396"
                },
                {
                   "title": "What to Do When You Inherit Real Estate That You Don&#39;t Want",
-                  "content": "Getting an inheritance when a loved one dies doesn’t always feel like a windfall — especially when it’s real estate that you don’t want. If you live in a  state with an inheritance tax on property , you might not want to deal with a tax bill, or you’re dreading the hassle of selling the property. There’s also the<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/-b8pQQirF5U\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Getting an inheritance when a loved one dies doesn’t always feel like a windfall — especially when it’s real estate that you don’t want. If you live in a  state with an inheritance tax on property , you might not want to deal with a tax bill, or you’re dreading the hassle of selling the property. There’s also the<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/U6X9QI9bcHk\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-02-27T13:36:58.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/-b8pQQirF5U/what-to-do-when-you-inherit-real-estate-that-you-dont-want-cm1106635"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/U6X9QI9bcHk/what-to-do-when-you-inherit-real-estate-that-you-dont-want-cm1106635"
                },
                {
                   "title": "Home Depot (HD) 4th Quarter Earnings: What to Expect",
-                  "content": "Shutterstock photo    Home Depot ( HD ), which is set to report fourth quarter fiscal 2018 earnings results before the opening bell Tuesday, has a lot to prove.  Despite concerns about profit margin and doubts about the strength of the housing market, where the number of existing home sales has declined on a<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/ZsR4_RAu7ZU\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Shutterstock photo    Home Depot ( HD ), which is set to report fourth quarter fiscal 2018 earnings results before the opening bell Tuesday, has a lot to prove.  Despite concerns about profit margin and doubts about the strength of the housing market, where the number of existing home sales has declined on a<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/_vnVWWLzWLU\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-02-25T13:06:40.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/ZsR4_RAu7ZU/home-depot-hd-4th-quarter-earnings-what-to-expect-cm1105270"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/_vnVWWLzWLU/home-depot-hd-4th-quarter-earnings-what-to-expect-cm1105270"
                },
                {
                   "title": "Zillow (Z): A Tale of Two Cliches",
-                  "content": "When Zillow ( Z ) announced their earnings yesterday, they challenged one well-worn cliché in pursuit of another. It is often said that you cannot go back, but with the current CEO Spencer Rascoff stepping down to make way for former boss Rich Barton, it seems that Zillow is doing just that.  Barton, a co-founder of<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/OuKeDmT_uvE\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "When Zillow ( Z ) announced their earnings yesterday, they challenged one well-worn cliché in pursuit of another. It is often said that you cannot go back, but with the current CEO Spencer Rascoff stepping down to make way for former boss Rich Barton, it seems that Zillow is doing just that.  Barton, a co-founder of<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/CXpi1KvgDOI\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-02-22T15:17:56.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/OuKeDmT_uvE/zillow-z-a-tale-of-two-cliches-cm1104568"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/CXpi1KvgDOI/zillow-z-a-tale-of-two-cliches-cm1104568"
                },
                {
                   "title": "U.S. Home Sales are Plummeting And Nobody&#39;s Sure Why",
-                  "content": "The U.S. housing market is crumbling--a worrying indication that an economic catastrophe could be brewing. Yet, nobody seems sure why this is happening in an economy that remains hale and hearty by most measures.  But don’t rush to your banker just yet hoping to get an easy deal. Rejections for mortgages and<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/eHLBw57-1bs\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "The U.S. housing market is crumbling--a worrying indication that an economic catastrophe could be brewing. Yet, nobody seems sure why this is happening in an economy that remains hale and hearty by most measures.  But don’t rush to your banker just yet hoping to get an easy deal. Rejections for mortgages and<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9QfMw4tLMn0\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-01-30T13:42:35.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/eHLBw57-1bs/us-home-sales-are-plummeting-and-nobodys-sure-why-cm1089578"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9QfMw4tLMn0/us-home-sales-are-plummeting-and-nobodys-sure-why-cm1089578"
                },
                {
                   "title": "8 Home Repairs to Take Care of Now Before They Become Disasters",
-                  "content": "You might think you’re sitting pretty after landing an exquisite house in a great school district at under market price and a mortgage that should mean you’ll make a mint when you sell the place and retire, but if the roof collapses, well,  none of the other stuff really matters .  As any homeowner can attest,<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Txb7QbHqkAk\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "You might think you’re sitting pretty after landing an exquisite house in a great school district at under market price and a mortgage that should mean you’ll make a mint when you sell the place and retire, but if the roof collapses, well,  none of the other stuff really matters .  As any homeowner can attest,<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/fuDJ6LZHv_8\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-01-29T14:13:03.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Txb7QbHqkAk/8-home-repairs-to-take-care-of-now-before-they-become-disasters-cm1088755"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/fuDJ6LZHv_8/8-home-repairs-to-take-care-of-now-before-they-become-disasters-cm1088755"
                },
                {
                   "title": "The Week In Review: Is Home Sales Signalling A Upcoming Recession? Yes and No.",
-                  "content": "Home sales historically begin contracting around two years prior to a recession - and home sales currently are contracting year-over-year. Is this a warning? This post also reviews the major economic releases issued this past week - although several scheduled releases were not made due to the government shutdown.<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/sJy7gvzUaYI\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Home sales historically begin contracting around two years prior to a recession - and home sales currently are contracting year-over-year. Is this a warning? This post also reviews the major economic releases issued this past week - although several scheduled releases were not made due to the government shutdown.<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/idSsOPdpktY\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2019-01-25T18:21:03.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/sJy7gvzUaYI/the-week-in-review-is-home-sales-signalling-a-upcoming-recession-yes-and-no-cm1087531"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/idSsOPdpktY/the-week-in-review-is-home-sales-signalling-a-upcoming-recession-yes-and-no-cm1087531"
                },
                {
                   "title": "&#39;Shark Tank&#39;s&#39; Barbara Corcoran Reveals How She Became the &#39;Queen of New York Real Estate&#39;",
-                  "content": "Real estate mogul and business expert Barbara Corcoran started  The Corcoran Group when she was just 23. Despite launching her company at a time when the business world was largely an old boys’ club, she managed to grow it into one of the top real estate firms in New York City.   I sat down with the “Shark Tank”<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/0FsPlOXieng\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Real estate mogul and business expert Barbara Corcoran started  The Corcoran Group when she was just 23. Despite launching her company at a time when the business world was largely an old boys’ club, she managed to grow it into one of the top real estate firms in New York City.   I sat down with the “Shark Tank”<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/o8Wgl0nssUQ\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2018-12-12T13:49:44.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/0FsPlOXieng/shark-tanks-barbara-corcoran-reveals-how-she-became-the-queen-of-new-york-real-estate-cm1067984"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/o8Wgl0nssUQ/shark-tanks-barbara-corcoran-reveals-how-she-became-the-queen-of-new-york-real-estate-cm1067984"
                },
                {
                   "title": "8 Steps To Take As Executor Of Parents&#39; Estate",
-                  "content": "By  Dave Rowan, CFP®    Being named the  executor  of your parents’ estate is a great honor. Your duty as executor is ultimately to carry out the final wishes of the deceased. While this can be a lot of work, it can also be rewarding to know that you are serving in this important role.   If you have been named the<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/4UZkUz0y6p8\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "By  Dave Rowan, CFP®    Being named the  executor  of your parents’ estate is a great honor. Your duty as executor is ultimately to carry out the final wishes of the deceased. While this can be a lot of work, it can also be rewarding to know that you are serving in this important role.   If you have been named the<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/36PW9dTBA4s\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2018-12-10T19:34:31.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/4UZkUz0y6p8/8-steps-to-take-as-executor-of-parents-estate-cm1067064"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/36PW9dTBA4s/8-steps-to-take-as-executor-of-parents-estate-cm1067064"
                },
                {
                   "title": "Signs of Economic Slowing",
-                  "content": "Even in the best of times various sectors of the economy can move in different directions.       To be clear:   I see no warning signs of an impending recession.  I can produce many charts showing a strong economy.  Although I am FAR from a fan of consumer sentiment - consumer sentiment remains near historical highs.<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/anl7YnF_97Y\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "Even in the best of times various sectors of the economy can move in different directions.       To be clear:   I see no warning signs of an impending recession.  I can produce many charts showing a strong economy.  Although I am FAR from a fan of consumer sentiment - consumer sentiment remains near historical highs.<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/BiOvUAfccKE\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2018-11-30T18:16:27.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/anl7YnF_97Y/signs-of-economic-slowing-cm1063106"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/BiOvUAfccKE/signs-of-economic-slowing-cm1063106"
                },
                {
                   "title": "The Buy Versus Rent Debate: 4 Questions To Ask",
-                  "content": "By  Humphrey Thomas, ChFEBC, CDFA, AAMS    The rent or buy debate is an important one and it resonates with many because of past economic crises. Sadly, many people lost their homes through the  2008 financial crisis , and many more took a hit on the value of their properties.   Impact of Financial Crisis  But what<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/OjYjn0kJNO8\" height=\"1\" width=\"1\" alt=\"\"/>",
+                  "content": "By  Humphrey Thomas, ChFEBC, CDFA, AAMS    The rent or buy debate is an important one and it resonates with many because of past economic crises. Sadly, many people lost their homes through the  2008 financial crisis , and many more took a hit on the value of their properties.   Impact of Financial Crisis  But what<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/tEXVEfCz6ZY\" height=\"1\" width=\"1\" alt=\"\"/>",
                   "station": "Nasdaq",
                   "channel": "Real Estate",
                   "date": "2018-11-30T15:00:00.000Z",
-                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/OjYjn0kJNO8/the-buy-versus-rent-debate-4-questions-to-ask-cm1061221"
+                  "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/tEXVEfCz6ZY/the-buy-versus-rent-debate-4-questions-to-ask-cm1061221"
                }
             ]
          },

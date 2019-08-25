@@ -16,7 +16,7 @@ Market News API is an API that gives you access to thousands of news articles ab
 - ~~Add more sources~~
 - ~~Add auto run~~
 - ~~Create Different Feed Types~~
-- Add Express Server
+- ~~Add Express Server~~
 - Publish API
 - Discord Bot
 

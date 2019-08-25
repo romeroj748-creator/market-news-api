@@ -3,11 +3,20 @@ const router = express.Router();
 import { FeedSearcher } from "./../data/feeds/feed-searcher.data";
 import { FeedQueryOptions } from "./../models/feed/feed-query-options.model";
 
-router.get("/test", (req: Request, res: Response) => {
-  res.send({ message: "Feeds Route is Working!" });
+const feedSearcher = new FeedSearcher();
+
+router.get("/list", (req: Request, res: Response) => {
+  new FeedSearcher()
+    .listFeeds()
+    .then(feeds => {
+      res.status(200).send(feeds);
+    })
+    .catch(error => {
+      res.status(400).send(error);
+    });
 });
 
-router.post("/", (req: Request, res: Response) => {
+router.post("/read", (req: Request, res: Response) => {
   const options: FeedQueryOptions = new FeedQueryOptions({
     name: req.body.name,
     stations: req.body.stations,
@@ -18,10 +27,11 @@ router.post("/", (req: Request, res: Response) => {
     contentContains: req.body.contentContains,
     resultLimit: req.body.resultLimit
   });
-  new FeedSearcher()
-    .getFeedCustom(options)
+  feedSearcher
+    .getFeed(options)
     .then(feed => {
-      res.status(200).send({ feed });
+      console.log(feed);
+      res.status(200).send(feed);
     })
     .catch(error => {
       res.status(400).send(error);
