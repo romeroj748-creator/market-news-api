@@ -27,7 +27,6 @@ export class FeedSearcher {
     });
   };
 
-  // BRb getting more food
   public getFeedCustom = async (options: FeedQueryOptions): Promise<Feed> => {
     return new Promise<Feed>((resolve, reject) => {
       const path = "./src/data/feeds/feeds.txt";
@@ -39,45 +38,40 @@ export class FeedSearcher {
         if (f !== undefined) {
           f.articles.forEach(a => {
             let valid = true;
-
-            // filter based on station
             if (options.stations.length > 0) {
               if (!options.stations.includes(a.station)) {
                 valid = false;
               }
             }
-
-            // filter based on channel
             if (options.channels.length > 0) {
               if (!options.channels.includes(a.channel)) {
                 valid = false;
               }
             }
-
-            // filter based on dateStart ?? fix
-            if (options.dateStart < a.date) {
+            if (options.dateStart > new Date(a.date)) {
               valid = false;
             }
-
-            // filter based on dateEnd ?? fix
-            if (options.dateEnd > a.date) {
+            if (options.dateEnd < new Date(a.date)) {
               valid = false;
             }
-
-            // filter based on title
-            if (options.titleContains !== "") {
-              if (!a.title.includes(options.titleContains)) {
-                valid = false;
-              }
+            if (options.titleContains.length > 0) {
+              let v = false;
+              options.titleContains.forEach(str => {
+                if (a.title.toLocaleLowerCase().includes(str.toLowerCase())) {
+                  v = true;
+                }
+              });
+              valid = v;
             }
-
-            // filter based on content
-            if (options.contentContains !== "") {
-              if (!a.content.includes(options.contentContains)) {
-                valid = false;
-              }
+            if (options.contentContains.length > 0) {
+              let v = false;
+              options.contentContains.forEach(str => {
+                if (a.content.toLocaleLowerCase().includes(str.toLowerCase())) {
+                  v = true;
+                }
+              });
+              valid = v;
             }
-
             if (valid && feed.articles.length < options.resultLimit) {
               feed.articles.push(a);
             }

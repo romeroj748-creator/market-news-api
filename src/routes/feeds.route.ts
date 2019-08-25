@@ -8,8 +8,6 @@ router.get("/test", (req: Request, res: Response) => {
 });
 
 router.post("/", (req: Request, res: Response) => {
-  // we need a better way of parsing the body info
-
   const options: FeedQueryOptions = new FeedQueryOptions({
     name: req.body.name,
     stations: req.body.stations,
@@ -20,7 +18,6 @@ router.post("/", (req: Request, res: Response) => {
     contentContains: req.body.contentContains,
     resultLimit: req.body.resultLimit
   });
-
   new FeedSearcher()
     .getFeedCustom(options)
     .then(feed => {

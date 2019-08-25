@@ -4,8 +4,8 @@ export class FeedQueryOptions {
   public channels: Array<string>;
   public dateStart: Date;
   public dateEnd: Date;
-  public titleContains: string;
-  public contentContains: string;
+  public titleContains: Array<string>;
+  public contentContains: Array<string>;
   public resultLimit: number;
 
   constructor(data?: any) {
@@ -15,8 +15,8 @@ export class FeedQueryOptions {
       channels: [],
       dateStart: 0,
       dateEnd: 0,
-      titleContains: "",
-      contentContains: "",
+      titleContains: [],
+      contentContains: [],
       resultLimit: 10,
       ...data
     };
@@ -42,14 +42,14 @@ export class FeedQueryOptions {
         : new Date(0);
     this.titleContains =
       defaults.titleContains !== undefined &&
-      typeof defaults.titleContains === "string"
+      defaults.titleContains instanceof Array
         ? defaults.titleContains
-        : "";
+        : [];
     this.contentContains =
       defaults.contentContains !== undefined &&
-      typeof defaults.contentContains === "string"
+      defaults.contentContains instanceof Array
         ? defaults.contentContains
-        : "";
+        : [];
     this.resultLimit =
       defaults.resultLimit !== undefined &&
       typeof defaults.resultLimit === "number"

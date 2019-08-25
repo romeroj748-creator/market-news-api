@@ -1590,115 +1590,115 @@
       "articles": [
          {
             "title": "Use This Bounce to Buy Cheaper, Short-Term Insurance for Your Portfolio",
-            "content": "Most investors will have been encouraged by seeing when they woke up this morning that stock market futures are significantly higher. As I write, those futures are indicating the Dow will be up a couple of hundred points at the open, with the Nasdaq recovering enough ground to pull it out of the official correction<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/m6pxJtvJ-rI\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "Most investors will have been encouraged by seeing when they woke up this morning that stock market futures are significantly higher. As I write, those futures are indicating the Dow will be up a couple of hundred points at the open, with the Nasdaq recovering enough ground to pull it out of the official correction<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/ecJ4C96e-PA\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2019-06-04T14:49:31.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/m6pxJtvJ-rI/use-this-bounce-to-buy-cheaper-shortterm-insurance-for-your-portfolio-cm1158722"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/ecJ4C96e-PA/use-this-bounce-to-buy-cheaper-shortterm-insurance-for-your-portfolio-cm1158722"
          },
          {
             "title": "Mid-Day Market Update: Buckeye Partners Rises On Acquisition News; Transenterix Shares Drop",
-            "content": "Midway through trading Friday the Dow traded down 0 56 percent to 25 683 90 while the NASDAQ declined 0 9 percent to 7 839 65 The S amp P also fell dropping 0 57 percent to 2 854 45 Leading and Lagging Sectors On Friday the utilities shares rose by 0 5 percent Meanwhile<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/a7Hsoy6-LNY\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "Midway through trading Friday the Dow traded down 0 56 percent to 25 683 90 while the NASDAQ declined 0 9 percent to 7 839 65 The S amp P also fell dropping 0 57 percent to 2 854 45 Leading and Lagging Sectors On Friday the utilities shares rose by 0 5 percent Meanwhile<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9HsaJcR1OXU\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2019-05-10T19:09:00.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/a7Hsoy6-LNY/mid-day-market-update-buckeye-partners-rises-on-acquisition-news-transenterix-shares-drop-cm1147417"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9HsaJcR1OXU/mid-day-market-update-buckeye-partners-rises-on-acquisition-news-transenterix-shares-drop-cm1147417"
          },
          {
             "title": "Micro E-Mini Nasdaq Futures: Another Way to Hedge Tech Stock Volatility",
-            "content": "Shutterstock photo    By Jim Iuorio / Managing Director of TJM Institutional Services  When Bitcoin hit its high in December 2017, its total market cap was approximately $420 billion. By contrast when the five stocks in the FAANG plus MSFT hit their highs back in September/October 2018, their combined market cap<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/5FwNtxada5A\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "Shutterstock photo    By Jim Iuorio / Managing Director of TJM Institutional Services  When Bitcoin hit its high in December 2017, its total market cap was approximately $420 billion. By contrast when the five stocks in the FAANG plus MSFT hit their highs back in September/October 2018, their combined market cap<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/-teAfxRF2Mw\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2019-05-07T13:42:48.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/5FwNtxada5A/micro-emini-nasdaq-futures-another-way-to-hedge-tech-stock-volatility-cm1143817"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/-teAfxRF2Mw/micro-emini-nasdaq-futures-another-way-to-hedge-tech-stock-volatility-cm1143817"
          },
          {
             "title": "Markets Still Trying To Digest Dollar Policy of Trump Administration; ECB Meeting",
-            "content": "John M. Bland, MBA, co-founder, Global-View.com      Trump Statements Opposing Strong Dollar Still Being Absorbed  A week ago U.S. President Trump took the unprecedented step in recent history of talking down the USD and opposing further policy tightening by the Federal Reserve. The last President to jawbone the Fed<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/4vdSEIamA5w\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "John M. Bland, MBA, co-founder, Global-View.com      Trump Statements Opposing Strong Dollar Still Being Absorbed  A week ago U.S. President Trump took the unprecedented step in recent history of talking down the USD and opposing further policy tightening by the Federal Reserve. The last President to jawbone the Fed<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/-uxn6Wmwz1c\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2018-07-26T14:32:08.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/4vdSEIamA5w/markets-still-trying-to-digest-dollar-policy-of-trump-administration-ecb-meeting-cm997105"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/-uxn6Wmwz1c/markets-still-trying-to-digest-dollar-policy-of-trump-administration-ecb-meeting-cm997105"
          },
          {
             "title": "Dollar Pares Losses, Possible Tariff Exemptions For Canada And Mexico",
-            "content": "When Gary Cohn's resignation hit the news wires last night, the U.S. dollar sold off aggressively against all of the major currencies but there was virtually zero follow through during the NY trading session.  Instead the dollar rebounded as U.S. stocks failed to \"crash\" likely many anticipated.\" It took more than<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/O5jVtuHI5uM\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "When Gary Cohn's resignation hit the news wires last night, the U.S. dollar sold off aggressively against all of the major currencies but there was virtually zero follow through during the NY trading session.  Instead the dollar rebounded as U.S. stocks failed to \"crash\" likely many anticipated.\" It took more than<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/95FgJl87dg0\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2018-03-07T22:10:05.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/O5jVtuHI5uM/dollar-pares-losses-possible-tariff-exemptions-for-canada-and-mexico-cm931569"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/95FgJl87dg0/dollar-pares-losses-possible-tariff-exemptions-for-canada-and-mexico-cm931569"
          },
          {
             "title": "Natural Gas Got Bomb Cyclone in the New Year",
-            "content": "Natural gas is the dog that got its day in the New Year trading as high as $175/MMBtu spot in New York. Less than a month ago, Gas Exporting Countries Forum  expected lower natural gas prices “over the next two decades” mostly due to a surge in supplies from unconventional sources.  With the sever winter storm<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/_6pvOZafWiE\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "Natural gas is the dog that got its day in the New Year trading as high as $175/MMBtu spot in New York. Less than a month ago, Gas Exporting Countries Forum  expected lower natural gas prices “over the next two decades” mostly due to a surge in supplies from unconventional sources.  With the sever winter storm<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/LQKIWfv1hdQ\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2018-01-05T20:04:19.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/_6pvOZafWiE/natural-gas-got-bomb-cyclone-in-the-new-year-cm901145"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/LQKIWfv1hdQ/natural-gas-got-bomb-cyclone-in-the-new-year-cm901145"
          },
          {
             "title": "Bitcoin: Money of the Future?",
-            "content": "Bitcoin has become a buzz word in the investing community, not as an alternate currency unit replacing the fiat money, but as an asset class with a spectacular 1,600%+ return this year, valuation almost doubled just in the December month alone.   Bitcoin  was heading towards $20,000 before pulling back to today’s<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/kzXG0GCKlbo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "Bitcoin has become a buzz word in the investing community, not as an alternate currency unit replacing the fiat money, but as an asset class with a spectacular 1,600%+ return this year, valuation almost doubled just in the December month alone.   Bitcoin  was heading towards $20,000 before pulling back to today’s<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/9InCfMVlq4w\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2017-12-21T20:36:46.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/kzXG0GCKlbo/bitcoin-money-of-the-future-cm895538"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/9InCfMVlq4w/bitcoin-money-of-the-future-cm895538"
          },
          {
             "title": "Mid-Afternoon Market Update: NASDAQ Down 1.5%; Perrigo Shares Spike Higher",
-            "content": "Toward the end of trading Thursday the Dow traded down 0 56 percent to 21 925 81 while the NASDAQ declined 1 52 percent to 6 256 89 The S amp P also fell dropping 0 96 percent to 2 450 33 Leading and Lagging Sectors Thursday afternoon the non cyclical consumer goods<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/R9A8YvIrgOU\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "Toward the end of trading Thursday the Dow traded down 0 56 percent to 21 925 81 while the NASDAQ declined 1 52 percent to 6 256 89 The S amp P also fell dropping 0 96 percent to 2 450 33 Leading and Lagging Sectors Thursday afternoon the non cyclical consumer goods<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/Uu-Zm-ctpS8\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2017-08-10T20:09:45.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/R9A8YvIrgOU/mid-afternoon-market-update-nasdaq-down-15-perrigo-shares-spike-higher-cm830501"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/Uu-Zm-ctpS8/mid-afternoon-market-update-nasdaq-down-15-perrigo-shares-spike-higher-cm830501"
          },
          {
             "title": "This Week Ahead In The Stock Market: A Focus On The Numbers",
-            "content": "On the evidence of stock market futures early this morning, it looks as if traders and investors could be in for a frustrating week.  It will be frustrating, not because futures are indicating a much lower opening and suggesting that stocks could tumble this week. No, what will make it frustrating is that it is<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/geGJgBI_4Us\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "On the evidence of stock market futures early this morning, it looks as if traders and investors could be in for a frustrating week.  It will be frustrating, not because futures are indicating a much lower opening and suggesting that stocks could tumble this week. No, what will make it frustrating is that it is<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/hXJEv0FYLEU\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2017-03-27T15:17:55.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/geGJgBI_4Us/this-week-ahead-in-the-stock-market-a-focus-on-the-numbers-cm765861"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/hXJEv0FYLEU/this-week-ahead-in-the-stock-market-a-focus-on-the-numbers-cm765861"
          },
          {
             "title": "Dollar - Should You Trade or Fade FOMC?",
-            "content": "Daily FX Market Roundup 03.14.17   The Federal Reserve is gearing up to raise interest rates for the first time in 2017 and instead rising, U.S. yields fell, dragging USD/JPY down with it.   However the dollar did not fall against other major currencies - instead it appreciated versus EUR, GBP, AUD, NZD and CAD. <img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/WHCdWctbAgs\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "Daily FX Market Roundup 03.14.17   The Federal Reserve is gearing up to raise interest rates for the first time in 2017 and instead rising, U.S. yields fell, dragging USD/JPY down with it.   However the dollar did not fall against other major currencies - instead it appreciated versus EUR, GBP, AUD, NZD and CAD. <img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/NZ_GAc7Jruw\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2017-03-14T21:31:18.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/WHCdWctbAgs/dollar-should-you-trade-or-fade-fomc-cm760804"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/NZ_GAc7Jruw/dollar-should-you-trade-or-fade-fomc-cm760804"
          },
          {
             "title": "Forex: How Low Can the Pound Go?",
-            "content": "With the UK Brexit vote sending shock waves through the forex and other markets, a question being asked is how low can the GBPUSD go as forecasts have to be adjusted to account for the new reality?   Why I am using the word shock more than surprise is that financial markets had discounted a vote for Remain and this<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/hJYgcFAnDkI\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "With the UK Brexit vote sending shock waves through the forex and other markets, a question being asked is how low can the GBPUSD go as forecasts have to be adjusted to account for the new reality?   Why I am using the word shock more than surprise is that financial markets had discounted a vote for Remain and this<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/39bwa2ElXUQ\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2016-06-25T15:00:51.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/hJYgcFAnDkI/forex-how-low-can-the-pound-go-cm640770"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/39bwa2ElXUQ/forex-how-low-can-the-pound-go-cm640770"
          },
          {
             "title": "Sub-$10B Energy Stocks For 2013",
-            "content": "Energy stocks have had their shares of trials and tribulations in 2012. Of the nine select sector SPDRs  ETFs  , only the Utilities Select SPDR (NYSE:  XLU  ) has performed worse than the Energy Select Sector SPDR (NYSE:  XLE  ) this year.  The average return offered by Exxon Mobil (NYSE:  XOM  ), Chevron (NYSE:<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/iD62g_wyLmo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "Energy stocks have had their shares of trials and tribulations in 2012. Of the nine select sector SPDRs  ETFs  , only the Utilities Select SPDR (NYSE:  XLU  ) has performed worse than the Energy Select Sector SPDR (NYSE:  XLE  ) this year.  The average return offered by Exxon Mobil (NYSE:  XOM  ), Chevron (NYSE:<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/T0PQQz7rA3U\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2012-12-31T20:54:54.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/iD62g_wyLmo/sub10b-energy-stocks-for-2013-cm202977"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/T0PQQz7rA3U/sub10b-energy-stocks-for-2013-cm202977"
          },
          {
             "title": "Benzinga Market Primer, Monday, December 31: New Year&#39;s Eve Edition",
-            "content": "Futures Indicate Lower Open on Imminent Cliff  U.S. equity futures were higher but the Futures-Fair Value was lower, indicating a lower open for Wall Street Monday. Late Friday, futures crashed as investors feared that politicians were heading into the weekend neither with a deal nor a framework for such an<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/hkZkB0xGUPA\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "Futures Indicate Lower Open on Imminent Cliff  U.S. equity futures were higher but the Futures-Fair Value was lower, indicating a lower open for Wall Street Monday. Late Friday, futures crashed as investors feared that politicians were heading into the weekend neither with a deal nor a framework for such an<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/JjAMWNjXXzE\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2012-12-31T20:39:56.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/hkZkB0xGUPA/benzinga-market-primer-monday-december-31-new-years-eve-edition-cm202971"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/JjAMWNjXXzE/benzinga-market-primer-monday-december-31-new-years-eve-edition-cm202971"
          },
          {
             "title": "Stocks Crushed as Fiscal Cliff Nears",
-            "content": "The U.S. stock market fell sharply to end the week on Friday as hopes for a compromise on fiscal cliff negotiations waned late in the day.  The final hour of trade saw particularly heavy selling, sending the major averages out on session lows. The Dow Jones Industrial Average fell below the 13,000 level and<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/kCrhNnLyyhU\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "content": "The U.S. stock market fell sharply to end the week on Friday as hopes for a compromise on fiscal cliff negotiations waned late in the day.  The final hour of trade saw particularly heavy selling, sending the major averages out on session lows. The Dow Jones Industrial Average fell below the 13,000 level and<img src=\"http://feeds.feedburner.com/~r/nasdaq/categories/~4/fHgYvZVM_H0\" height=\"1\" width=\"1\" alt=\"\"/>",
             "station": "Nasdaq",
             "channel": "Futures",
             "date": "2012-12-31T16:34:51.000Z",
-            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/kCrhNnLyyhU/stocks-crushed-as-fiscal-cliff-nears-cm202848"
+            "link": "http://articlefeeds.nasdaq.com/~r/nasdaq/categories/~3/fHgYvZVM_H0/stocks-crushed-as-fiscal-cliff-nears-cm202848"
          }
       ]
    }
