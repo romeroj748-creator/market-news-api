@@ -1,4 +1,5 @@
 import * as fs from "fs";
+import { Feed } from "./../models/feed/feed.model";
 
 export class FileReader {
   public readObjectFromFile = async (path: string): Promise<any> => {
@@ -17,6 +18,14 @@ export class FileReader {
 
         resolve(data);
       });
+    });
+  };
+
+  public readFeedsFromFile = async (): Promise<Array<Feed>> => {
+    const path = "./src/data/feeds/feeds.txt";
+
+    return this.readObjectFromFile(path).then((feeds: Array<Feed>) => {
+      return feeds;
     });
   };
 }

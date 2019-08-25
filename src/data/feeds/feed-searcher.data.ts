@@ -9,29 +9,23 @@ export class FeedSearcher {
     this.filereader = new FileReader();
   }
 
-  public getFeed = async (name: string): Promise<Array<Article>> => {
-    return new Promise<Array<Article>>((resolve, reject) => {
-      const path = "./src/data/feeds/feeds.txt";
-      this.filereader.readObjectFromFile(path).then((fs: Array<Feed>) => {
-        const feed = fs.find(f => f.name === name);
-        let articles: Array<Article> = [];
-        if (feed !== undefined) {
-          articles = feed.articles.map((a: Article) => {
-            return new Article(a);
-          });
-          resolve(articles);
-        } else {
-          reject({ message: "Unable to find feed with that name." });
-        }
+  public listFeeds = async (): Promise<Array<Feed>> => {
+    return this.filereader.readFeedsFromFile().then((feeds: Array<Feed>) => {
+      const fs: Array<Feed> = feeds;
+      fs.forEach(f => {
+        f.articles = [];
       });
+
+      return fs;
     });
   };
 
-  public getFeedCustom = async (options: FeedQueryOptions): Promise<Feed> => {
+  public getFeed = async (options: FeedQueryOptions): Promise<Feed> => {
     return new Promise<Feed>((resolve, reject) => {
-      const path = "./src/data/feeds/feeds.txt";
-      this.filereader.readObjectFromFile(path).then((fs: Array<Feed>) => {
-        const f = fs.find((fe: Feed) => fe.name === options.name);
+      this.filereader.readFeedsFromFile().then((feeds: Array<Feed>) => {
+        const f = feeds.find(
+          (fe: Feed) => fe.name.toLowerCase() === options.name.toLowerCase()
+        );
         const feed = new Feed();
         feed.name = options.name;
         console.log(options);
@@ -48,10 +42,16 @@ export class FeedSearcher {
                 valid = false;
               }
             }
-            if (options.dateStart > new Date(a.date)) {
+            if (
+              new Date(0).getTime() !== options.dateStart.getTime() &&
+              options.dateStart > new Date(a.date)
+            ) {
               valid = false;
             }
-            if (options.dateEnd < new Date(a.date)) {
+            if (
+              new Date(0).getTime() !== options.dateEnd.getTime() &&
+              options.dateEnd < new Date(a.date)
+            ) {
               valid = false;
             }
             if (options.titleContains.length > 0) {
