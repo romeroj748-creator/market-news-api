@@ -3,6 +3,126 @@
       "name": "Top News",
       "articles": [
          {
+            "title": "Everything Disney revealed about its parks, cruise lines and resorts at D23 Expo",
+            "content": "Everything Disney revealed about its parks, cruise lines and resorts at its D23 Expo in Anaheim, California.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T17:45:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/disney-unveils-more-about-its-parks-cruises-and-resorts-at-d23-expo.html"
+         },
+         {
+            "title": "Consumer DNA testing has hit a lull — here's how it could capture the next wave of users",
+            "content": "experts speculate that the natural expiration of the early adopter wave and growing privacy concerns are to blame. But companies might be able to recover if they provide compelling medical reasons for users to get the tests.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T16:52:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/dna-tests-from-companies-like-23andme-ancestry-see-sales-slowdown.html"
+         },
+         {
+            "title": "Review: The 2019 Lamborghini Urus is a $200,000 fire-breathing super SUV",
+            "content": "A $200,000 five-seat, four-door SUV with a 641-horsepower V-8 engine, the Urus is half SUV and half fire breathing supercar. We love it.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T16:27:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/review-the-2019-lamborghini-urus-is-a-200000-fire-breathing-super-suv.html"
+         },
+         {
+            "title": "Kudlow does not expect China to retaliate against Trump's latest tariffs despite Beijing's warning",
+            "content": "Despite Kudlow&#039;s expectations, China said on Saturday that it strongly opposes Trump&#039;s decision to levy additional tariffs on $550 billion worth of Chinese goods, and warned the U.S. of consequences if it does not end its &quot;wrong actions.&quot;",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T15:44:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/kudlow-does-not-expect-china-to-retaliate-against-trumps-latest-tariffs.html"
+         },
+         {
+            "title": "Fantasy football start-up thinks it can beat ESPN and Yahoo by catering to women and casual fans",
+            "content": "Sleeper is a small San Francisco fantasy football start-up that is building a diverse team to challenge Yahoo and ESPN.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T14:30:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/sleeper-casual-fantasy-football-start-up-battling-yahoo-and-espn.html"
+         },
+         {
+            "title": "Iran foreign minister makes surprise visit to France during G7 but has no plans to meet with US",
+            "content": "Mohammad Javad Zarif was holding talks with his French counterpart to assess what conditions could lead to a de-escalation of tension between Tehran and Washington, a French official said.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T14:10:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/irans-zarif-lands-in-frances-biarritz-talks-with-us-not-on-agenda.html"
+         },
+         {
+            "title": "Income sharing agreements could mean interest rates for students above 18%",
+            "content": "Venture capitalists, colleges and politicians are working to make income sharing agreements the norm on campuses. Consumer advocates are worried.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T13:30:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/income-sharing-agreements-could-cost-students-more-than-loans.html"
+         },
+         {
+            "title": "Why this investor left the pursuit of billion-dollar exits to help employers hire people with autism",
+            "content": "Brian Jacobs left Emergence Capital to start his own venture firm and invest in companies that are making people on the autism spectrum more employable.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T13:15:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/brian-jacobs-started-moai-capital-to-invest-in-autism-employment.html"
+         },
+         {
+            "title": "White House says Trump regrets not raising tariffs on China higher",
+            "content": "The White House said Trump&#039;s statement that he had &quot;second thoughts&quot; about escalating the trade war was &quot;greatly misinterpreted.&quot;",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T13:14:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/white-house-says-trump-regrets-not-raising-tariffs-on-china-higher.html"
+         },
+         {
+            "title": "Bond yields are on a path lower as recessions risks rise: Strategist",
+            "content": "The Federal Reserve&#039;s increasingly risk-conscious stance puts bond yields on a course lower, and not necessarily for good reason, says Bank of America Merrill Lynch&#039;s Mark Cabana.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T13:00:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/bond-yields-are-on-a-path-lower-as-recessions-risks-rise-strategist.html"
+         },
+         {
+            "title": "US-UK trade deal within a year of Brexit will be tight, UK PM Johnson",
+            "content": "It will be tight to meet the United States&#039; desire to do a post-Brexit trade deal with Britain within a year, British Prime Minister Boris Johnson said on Sunday.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T11:26:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/us-uk-trade-deal-within-a-year-of-brexit-will-be-tight-uk-pm-johnson.html"
+         },
+         {
+            "title": "At G-7, Trump says he is not happy about North Korea missile tests",
+            "content": "President Donald Trump said Sunday he was not happy after North Korea launched short-range ballistic missiles over the weekend.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T10:37:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/at-g-7-trump-says-he-is-not-happy-about-north-korea-missile-tests.html"
+         },
+         {
+            "title": "Trump hints at a 'very big trade deal' with Britain post Brexit",
+            "content": "President Donald Trump said that he would have a major trade deal with U.K. after it leaves the European Union.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T09:41:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/trump-at-g7-hints-at-very-big-trade-deal-with-britain-post-brexit.html"
+         },
+         {
+            "title": "MIT scientists say new skin patch to deliver cancer medication in 60 seconds shows promise in mice",
+            "content": "Researchers at the Massachusetts Institute of Technology developed the patch, which was made to fight melanoma, a deadly but highly treatable form of skin cancer.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T09:00:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/new-skin-patch-to-deliver-cancer-medicine-shows-promise-in-mice-mit-scientists-say.html"
+         },
+         {
+            "title": "Trump on US-China trade war: 'I could declare a national emergency'",
+            "content": "Clouding the G-7 gathering, which represents the world&#039;s major industrial economies, are the tit-for-tat tariffs between Washington and Beijing.",
+            "station": "CNBC",
+            "channel": "Top News",
+            "date": "2019-08-25T08:45:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/25/trump-on-us-china-trade-war-i-could-declare-a-national-emergency.html"
+         },
+         {
             "title": "Here's what we learned about Disney's upcoming films at the D23 Expo",
             "content": "On Saturday, Disney gave fans more to feast on. In addition to providing information about already announced and upcoming releases like &quot;Frozen II,&quot; &quot;Star Wars: The Rise of Skywalker&quot; and &quot;Black Widow,&quot; Disney shared details about previously unannounced projects like &quot;Raya and the Last Dragon&quot; and &quot;Black Panther II&quot; during a panel at its D23 Expo in Anaheim.",
             "station": "CNBC",
@@ -27,28 +147,12 @@
             "link": "https://www.cnbc.com/2019/08/24/trump-can-use-these-powers-to-pressure-us-companies-to-quit-china.html"
          },
          {
-            "title": "Trump is meeting with world leaders at G7 as he escalates US-China trade war",
-            "content": "The summit comes amid fears over a global economic slowdown, and U.S. tensions over trade allies, Iran and Russia.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-24T17:03:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/24/trump-is-meeting-with-world-leaders-at-g7-as-he-escalates-us-china-trade-war.html"
-         },
-         {
             "title": "This couple spent 7 months visiting every U.S. national park—here's how they did it",
             "content": "Amazing things happen when you embrace #vanlife",
             "station": "CNBC",
             "channel": "Top News",
             "date": "2019-08-24T16:00:00.000Z",
             "link": "https://www.cnbc.com/2019/08/24/heres-how-a-couple-spent-7-months-visiting-every-us-national-park.html"
-         },
-         {
-            "title": "LinkedIn is training food truck workers, teachers and athletes to fill the tech talent gap",
-            "content": "Since 2017, LinkedIn has launched three apprenticeship programs designed to bring non-traditional workers into its engineering, sales and recruiting ranks.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-24T14:30:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/24/linkedin-apprentice-programs-train-food-workers-teachers-athletes.html"
          },
          {
             "title": "Trump's tariffs on monkeys could 'severely damage' US medical research and send labs to China",
@@ -67,14 +171,6 @@
             "link": "https://www.cnbc.com/2019/08/24/sallie-mae-americans-spent-an-average-of-26226-on-college-last-year.html"
          },
          {
-            "title": "There's a game-changing way for people with disabilities to save. Few are using it",
-            "content": "ABLE accounts offer those with disabilities and their families a way to save without jeopardizing critical government benefits. Yet, only a fraction of those eligible have one.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-24T13:30:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/24/theres-a-game-changing-way-for-the-disabled-to-save-but-few-use-it.html"
-         },
-         {
             "title": "The investing mistakes you want to avoid as the market sinks — and what to do instead",
             "content": "Today&#039;s up and down markets can make you prone to certain investing mistakes. Here&#039;s what to watch out for and when to take action.",
             "station": "CNBC",
@@ -89,14 +185,6 @@
             "channel": "Top News",
             "date": "2019-08-24T13:00:00.000Z",
             "link": "https://www.cnbc.com/2019/08/24/china-is-not-paying-for-it-trumps-tariffs-hit-beer-brewers-and-book-publishers.html"
-         },
-         {
-            "title": "The secret to a happier weekend? Chocolates, video games and selfies, researchers say",
-            "content": "There&#039;s never been a better reason to reach for that Hershey&#039;s chocolate bar.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-24T13:00:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/24/chocolate-video-games-and-selfies-can-make-you-happier-researchers-say.html"
          },
          {
             "title": "This shop in Seattle can fix the original Tesla Roadsters that Elon Musk left behind",
@@ -115,38 +203,6 @@
             "link": "https://www.cnbc.com/2019/08/24/donald-tusk-eu-will-retaliate-if-us-imposes-tariffs-on-france-over-digital-tax.html"
          },
          {
-            "title": "Bolsonaro to send army to fight huge fires in the Amazon",
-            "content": "Under international pressure to contain fires sweeping parts of Brazil&#039;s Amazon, President Jair Bolsonaro on Friday authorized use of the military to battle the huge blazes while thousands took to the streets to protest his environmental policies.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-24T09:58:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/24/bolsonaro-to-send-army-to-fight-huge-fires-in-the-amazon.html"
-         },
-         {
-            "title": "Recession-proof your life with these four steps",
-            "content": "With all the rumblings about a possible recession on the horizon, it pays to be prepared.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T23:41:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/how-to-recession-proof-your-life.html"
-         },
-         {
-            "title": "She-Hulk, Moon Knight and Ms. Marvel coming to Disney+",
-            "content": "",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T23:36:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/shehulk-moon-knight-and-ms-marvel-coming-to-disney.html"
-         },
-         {
-            "title": "'There's more room to fall' in this market, Wharton's Jeremy Siegel warns",
-            "content": "&quot;I would love this to be clarified. We come to a deal on trade, boy, this market is up 10 to 15%, but without it&#039;s going to be worrisome,&quot; Jeremy Siegel says.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T23:16:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/theres-more-room-to-fall-in-this-market-whartons-jeremy-siegel-warns.html"
-         },
-         {
             "title": "Everything we learned at D23's Disney+ panel",
             "content": "Disney is set to reveal new information about its upcoming streaming service&#039;s shows and films during its Disney+ panel at D23 Expo in Anaheim, California.",
             "station": "CNBC",
@@ -155,28 +211,12 @@
             "link": "https://www.cnbc.com/2019/08/23/everything-we-learned-at-d23s-disney-panel.html"
          },
          {
-            "title": "Japan coastguard says it detected North Korean ballistic missile launch",
-            "content": "Japan&#039;s coastguard said it had detected ballistic missile launches from North Korea and warned shipping to stay to stay clear of any debris.",
+            "title": "Week ahead: Stocks could be rocky on trade and economy fears as August breaks low volatility streak",
+            "content": "The final week of August could be highly volatile as markets fret over the economy and the latest developments in trade wars.",
             "station": "CNBC",
             "channel": "Top News",
-            "date": "2019-08-23T22:30:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/north-korea-seen-to-have-launched-missile-japan-coast-guard-says.html"
-         },
-         {
-            "title": "Trump will raise tariff rates on Chinese goods in response to trade war retaliation",
-            "content": "Trump said he will raise tariffs on $250 billion in Chinese goods to 30% and hike duties on another $300 billion in products to 15%.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T21:01:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/trump-will-raise-tariff-rates-on-chinese-goods-in-response-to-trade-war-retaliation.html"
-         },
-         {
-            "title": "Fed Vice Chair Clarida says the global economic outlook has worsened since July meeting",
-            "content": "Federal Reserve Vice Chair Richard Clarida said Friday that the global economy has deteriorated in the past month.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T20:13:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/fed-vice-chair-clarida-says-the-global-economic-outlook-has-worsened-since-july-meeting.html"
+            "date": "2019-08-23T20:49:00.000Z",
+            "link": "https://www.cnbc.com/2019/08/23/week-ahead-stocks-could-be-rocky-on-trade-economy.html"
          },
          {
             "title": "Trump's trade threats increased the chances for a recession, but also a Fed rate cut",
@@ -195,52 +235,12 @@
             "link": "https://www.cnbc.com/2019/08/23/heres-a-list-of-american-products-targeted-by-chinas-new-tariffs.html"
          },
          {
-            "title": "In a bad sign for trade talks, Trump deploys a new label for China's Xi – 'enemy'",
-            "content": "&quot;My only question is, who is our bigger enemy, Jay Powell or Chairman Xi?&quot; Trump wrote amid a series of tweets that rattled markets Friday.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T16:40:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/bad-sign-for-trade-talks-trump-calls-china-president-xi-enemy.html"
-         },
-         {
             "title": "Shares of companies that manufacture in China plunge after Trump orders them to move",
             "content": "Multinationals that rely on the supply chain from China are tumbling after President Donald Trump ordered them to find alternatives to their Chinese operations.",
             "station": "CNBC",
             "channel": "Top News",
             "date": "2019-08-23T16:20:00.000Z",
             "link": "https://www.cnbc.com/2019/08/23/shares-of-companies-that-manufacture-in-china-plunge-after-trump-orders-them-to-move.html"
-         },
-         {
-            "title": "Trump 'hereby' orders US companies to find an alternative to China",
-            "content": "&quot;We don&#039;t need China and, frankly, would be far better off without them,&quot; Trump tweeted.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T15:03:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/trump-says-hes-ordering-american-companies-to-immediately-start-looking-for-an-alternative-to-china.html"
-         },
-         {
-            "title": "Self-made millionaire: 6 biggest money lies young people need to stop telling themselves",
-            "content": "Time for a reality check.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T14:35:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/self-made-millionaire-6-biggest-lies-we-tell-ourselves-about-money.html"
-         },
-         {
-            "title": "Dow plummets more than 600 points after Trump orders US manufacturers to leave China",
-            "content": "Stocks dropped after Donald Trump ordered that U.S. manufacturers find alternatives to their operations in China.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T06:20:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/us-stocks-wall-street-monitors-speech-from-fed-chair-jerome-powell.html"
-         },
-         {
-            "title": "South Korea is scrapping a security deal with Japan — here's why it matters",
-            "content": "Recent trade friction between the two Asian powerhouses has morphed into a dispute with political implications that go far beyond the region.",
-            "station": "CNBC",
-            "channel": "Top News",
-            "date": "2019-08-23T05:50:00.000Z",
-            "link": "https://www.cnbc.com/2019/08/23/what-is-the-korea-japan-intelligence-sharing-agreement.html"
          }
       ]
    },
@@ -248,12 +248,44 @@
       "name": "World News",
       "articles": [
          {
-            "title": "G-7 Summit Off to Rocky Start as U.S. Officials Assail France",
-            "content": "The Group of Seven summit got off to a turbulent start as U.S. officials criticized French President Emmanuel Macron for his handling of the gathering.",
+            "title": "Water Cannons and a Gun Shot: Hong Kong Protest Violence Intensifies",
+            "content": "Hong Kong police deployed water cannons for the first time Sunday in a show of force as pro-democracy protests turned violent following nearly two weeks of relative calm.",
             "station": "Wallstreet Journal",
             "channel": "World News",
-            "date": "2019-08-24T18:46:00.000Z",
-            "link": "https://www.wsj.com/articles/world-leaders-meet-in-france-amid-divisions-over-trade-and-the-environment-11566645707"
+            "date": "2019-08-25T18:19:00.000Z",
+            "link": "https://www.wsj.com/articles/hong-kong-police-battle-protesters-threatening-to-escalate-force-11566731458"
+         },
+         {
+            "title": "U.S. Says Trump Regrets Not Raising Tariffs Higher",
+            "content": "The White House doubled down on President Trump’s commitment to the trade war with China after the president appeared to show a glimmer of regret about escalating trade tensions at the Group of Seven summit.",
+            "station": "Wallstreet Journal",
+            "channel": "World News",
+            "date": "2019-08-25T16:45:00.000Z",
+            "link": "https://www.wsj.com/articles/trump-suggests-second-thoughts-about-trade-war-11566728236"
+         },
+         {
+            "title": "Israel Strikes Iranian Targets in Syria to Prevent 'Killer Drone' Attack",
+            "content": "Israel said it struck military facilities in Syria to prevent suspected planned attacks from Iranian forces, raising the risk of a clash with Tehran amid a broader Israeli campaign to counter the military activities of the Islamic Republic.",
+            "station": "Wallstreet Journal",
+            "channel": "World News",
+            "date": "2019-08-25T14:03:00.000Z",
+            "link": "https://www.wsj.com/articles/israel-strikes-iranian-targets-in-syria-to-prevent-killer-drone-attack-11566725172"
+         },
+         {
+            "title": "U.K.'s Johnson Charms Trump, Questions Trade War",
+            "content": "Boris Johnson has peppered Trump with calls as he seeks to shore up Britain’s ties with the U.S. On Sunday, he was rewarded with warm words and the promise of a quick trade deal with the U.S.",
+            "station": "Wallstreet Journal",
+            "channel": "World News",
+            "date": "2019-08-25T11:12:00.000Z",
+            "link": "https://www.wsj.com/articles/u-k-s-johnson-charms-trump-questions-trade-war-11566731532"
+         },
+         {
+            "title": "Netanyahu Reaches for the Russian Vote",
+            "content": "For years, Israeli Prime Minister Benjamin Netanyahu has largely ceded efforts to woo Russian-speaking immigrants to a rival who had helped him form coalition governments. Now, he sees Russian speakers as a key to his political survival.",
+            "station": "Wallstreet Journal",
+            "channel": "World News",
+            "date": "2019-08-25T10:00:00.000Z",
+            "link": "https://www.wsj.com/articles/netanyahu-reaches-for-the-russian-vote-11566727252"
          },
          {
             "title": "Arun Jaitley, a Confidant of India's Modi, Dies at 66",
@@ -262,52 +294,28 @@
             "channel": "World News",
             "date": "2019-08-24T12:26:00.000Z",
             "link": "https://www.wsj.com/articles/arun-jaitley-a-confidant-of-indian-leader-narendra-modi-dies-at-66-11566649600"
-         },
-         {
-            "title": "As Hong Kong Protesters Wave the Stars and Stripes, Some See Grist for Chinese Propaganda",
-            "content": "Some Hong Kong protesters are waving the American flag at rallies, hoping to rally U.S. support for their cause, but others worry such displays will bolster Beijing’s attempts to blame unrest on foreign instigators.",
-            "station": "Wallstreet Journal",
-            "channel": "World News",
-            "date": "2019-08-24T12:00:00.000Z",
-            "link": "https://www.wsj.com/articles/as-hong-kong-protesters-wave-the-stars-and-stripes-some-see-grist-for-chinese-propaganda-11566648002"
-         },
-         {
-            "title": "Hong Kong Erupts in Fresh Violence as Protesters, Police Brawl",
-            "content": "Protesters in helmets and gas masks clashed with riot police as the city’s pro-democracy movement took a confrontational turn after nearly two weeks of relatively peaceful turnouts.",
-            "station": "Wallstreet Journal",
-            "channel": "World News",
-            "date": "2019-08-24T11:28:00.000Z",
-            "link": "https://www.wsj.com/articles/violence-erupts-as-hong-kong-protesters-and-riot-police-resume-hostilities-11566638414"
-         },
-         {
-            "title": "India Leaves Risky Political Vacuum in Kashmir",
-            "content": "India’s decision to sideline Kashmiri political leaders as it enforces a military lockdown has left many locals wondering how their Muslim-majority state will mesh with an increasingly Hindu-dominant India.",
-            "station": "Wallstreet Journal",
-            "channel": "World News",
-            "date": "2019-08-23T22:47:00.000Z",
-            "link": "https://www.wsj.com/articles/india-leaves-risky-political-vacuum-in-kashmir-11566600436"
-         },
-         {
-            "title": "Trump Lashes Out at China, Sending Markets Falling",
-            "content": "President Trump said he ordered U.S. companies doing business in China to explore relocating their operations and stiffened tariffs on Chinese imports after Beijing unveiled its own new tariffs on U.S. goods, the latest twists in a trade war that showed anew its potency to rattle investors, confound central bankers and cloud the global economy.",
-            "station": "Wallstreet Journal",
-            "channel": "World News",
-            "date": "2019-08-23T22:06:00.000Z",
-            "link": "https://www.wsj.com/articles/trump-orders-u-s-businesses-to-find-alternative-to-china-11566585967"
-         },
-         {
-            "title": "U.S. Aims to Block Sale of Ukraine's Aerospace Company to China",
-            "content": "U.S. national-security adviser John Bolton is seeking to scuttle the pending Chinese purchase of a Ukrainian aerospace company on grounds that it will give Beijing vital defense technology, according to senior U.S. administration officials familiar with the matter.",
-            "station": "Wallstreet Journal",
-            "channel": "World News",
-            "date": "2019-08-23T21:08:00.000Z",
-            "link": "https://www.wsj.com/articles/u-s-aims-to-block-chinese-acquisition-of-ukrainian-aerospace-company-11566594485"
          }
       ]
    },
    {
       "name": "U.S. News",
       "articles": [
+         {
+            "title": "Disney Enlists Superfans as It Prepares to Face Off Against Netflix",
+            "content": "Disney’s high-profile attempt to compete in streaming was center stage at D23, where a slew of new shows and movies for Disney+ was announced and fans were offered a three-year deal for the service at a deep discount.",
+            "station": "Wallstreet Journal",
+            "channel": "US Business",
+            "date": "2019-08-24T23:10:00.000Z",
+            "link": "https://www.wsj.com/articles/disney-enlists-superfans-as-it-prepares-face-off-against-netflix-11566684216?mod=pls_whats_news_us_business_f"
+         },
+         {
+            "title": "New Details Emerge Over Mallinckrodt's Role in Opioid Crisis",
+            "content": "More details and questions about Mallinckrodt’s role in the opioid crisis are emerging, including whether it effectively guarded against products leaving legal distribution channels.",
+            "station": "Wallstreet Journal",
+            "channel": "US Business",
+            "date": "2019-08-25T12:00:00.000Z",
+            "link": "https://www.wsj.com/articles/new-details-emerge-over-mallinckrodts-role-in-opioid-crisis-11566734401?mod=pls_whats_news_us_business_f"
+         },
          {
             "title": "Google Curbs Political Debate by Employees",
             "content": "Google tightened its guidelines on how employees communicate about politics and topics not related to work, in a major shift for a company that has long prided itself on open debate.",
@@ -317,20 +325,12 @@
             "link": "https://www.wsj.com/articles/google-puts-curbs-on-political-debate-by-employees-11566576970?mod=pls_whats_news_us_business_f"
          },
          {
-            "title": "U.S. Appeals Court Freezes Antitrust Ruling Against Qualcomm",
-            "content": "A federal appeals court halted for now a ruling that found Qualcomm committed an array of antitrust violations, a boost for the chip maker that allows it to maintain its business practices for the near future.",
+            "title": "The New Pay Gap: What Firms Report Paying CEOs Versus What They Take Home",
+            "content": "Big companies tend to pay their chief executives big bucks. Less widely known: Many of those CEOs wind up receiving much more, often well after the compensation is initially disclosed.",
             "station": "Wallstreet Journal",
             "channel": "US Business",
-            "date": "2019-08-23T18:50:00.000Z",
-            "link": "https://www.wsj.com/articles/u-s-appeals-court-postpones-antitrust-ruling-against-qualcomm-11566574029?mod=pls_whats_news_us_business_f"
-         },
-         {
-            "title": "Disney Enlists Superfans as It Prepares to Face Off Against Netflix",
-            "content": "Disney’s high-profile attempt to compete in streaming was center stage at D23, where a slew of new shows and movies for Disney+ was announced and fans were offered a three-year deal for the service at a deep discount.",
-            "station": "Wallstreet Journal",
-            "channel": "US Business",
-            "date": "2019-08-24T23:10:00.000Z",
-            "link": "https://www.wsj.com/articles/disney-enlists-superfans-as-it-prepares-face-off-against-netflix-11566684216?mod=pls_whats_news_us_business_f"
+            "date": "2019-08-25T10:00:00.000Z",
+            "link": "https://www.wsj.com/articles/the-new-pay-gap-what-firms-report-paying-ceos-versus-what-they-take-home-11566727200?mod=pls_whats_news_us_business_f"
          },
          {
             "title": "Amazon Has Ceded Control of Its Site. The Result: Thousands of Banned, Unsafe or Mislabeled Products",
@@ -341,12 +341,12 @@
             "link": "https://www.wsj.com/articles/amazon-has-ceded-control-of-its-site-the-result-thousands-of-banned-unsafe-or-mislabeled-products-11566564990?mod=pls_whats_news_us_business_f"
          },
          {
-            "title": "The Atlantic, Propped Up by Laurene Powell Jobs, Charts New Course",
-            "content": "The Atlantic magazine, which has beefed up its staff and expanded its coverage in the past 18 months, faces a test when it launches a new paywall strategy sometime after Labor Day.",
+            "title": "Latin America Hangs On to Its Economic Gloom",
+            "content": "The old joke about Brazil is that the South American giant is the country of the future and always will be, but the same might be said for Latin America as a whole.",
             "station": "Wallstreet Journal",
             "channel": "US Business",
-            "date": "2019-08-24T19:58:00.000Z",
-            "link": "https://www.wsj.com/articles/the-atlantic-propped-up-by-steve-jobss-widow-charts-new-course-11566651600?mod=pls_whats_news_us_business_f"
+            "date": "2019-08-25T13:00:00.000Z",
+            "link": "https://www.wsj.com/articles/latin-america-hangs-on-to-its-economic-gloom-11566738002?mod=pls_whats_news_us_business_f"
          },
          {
             "title": "BOE's Carney Says Trade War Imperils Global Growth",
@@ -381,12 +381,12 @@
             "link": "https://www.wsj.com/articles/china-to-impose-tariffs-on-more-u-s-products-11566562931?mod=pls_whats_news_us_business_f"
          },
          {
-            "title": "Divided G-7 Leaders Headed for Clashes at Tense Summit",
-            "content": "Once a showcase for international cooperation, Group of Seven summits have turned into minefields of geopolitical discord—and this year’s gathering promises another feast of high-level squabbling.",
+            "title": "The Atlantic, Propped Up by Laurene Powell Jobs, Charts New Course",
+            "content": "The Atlantic magazine, which has beefed up its staff and expanded its coverage in the past 18 months, faces a test when it launches a new paywall strategy sometime after Labor Day.",
             "station": "Wallstreet Journal",
             "channel": "US Business",
-            "date": "2019-08-23T16:48:00.000Z",
-            "link": "https://www.wsj.com/articles/g-7-leaders-likely-to-clash-at-french-summit-11566552601?mod=pls_whats_news_us_business_f"
+            "date": "2019-08-24T19:58:00.000Z",
+            "link": "https://www.wsj.com/articles/the-atlantic-propped-up-by-steve-jobss-widow-charts-new-course-11566651600?mod=pls_whats_news_us_business_f"
          },
          {
             "title": "Taylor Swift to Streaming Services: Look What You Made Me Do",
@@ -405,12 +405,12 @@
             "link": "https://www.wsj.com/articles/sinclair-eyes-more-regional-sports-networks-as-disney-deal-closes-11566583416?mod=pls_whats_news_us_business_f"
          },
          {
-            "title": "Book Publishers Sue Amazon's Audible to Block Coming Audiobook Captioning Service",
-            "content": "Seven U.S. publishers have filed a lawsuit against Audible, Amazon.com’s audiobook subscription service, alleging its plan to offer real-time captioning of some audiobook titles violates copyright law.",
+            "title": "Cities Are Saying 'No' to 5G, Citing Health, Aesthetics---and FCC Bullying",
+            "content": "Many U.S. municipalities are trying to bar new 5G cell sites from residential areas—in many cases citing health worries unsupported by scientific evidence—and causing clashes with telecoms and federal authorities.",
             "station": "Wallstreet Journal",
             "channel": "US Business",
-            "date": "2019-08-23T21:57:00.000Z",
-            "link": "https://www.wsj.com/articles/book-publishers-sue-amazons-audible-to-block-coming-audiobook-captioning-service-11566594386?mod=pls_whats_news_us_business_f"
+            "date": "2019-08-24T04:03:00.000Z",
+            "link": "https://www.wsj.com/articles/cities-are-saying-no-to-5g-citing-health-aestheticsand-fcc-bullying-11566619391?mod=pls_whats_news_us_business_f"
          },
          {
             "title": "Billionaire David Koch, Who Used His Wealth to Reshape U.S. Politics, Dies at 79",
@@ -427,14 +427,6 @@
             "channel": "US Business",
             "date": "2019-08-23T21:17:00.000Z",
             "link": "https://www.wsj.com/articles/free-podcasts-are-good-for-me-but-bad-for-business-11566572581?mod=pls_whats_news_us_business_f"
-         },
-         {
-            "title": "Huawei Launches AI Chip in Push to Unseat U.S. Makers",
-            "content": "Huawei trumpeted its first high-end artificial-intelligence processor, the Chinese telecom giant’s latest attempt to challenge Silicon Valley in advanced technology.",
-            "station": "Wallstreet Journal",
-            "channel": "US Business",
-            "date": "2019-08-23T10:40:00.000Z",
-            "link": "https://www.wsj.com/articles/huawei-launches-ai-chip-in-push-to-unseat-u-s-makers-11566556836?mod=pls_whats_news_us_business_f"
          }
       ]
    },
@@ -812,6 +804,62 @@
       "name": "Markets",
       "articles": [
          {
+            "title": "The Bond Market Is Wrong. Inflation Will Return, Someday.",
+            "content": "To believe inflation will stay very low for a very long time requires believing both that central banks are running on empty and that governments won’t offer fiscal help to counter a downturn. The first has a kernel of truth, but central bankers are not entirely out of gas.",
+            "station": "Wallstreet Journal",
+            "channel": "Market News",
+            "date": "2019-08-25T14:00:00.000Z",
+            "link": "https://www.wsj.com/articles/the-bond-market-is-wrong-inflation-will-return-someday-11566741601"
+         },
+         {
+            "title": "Latest Stock Volatility Adds to August Turbulence",
+            "content": "Stocks enter the final week of the month coming off one of their rockiest stretches of 2019, the latest example of tariff-induced volatility that has some investors bracing for more fluctuation.",
+            "station": "Wallstreet Journal",
+            "channel": "Market News",
+            "date": "2019-08-25T13:00:00.000Z",
+            "link": "https://www.wsj.com/articles/latest-round-of-stock-volatility-adds-to-august-turbulence-11566738001"
+         },
+         {
+            "title": "Electric Vehicle Shift Will Keep a Lid on Oil Prices",
+            "content": "The world may be moving away from gas guzzlers quicker than planned. Oil prognosticators should take note.",
+            "station": "Wallstreet Journal",
+            "channel": "Market News",
+            "date": "2019-08-25T12:00:00.000Z",
+            "link": "https://www.wsj.com/articles/electric-vehicle-shift-will-keep-a-lid-on-oil-prices-11566734402"
+         },
+         {
+            "title": "Diverging Paths of Stocks and Data Vex Investors",
+            "content": "Investors say they are finding it increasingly difficult to reconcile the sustained rise in share prices with widening cracks in the U.S. economy.",
+            "station": "Wallstreet Journal",
+            "channel": "Market News",
+            "date": "2019-08-25T12:00:00.000Z",
+            "link": "https://www.wsj.com/articles/diverging-paths-of-stocks-and-data-vex-investors-11566734400"
+         },
+         {
+            "title": "China's Central Bank Unveils New Mortgage Loan Policy",
+            "content": "China’s central bank adjusted interest-rate mechanisms Sunday for the second time this month, this time focused on mortgage loans, in what it said was a bid to price them closer to market rates but also in ways that might avoid further inflating property prices.",
+            "station": "Wallstreet Journal",
+            "channel": "Market News",
+            "date": "2019-08-25T11:37:00.000Z",
+            "link": "https://www.wsj.com/articles/chinas-central-bank-unveils-new-mortgage-loan-policy-11566733037"
+         },
+         {
+            "title": "Deutsche Bank and UBS Explored European Banking Alliance",
+            "content": "Deutsche Bank and UBS had talks as recently as mid-June to form an unusual alliance of investment-banking operations, according to people familiar with the discussions.",
+            "station": "Wallstreet Journal",
+            "channel": "Market News",
+            "date": "2019-08-25T09:30:00.000Z",
+            "link": "https://www.wsj.com/articles/deutsche-bank-and-ubs-explored-european-banking-alliance-11566725401"
+         },
+         {
+            "title": "Hedge Funds Wager China's HNA Will Look After Foreign Investors",
+            "content": "Hedge funds have made quick profits on debt tied to HNA Group, even as the airlines-to-hotels conglomerate has scaled back internationally and fallen behind on other obligations.",
+            "station": "Wallstreet Journal",
+            "channel": "Market News",
+            "date": "2019-08-25T09:30:00.000Z",
+            "link": "https://www.wsj.com/articles/hedge-funds-wager-chinas-hna-will-look-after-foreign-investors-11566725401"
+         },
+         {
             "title": "Your Next Home Might Be Appraised by a Robot",
             "content": "Federal regulators are moving to allow a majority of U.S. homes to be bought and sold without the involvement of licensed appraisers.",
             "station": "Wallstreet Journal",
@@ -914,62 +962,6 @@
             "channel": "Market News",
             "date": "2019-08-23T14:39:00.000Z",
             "link": "https://www.wsj.com/articles/the-apple-card-leave-home-without-it-11566571158"
-         },
-         {
-            "title": "Beyond Meat Investors Will Choke on Their Optimism",
-            "content": "Investors in the maker of pea-based burgers will almost certainly be disappointed, due to absurd growth expectations that ignore the realities of an economic downturn.",
-            "station": "Wallstreet Journal",
-            "channel": "Market News",
-            "date": "2019-08-23T14:02:00.000Z",
-            "link": "https://www.wsj.com/articles/beyond-meat-investors-will-choke-on-their-optimism-11566568701"
-         },
-         {
-            "title": "Stocks to Watch: Foot Locker, Buckle, Gap, and HP",
-            "content": "Foot Locker, Buckle, Hibbett Sports, HP and Gap are among Friday’s stocks to watch.",
-            "station": "Wallstreet Journal",
-            "channel": "Market News",
-            "date": "2019-08-23T13:17:00.000Z",
-            "link": "https://www.wsj.com/articles/stocks-to-watch-salesforce-intuit-vmware-gap-and-hp-11566556398"
-         },
-         {
-            "title": "Financial Advisers Now Help With College Plans, Family Counseling, Cremains",
-            "content": "As the price of investing hurtles to zero, some traditional financial advisers are taking new side gigs in a bid to justify their fees",
-            "station": "Wallstreet Journal",
-            "channel": "Market News",
-            "date": "2019-08-23T11:00:00.000Z",
-            "link": "https://www.wsj.com/articles/financial-advisers-now-help-with-college-plans-family-counseling-cremains-11566558002"
-         },
-         {
-            "title": "Some Coca-Cola Stocks Fizz More Than Others",
-            "content": "Coca-Cola is supposed to have the same flavor everywhere, but that’s not the case for Coca-Cola stocks. Some of the soda giant’s bottling partners offer fizzier growth than others.",
-            "station": "Wallstreet Journal",
-            "channel": "Market News",
-            "date": "2019-08-23T10:22:00.000Z",
-            "link": "https://www.wsj.com/articles/some-coca-cola-stocks-fizz-more-than-others-11566555754"
-         },
-         {
-            "title": "Hunter Harrison's Train Overhaul Starts Running Out of Steam",
-            "content": "Precision-scheduled railroading, the industrywide system to boost efficiency pioneered by the late Hunter Harrison, led to widespread improvements in recent years. But the momentum from that shift is now fading.",
-            "station": "Wallstreet Journal",
-            "channel": "Market News",
-            "date": "2019-08-23T09:30:00.000Z",
-            "link": "https://www.wsj.com/articles/hunter-harrisons-train-overhaul-starts-running-out-of-steam-11566552603"
-         },
-         {
-            "title": "UBS Clients Lost Millions on Options Sold as Low Risk",
-            "content": "A complex investment strategy pitched as low-risk by stockbrokers at UBS has triggered a backlash from clients of its securities unit.",
-            "station": "Wallstreet Journal",
-            "channel": "Market News",
-            "date": "2019-08-23T09:30:00.000Z",
-            "link": "https://www.wsj.com/articles/ubs-faces-client-backlash-over-options-strategy-11566552600"
-         },
-         {
-            "title": "Can Japan Show the World How to Avoid Trump's Trade Hammer?",
-            "content": "Japan’s approach to trade talks with the U.S. relies on speed, a limited scope and a lot of flattery.",
-            "station": "Wallstreet Journal",
-            "channel": "Market News",
-            "date": "2019-08-23T09:19:00.000Z",
-            "link": "https://www.wsj.com/articles/can-japan-show-the-world-how-to-avoid-trumps-trade-hammer-11566551787"
          }
       ]
    },
@@ -1270,6 +1262,14 @@
             "link": "https://www.wsj.com/articles/huawei-launches-ai-chip-in-push-to-unseat-u-s-makers-11566556836?mod=rss_Technology"
          },
          {
+            "title": "Cities Are Saying 'No' to 5G, Citing Health, Aesthetics---and FCC Bullying",
+            "content": "Many U.S. municipalities are trying to bar new 5G cell sites from residential areas—in many cases citing health worries unsupported by scientific evidence—and causing clashes with telecoms and federal authorities.",
+            "station": "Wallstreet Journal",
+            "channel": "Technology: What's News",
+            "date": "2019-08-24T04:03:00.000Z",
+            "link": "https://www.wsj.com/articles/cities-are-saying-no-to-5g-citing-health-aestheticsand-fcc-bullying-11566619391?mod=rss_Technology"
+         },
+         {
             "title": "Amazon Deal Opens Door to Bigger Footprint in India",
             "content": "Amazon has signed an agreement that would give it the option to take a significant stake in one of India’s largest retailers.",
             "station": "Wallstreet Journal",
@@ -1331,6 +1331,22 @@
       "name": "Business",
       "articles": [
          {
+            "title": "Disney Enlists Superfans as It Prepares to Face Off Against Netflix",
+            "content": "Disney’s high-profile attempt to compete in streaming was center stage at D23, where a slew of new shows and movies for Disney+ was announced and fans were offered a three-year deal for the service at a deep discount.",
+            "station": "Wallstreet Journal",
+            "channel": "US Business",
+            "date": "2019-08-24T23:10:00.000Z",
+            "link": "https://www.wsj.com/articles/disney-enlists-superfans-as-it-prepares-face-off-against-netflix-11566684216?mod=pls_whats_news_us_business_f"
+         },
+         {
+            "title": "New Details Emerge Over Mallinckrodt's Role in Opioid Crisis",
+            "content": "More details and questions about Mallinckrodt’s role in the opioid crisis are emerging, including whether it effectively guarded against products leaving legal distribution channels.",
+            "station": "Wallstreet Journal",
+            "channel": "US Business",
+            "date": "2019-08-25T12:00:00.000Z",
+            "link": "https://www.wsj.com/articles/new-details-emerge-over-mallinckrodts-role-in-opioid-crisis-11566734401?mod=pls_whats_news_us_business_f"
+         },
+         {
             "title": "Google Curbs Political Debate by Employees",
             "content": "Google tightened its guidelines on how employees communicate about politics and topics not related to work, in a major shift for a company that has long prided itself on open debate.",
             "station": "Wallstreet Journal",
@@ -1339,20 +1355,12 @@
             "link": "https://www.wsj.com/articles/google-puts-curbs-on-political-debate-by-employees-11566576970?mod=pls_whats_news_us_business_f"
          },
          {
-            "title": "U.S. Appeals Court Freezes Antitrust Ruling Against Qualcomm",
-            "content": "A federal appeals court halted for now a ruling that found Qualcomm committed an array of antitrust violations, a boost for the chip maker that allows it to maintain its business practices for the near future.",
+            "title": "The New Pay Gap: What Firms Report Paying CEOs Versus What They Take Home",
+            "content": "Big companies tend to pay their chief executives big bucks. Less widely known: Many of those CEOs wind up receiving much more, often well after the compensation is initially disclosed.",
             "station": "Wallstreet Journal",
             "channel": "US Business",
-            "date": "2019-08-23T18:50:00.000Z",
-            "link": "https://www.wsj.com/articles/u-s-appeals-court-postpones-antitrust-ruling-against-qualcomm-11566574029?mod=pls_whats_news_us_business_f"
-         },
-         {
-            "title": "Disney Enlists Superfans as It Prepares to Face Off Against Netflix",
-            "content": "Disney’s high-profile attempt to compete in streaming was center stage at D23, where a slew of new shows and movies for Disney+ was announced and fans were offered a three-year deal for the service at a deep discount.",
-            "station": "Wallstreet Journal",
-            "channel": "US Business",
-            "date": "2019-08-24T23:10:00.000Z",
-            "link": "https://www.wsj.com/articles/disney-enlists-superfans-as-it-prepares-face-off-against-netflix-11566684216?mod=pls_whats_news_us_business_f"
+            "date": "2019-08-25T10:00:00.000Z",
+            "link": "https://www.wsj.com/articles/the-new-pay-gap-what-firms-report-paying-ceos-versus-what-they-take-home-11566727200?mod=pls_whats_news_us_business_f"
          },
          {
             "title": "Amazon Has Ceded Control of Its Site. The Result: Thousands of Banned, Unsafe or Mislabeled Products",
@@ -1363,12 +1371,12 @@
             "link": "https://www.wsj.com/articles/amazon-has-ceded-control-of-its-site-the-result-thousands-of-banned-unsafe-or-mislabeled-products-11566564990?mod=pls_whats_news_us_business_f"
          },
          {
-            "title": "The Atlantic, Propped Up by Laurene Powell Jobs, Charts New Course",
-            "content": "The Atlantic magazine, which has beefed up its staff and expanded its coverage in the past 18 months, faces a test when it launches a new paywall strategy sometime after Labor Day.",
+            "title": "Latin America Hangs On to Its Economic Gloom",
+            "content": "The old joke about Brazil is that the South American giant is the country of the future and always will be, but the same might be said for Latin America as a whole.",
             "station": "Wallstreet Journal",
             "channel": "US Business",
-            "date": "2019-08-24T19:58:00.000Z",
-            "link": "https://www.wsj.com/articles/the-atlantic-propped-up-by-steve-jobss-widow-charts-new-course-11566651600?mod=pls_whats_news_us_business_f"
+            "date": "2019-08-25T13:00:00.000Z",
+            "link": "https://www.wsj.com/articles/latin-america-hangs-on-to-its-economic-gloom-11566738002?mod=pls_whats_news_us_business_f"
          },
          {
             "title": "BOE's Carney Says Trade War Imperils Global Growth",
@@ -1403,12 +1411,12 @@
             "link": "https://www.wsj.com/articles/china-to-impose-tariffs-on-more-u-s-products-11566562931?mod=pls_whats_news_us_business_f"
          },
          {
-            "title": "Divided G-7 Leaders Headed for Clashes at Tense Summit",
-            "content": "Once a showcase for international cooperation, Group of Seven summits have turned into minefields of geopolitical discord—and this year’s gathering promises another feast of high-level squabbling.",
+            "title": "The Atlantic, Propped Up by Laurene Powell Jobs, Charts New Course",
+            "content": "The Atlantic magazine, which has beefed up its staff and expanded its coverage in the past 18 months, faces a test when it launches a new paywall strategy sometime after Labor Day.",
             "station": "Wallstreet Journal",
             "channel": "US Business",
-            "date": "2019-08-23T16:48:00.000Z",
-            "link": "https://www.wsj.com/articles/g-7-leaders-likely-to-clash-at-french-summit-11566552601?mod=pls_whats_news_us_business_f"
+            "date": "2019-08-24T19:58:00.000Z",
+            "link": "https://www.wsj.com/articles/the-atlantic-propped-up-by-steve-jobss-widow-charts-new-course-11566651600?mod=pls_whats_news_us_business_f"
          },
          {
             "title": "Taylor Swift to Streaming Services: Look What You Made Me Do",
@@ -1427,12 +1435,12 @@
             "link": "https://www.wsj.com/articles/sinclair-eyes-more-regional-sports-networks-as-disney-deal-closes-11566583416?mod=pls_whats_news_us_business_f"
          },
          {
-            "title": "Book Publishers Sue Amazon's Audible to Block Coming Audiobook Captioning Service",
-            "content": "Seven U.S. publishers have filed a lawsuit against Audible, Amazon.com’s audiobook subscription service, alleging its plan to offer real-time captioning of some audiobook titles violates copyright law.",
+            "title": "Cities Are Saying 'No' to 5G, Citing Health, Aesthetics---and FCC Bullying",
+            "content": "Many U.S. municipalities are trying to bar new 5G cell sites from residential areas—in many cases citing health worries unsupported by scientific evidence—and causing clashes with telecoms and federal authorities.",
             "station": "Wallstreet Journal",
             "channel": "US Business",
-            "date": "2019-08-23T21:57:00.000Z",
-            "link": "https://www.wsj.com/articles/book-publishers-sue-amazons-audible-to-block-coming-audiobook-captioning-service-11566594386?mod=pls_whats_news_us_business_f"
+            "date": "2019-08-24T04:03:00.000Z",
+            "link": "https://www.wsj.com/articles/cities-are-saying-no-to-5g-citing-health-aestheticsand-fcc-bullying-11566619391?mod=pls_whats_news_us_business_f"
          },
          {
             "title": "Billionaire David Koch, Who Used His Wealth to Reshape U.S. Politics, Dies at 79",
@@ -1449,14 +1457,6 @@
             "channel": "US Business",
             "date": "2019-08-23T21:17:00.000Z",
             "link": "https://www.wsj.com/articles/free-podcasts-are-good-for-me-but-bad-for-business-11566572581?mod=pls_whats_news_us_business_f"
-         },
-         {
-            "title": "Huawei Launches AI Chip in Push to Unseat U.S. Makers",
-            "content": "Huawei trumpeted its first high-end artificial-intelligence processor, the Chinese telecom giant’s latest attempt to challenge Silicon Valley in advanced technology.",
-            "station": "Wallstreet Journal",
-            "channel": "US Business",
-            "date": "2019-08-23T10:40:00.000Z",
-            "link": "https://www.wsj.com/articles/huawei-launches-ai-chip-in-push-to-unseat-u-s-makers-11566556836?mod=pls_whats_news_us_business_f"
          }
       ]
    },
