@@ -26,7 +26,7 @@ export class FeedSearcher {
         const f = feeds.find(
           (fe: Feed) => fe.name.toLowerCase() === options.name.toLowerCase()
         );
-        const feed = new Feed();
+        let feed = new Feed();
         feed.name = options.name;
         console.log(options);
         if (f !== undefined) {
@@ -72,12 +72,20 @@ export class FeedSearcher {
               });
               valid = v;
             }
-            if (valid && feed.articles.length < options.resultLimit) {
+            if (valid) {
               feed.articles.push(a);
             }
           });
         }
-        resolve(this.sortFeedByDate(feed));
+
+        // Sort the Articles by Date
+        feed = this.sortFeedByDate(feed);
+
+        // Check if exceeded our result limit
+        if (feed.articles.length > options.resultLimit) {
+          feed.articles = feed.articles.splice(0, options.resultLimit);
+        }
+        resolve(feed);
       });
     });
   };

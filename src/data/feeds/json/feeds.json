@@ -230,6 +230,23 @@
           "channelName": "Futures"
         }
       ]
+    },
+    {
+      "name": "Opinion",
+      "channels": [
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Investing Ideas"
+        },
+        {
+          "stationName": "Business Insider",
+          "channelName": "Analyst Opinions"
+        },
+        {
+          "stationName": "Wallstreet Journal",
+          "channelName": "Opinion"
+        }
+      ]
     }
   ]
 }
