@@ -1,233 +1,235 @@
-[
-  {
-    "name": "Top News",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "Top News"
-      }
-    ]
-  },
-  {
-    "name": "World News",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "World News"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "International"
-      },
-      {
-        "stationName": "Wallstreet Journal",
-        "channelName": "World News"
-      }
-    ]
-  },
-  {
-    "name": "U.S. News",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "US News"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "US Markets"
-      },
-      {
-        "stationName": "Wallstreet Journal",
-        "channelName": "US Business"
-      }
-    ]
-  },
-  {
-    "name": "Economy",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "Economy"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Economy"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Taxes"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Credit and Debt"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Banking and Loans"
-      }
-    ]
-  },
-  {
-    "name": "Politics",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "Politics"
-      }
-    ]
-  },
-  {
-    "name": "Markets",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "Market Insider"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Trader Talk"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Options Action"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Stocks"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Options"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "US Markets"
-      },
-      {
-        "stationName": "Wallstreet Journal",
-        "channelName": "Market News"
-      }
-    ]
-  },
-  {
-    "name": "Financial",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "Finance"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Wealth"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Personal Finance"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Financial Advisors"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Small Business"
-      }
-    ]
-  },
-  {
-    "name": "Technology",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "Technology"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Technology"
-      },
-      {
-        "stationName": "Wallstreet Journal",
-        "channelName": "Technology: What's News"
-      }
-    ]
-  },
-  {
-    "name": "Business",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "Business"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Small Business"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Business"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Small Business"
-      },
-      {
-        "stationName": "Wallstreet Journal",
-        "channelName": "US Business"
-      }
-    ]
-  },
-  {
-    "name": "Industry Sectors",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "Healthcare"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Real Estate"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Autos"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Retail"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Energy"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Media"
-      },
-      {
-        "stationName": "CNBC",
-        "channelName": "Travel"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Real Estate"
-      }
-    ]
-  },
-  {
-    "name": "ETF & Futures",
-    "channels": [
-      {
-        "stationName": "CNBC",
-        "channelName": "Futures Now"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "ETFs"
-      },
-      {
-        "stationName": "Nasdaq",
-        "channelName": "Futures"
-      }
-    ]
-  }
-]
+{
+  "feeds": [
+    {
+      "name": "Top News",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "Top News"
+        }
+      ]
+    },
+    {
+      "name": "World News",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "World News"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "International"
+        },
+        {
+          "stationName": "Wallstreet Journal",
+          "channelName": "World News"
+        }
+      ]
+    },
+    {
+      "name": "U.S. News",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "US News"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "US Markets"
+        },
+        {
+          "stationName": "Wallstreet Journal",
+          "channelName": "US Business"
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "Economy"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Economy"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Taxes"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Credit and Debt"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Banking and Loans"
+        }
+      ]
+    },
+    {
+      "name": "Politics",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "Politics"
+        }
+      ]
+    },
+    {
+      "name": "Markets",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "Market Insider"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Trader Talk"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Options Action"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Stocks"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Options"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "US Markets"
+        },
+        {
+          "stationName": "Wallstreet Journal",
+          "channelName": "Market News"
+        }
+      ]
+    },
+    {
+      "name": "Financial",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "Finance"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Wealth"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Personal Finance"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Financial Advisors"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Small Business"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "Technology"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Technology"
+        },
+        {
+          "stationName": "Wallstreet Journal",
+          "channelName": "Technology: What's News"
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "Business"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Small Business"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Business"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Small Business"
+        },
+        {
+          "stationName": "Wallstreet Journal",
+          "channelName": "US Business"
+        }
+      ]
+    },
+    {
+      "name": "Industry Sectors",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "Healthcare"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Real Estate"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Autos"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Retail"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Energy"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Media"
+        },
+        {
+          "stationName": "CNBC",
+          "channelName": "Travel"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Real Estate"
+        }
+      ]
+    },
+    {
+      "name": "ETF & Futures",
+      "channels": [
+        {
+          "stationName": "CNBC",
+          "channelName": "Futures Now"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "ETFs"
+        },
+        {
+          "stationName": "Nasdaq",
+          "channelName": "Futures"
+        }
+      ]
+    }
+  ]
+}

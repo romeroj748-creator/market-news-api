@@ -1,9 +1,9 @@
 import { Article } from "./../../models/article/article.model";
-import { Station } from "src/models/station/station.model";
 import { Feed } from "./../../models/feed/feed.model";
+import { Station } from "./../../models/station/station.model";
 import { FileReader } from "./../../tools/filereader";
 import { FileWriter } from "./../../tools/filewriter";
-import FeedsJson from "./json/feeds.json";
+import * as FeedsJson from "./json/feeds.json";
 
 export class FeedReader {
   private fileReader: FileReader;
@@ -21,11 +21,12 @@ export class FeedReader {
       .then((stations: Array<Station>) => {
         // Iterate Through each feed in FeedsJson
         const feeds: Array<Feed> = [];
-        FeedsJson.forEach(f => {
+        FeedsJson.feeds.forEach(f => {
           const feed = new Feed({
             name: f.name
           });
-          // Preform a lookup on Stations based on search critera
+
+          // Add all articles in this feed
           f.channels.forEach(c => {
             const station = stations.find(s => s.name === c.stationName);
             if (station !== undefined) {
@@ -33,8 +34,8 @@ export class FeedReader {
                 ch => ch.name === c.channelName
               );
               if (channel !== undefined) {
-                feed.articles = channel.articles.map(a => {
-                  return new Article(a);
+                channel.articles.forEach(a => {
+                  feed.articles.push(a);
                 });
               }
             }
