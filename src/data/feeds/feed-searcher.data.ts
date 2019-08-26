@@ -77,8 +77,23 @@ export class FeedSearcher {
             }
           });
         }
-        resolve(feed);
+        resolve(this.sortFeedByDate(feed));
       });
     });
+  };
+
+  private sortFeedByDate = (feed: Feed): Feed => {
+    feed.articles.sort((a, b) => {
+      if (a.date > b.date) {
+        return -1;
+      }
+      if (a.date < b.date) {
+        return 1;
+      }
+
+      return 0;
+    });
+
+    return feed;
   };
 }
