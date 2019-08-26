@@ -30,7 +30,6 @@ router.post("/read", (req: Request, res: Response) => {
   feedSearcher
     .getFeed(options)
     .then(feed => {
-      console.log(feed);
       res.status(200).send(feed);
     })
     .catch(error => {

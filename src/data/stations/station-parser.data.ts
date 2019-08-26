@@ -13,10 +13,12 @@ export class StationParser {
       // n ^ 2 algorithm
       stations.forEach(s => {
         s.channels.map((c: Channel) => {
-          c.articles.map((a: Article) => {
-            const customHash = a.title;
-            articlesMap.set(customHash, a);
-          });
+          if (c !== undefined && c.articles !== undefined) {
+            c.articles.map((a: Article) => {
+              const customHash = a.title;
+              articlesMap.set(customHash, a);
+            });
+          }
         });
       });
       resolve(articlesMap);
