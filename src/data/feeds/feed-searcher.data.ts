@@ -28,7 +28,6 @@ export class FeedSearcher {
         );
         let feed = new Feed();
         feed.name = options.name;
-        console.log(options);
         if (f !== undefined) {
           f.articles.forEach(a => {
             let valid = true;
