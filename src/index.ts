@@ -1,9 +1,9 @@
 import bodyParser = require("body-parser");
 import express, { NextFunction, Request, Response } from "express";
 import { MarketNewsAPI } from "./api/marketnews.api";
-import { YoutubeParser } from "./data/youtube/youtube-parser.data";
-import { YoutubeScanner } from "./data/youtube/youtube-scanner.data";
+import { YoutubeApi } from "./api/youtube.api";
 const feeds = require("./routes/feeds.route");
+const videos = require("./routes/videos.route");
 
 // Initialize Server
 const server: express.Application = express();
@@ -28,31 +28,16 @@ server.use((req: Request, res: Response, next: NextFunction) => {
 
 // Configure Server Routes
 server.use("/feeds", feeds);
+server.use("/videos", videos);
 
 server.listen(port, () => {
   console.log(`Server listening on port ${port}`);
 });
 
-// const api: MarketNewsAPI = new MarketNewsAPI();
+const api: MarketNewsAPI = new MarketNewsAPI();
 
-// api.autoScan();
+api.autoScan();
 
-const ytApi: YoutubeScanner = new YoutubeScanner();
-const ytParser: YoutubeParser = new YoutubeParser();
+const ytApi: YoutubeApi = new YoutubeApi();
 
-ytApi
-  .scanChannels()
-  .then(channels => {
-    // console.log(channels);
-    ytParser
-      .mergeVideos(channels, 20)
-      .then(videos => {
-        console.log(videos);
-      })
-      .catch(error => {
-        console.log(error);
-      });
-  })
-  .catch(error => {
-    console.error(error);
-  });
+ytApi.autoScan();
