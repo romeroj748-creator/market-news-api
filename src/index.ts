@@ -1,6 +1,7 @@
 import bodyParser = require("body-parser");
 import express, { NextFunction, Request, Response } from "express";
 import { MarketNewsAPI } from "./api/marketnews.api";
+import { YoutubeScanner } from "./data/youtube/youtube-scanner.data";
 const feeds = require("./routes/feeds.route");
 
 // Initialize Server
@@ -31,6 +32,10 @@ server.listen(port, () => {
   console.log(`Server listening on port ${port}`);
 });
 
-const api: MarketNewsAPI = new MarketNewsAPI();
+// const api: MarketNewsAPI = new MarketNewsAPI();
 
-api.autoScan();
+// api.autoScan();
+
+const ytApi: YoutubeScanner = new YoutubeScanner();
+
+ytApi.getChannel();
