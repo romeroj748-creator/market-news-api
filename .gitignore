@@ -1,2 +1,5 @@
 /node_modules
 /src/environments
+/src/data/feeds/feeds.txt
+/src/data/stations/stations.txt
+/src/data/youtube/youtube.txt
