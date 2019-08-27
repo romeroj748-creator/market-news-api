@@ -1,6 +1,7 @@
 import bodyParser = require("body-parser");
 import express, { NextFunction, Request, Response } from "express";
 import { MarketNewsAPI } from "./api/marketnews.api";
+import { YoutubeParser } from "./data/youtube/youtube-parser.data";
 import { YoutubeScanner } from "./data/youtube/youtube-scanner.data";
 const feeds = require("./routes/feeds.route");
 
@@ -37,5 +38,21 @@ server.listen(port, () => {
 // api.autoScan();
 
 const ytApi: YoutubeScanner = new YoutubeScanner();
+const ytParser: YoutubeParser = new YoutubeParser();
 
-ytApi.getChannel();
+ytApi
+  .scanChannels()
+  .then(channels => {
+    // console.log(channels);
+    ytParser
+      .mergeVideos(channels, 20)
+      .then(videos => {
+        console.log(videos);
+      })
+      .catch(error => {
+        console.log(error);
+      });
+  })
+  .catch(error => {
+    console.error(error);
+  });

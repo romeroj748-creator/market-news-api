@@ -23,6 +23,7 @@ export class YoutubeParser {
           }
           if (snippet.channelId !== undefined) {
             channel.id = snippet.channelId;
+            video.channelId = snippet.channelId;
           }
           if (snippet.title !== undefined) {
             video.title = snippet.title;
@@ -37,11 +38,43 @@ export class YoutubeParser {
           ) {
             video.thumbnailUrl = snippet.thumbnails.high.url;
           }
+          if (snippet.channelTitle !== undefined) {
+            channel.title = snippet.channelTitle;
+            video.channelTitle = snippet.channelTitle;
+          }
         }
         channel.videos.push(video);
       });
     }
 
     return channel;
+  };
+
+  public mergeVideos = async (
+    channels: Array<YoutubeChannel>,
+    maxVideos: number
+  ): Promise<Array<YoutubeVideo>> => {
+    return new Promise<Array<YoutubeVideo>>((resolve, reject) => {
+      const videos: Array<YoutubeVideo> = [];
+      channels.forEach(c => {
+        c.videos.forEach(v => {
+          videos.push(v);
+        });
+      });
+
+      // Sort the videos by date desc
+      videos.sort((a: YoutubeVideo, b: YoutubeVideo) => {
+        if (a.datePosted > b.datePosted) {
+          return -1;
+        }
+        if (a.datePosted < b.datePosted) {
+          return 1;
+        }
+
+        return 0;
+      });
+
+      resolve(videos.splice(0, maxVideos));
+    });
   };
 }

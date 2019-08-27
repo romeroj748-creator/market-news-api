@@ -17,20 +17,26 @@ export class YoutubeScanner {
 
   /* Channel IDs */
   private cnbcId = "UCrp_UI8XtuYfpiqluWLD7Lw";
+  private bloombergId = "UCIALMKvObZNtJ6AmdCLP7Lg";
 
   constructor() {
     this.youtubeParser = new YoutubeParser();
   }
 
-  public getChannel(): void {
-    // const cnbcUrl = `${this.baseUrl}&channelId=${this.cnbcId}&${this.listRecentVideos}`;
-    // console.log(`Making a request to: ${cnbcUrl}`);
-    this.loadChannel(this.cnbcId).then(channel => {
-      console.log("Finished Loading Channel");
+  public scanChannels = async (): Promise<Array<YoutubeChannel>> => {
+    const channelIds = [this.cnbcId, this.bloombergId];
+    const channelsData = channelIds.map(async (cid: string) => {
+      return this.scanChannel(cid).then(channel => {
+        return channel;
+      });
     });
-  }
 
-  public loadChannel = async (channelId: string): Promise<YoutubeChannel> => {
+    return Promise.all(channelsData).then((channels: Array<YoutubeChannel>) => {
+      return channels;
+    });
+  };
+
+  public scanChannel = async (channelId: string): Promise<YoutubeChannel> => {
     const url = `${this.baseUrl}&channelId=${channelId}&${this.listRecentVideos}`;
 
     return new Promise<YoutubeChannel>((resolve, reject) => {
@@ -43,7 +49,6 @@ export class YoutubeScanner {
 
           response.on("end", () => {
             const ytChannel = this.youtubeParser.parseChannel(JSON.parse(data));
-            console.log(JSON.stringify(ytChannel, null, 3));
             resolve(ytChannel);
           });
         })
