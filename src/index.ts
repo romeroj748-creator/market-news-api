@@ -7,7 +7,7 @@ const videos = require("./routes/videos.route");
 
 // Initialize Server
 const server: express.Application = express();
-const port: number = 3001;
+const port: number = 3000;
 
 // Configure Middleware
 server.use(bodyParser.json({ limit: "1mb" }));
