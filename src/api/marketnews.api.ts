@@ -5,10 +5,12 @@ import { Thread } from "./../tools/thread";
 export class MarketNewsAPI {
   private stationScanner: StationScanner;
   private feedReader: FeedReader;
+  private thread: Thread;
 
   constructor() {
     this.stationScanner = new StationScanner();
     this.feedReader = new FeedReader();
+    this.thread = new Thread();
   }
 
   public autoScan = async (): Promise<void> => {
@@ -18,7 +20,7 @@ export class MarketNewsAPI {
       this.stationScanner.scanForNewArticles();
       // Parse saved data into feeds
       this.createFeeds();
-      await new Thread().sleep(60000);
+      await this.thread.sleep(60000);
     }
   };
 

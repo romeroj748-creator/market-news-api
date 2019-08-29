@@ -19,20 +19,27 @@ export class YoutubeApi {
   }
 
   /* Scans Youtube Channels and writes results to file */
-  public autoScan(): void {
-    console.log("Scanning Youtube");
-    this.youtubeScanner
-      .scanChannels()
-      .then((channels: Array<YoutubeChannel>) => {
-        // merge channels
-        this.youtubeParser
-          .mergeVideos(channels, 10)
-          .then((videos: Array<YoutubeVideo>) => {
-            // write videos to file
-            this.youtubeFile.writeYoutubeVideosToFile(videos);
-          });
-      });
-    // Sleep for 60 seconds
-    this.thread.sleep(60000);
+  public async autoScan(): Promise<void> {
+    while (true) {
+      this.youtubeScanner
+        .scanChannels()
+        .then((channels: Array<YoutubeChannel>) => {
+          // merge channels
+          this.youtubeParser
+            .mergeVideos(channels, 10)
+            .then((videos: Array<YoutubeVideo>) => {
+              // write videos to file
+              this.youtubeFile.writeYoutubeVideosToFile(videos);
+            })
+            .catch(error => {
+              console.error(error);
+            });
+        })
+        .catch(error => {
+          console.error(error);
+        });
+      // Sleep for 600 seconds (10 minutes)
+      await this.thread.sleep(600000);
+    }
   }
 }

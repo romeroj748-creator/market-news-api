@@ -22,8 +22,7 @@ export class StationScanner {
     cnbc,
     wallstreetjournal,
     nasdaq,
-    businessInsider,
-    marketwatch
+    businessInsider
   ];
 
   constructor() {
