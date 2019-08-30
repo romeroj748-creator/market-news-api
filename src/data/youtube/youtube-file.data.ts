@@ -17,11 +17,10 @@ export class YoutubeFile {
     return new Promise<Array<YoutubeVideo>>((resolve, reject) => {
       fs.readFile(this.filePath, async (error: Error | any, data: Buffer) => {
         if (error !== null) {
-          console.log("Error occuring");
+          console.log("Error writing videos to file");
           reject(error);
         }
         const videos: Array<YoutubeVideo> = JSON.parse(data.toString());
-        console.log(videos);
         resolve(videos);
       });
     });
